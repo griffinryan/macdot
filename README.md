@@ -1,4 +1,4 @@
-# This is a Torpoise project.
+# Command-line utility for managing macOS dotfiles.
 ![Torpoise Logo.png](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpoiselogo.png)
 
 ## Project Details:
