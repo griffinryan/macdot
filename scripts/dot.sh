@@ -8,8 +8,9 @@ LIGHTPURPLE='\033[1;35m';   # Light Purple
 LIGHTRED='\033[1;31m';      # Light Red
 
 function dotfileInstall() {
-    cp /usr/local/share/torpdots/dotfiles/* ~/;
-    cp -r /usr/local/share/torpdots/assets/.init ~/.init;
+    cp -r /usr/local/share/torpdots/dotfiles/* ~/;
+    # copy iTerm2 settings
+    cp /usr/local/share/torpdots/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 }
 
 echo;
