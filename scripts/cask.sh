@@ -17,6 +17,8 @@ brew install --cask visual-studio-code
 echo;
 brew install --cask rectangle
 echo;
+brew install --cask zoom
+echo;
 brew cleanup
 echo;
 echo 'Thanks for using!     Enjoy the newly installed software!';

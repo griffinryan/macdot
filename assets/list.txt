@@ -17,9 +17,11 @@ Brew Formulae (in order of installation):
 - httpie                - bat
 - fzf                   - vifm
 - nvim                  - toilet
+- gotop
 
 Brew Casks (in order of installation):
 - xquartz               - google-chrome
 - gimp                  - processing
 - iterm2                - rectangle
 - visual-studio-code    - obs
+- zoom
