@@ -56,7 +56,7 @@ The `apple` function is an automated way of changing macOS System Preferences an
 
     torpdots apple
 
-Finally, `dot` configures dotfiles for inspired coder. This includes configurations for the bash shell, the [iTerm2](https://iterm2.com/) terminal,`git`, `vim`, and much more!
+Finally, `dot` configures dotfiles for inspired coder. This includes configurations for the bash shell, the [iTerm2](https://iterm2.com/) terminal, `git`, `vim`, and much more!
 
     torpdots dot
 
