@@ -1,20 +1,4 @@
-#!/bin/bash
 
-#   Install command-line tools using Homebrew, Torpoise style!
-
-echo;echo
-echo '		Welcome back!		Installing homebrew...'
-echo;echo
-
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-echo
-# Make sure we’re using the latest Homebrew.
-brew update
-# Upgrade any already-installed formulae.
-brew upgrade
-#   doctor that bash
-brew doctor
-echo
 #		homebrew latest bash and set as default shell.
 brew install bash && \
 echo $(brew --prefix)/bin/bash | sudo tee -a /etc/shells && \
