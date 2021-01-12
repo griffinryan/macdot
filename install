@@ -24,9 +24,10 @@ cp -r assets usr/local/share/torpdots && echo "........."
 cp -r dotfiles usr/local/share/torpdots && echo "............"
 
 # Installs torpdots.sh to /usr/local/bin/torpdots as executable
+mkdir /usr/local/bin/torpdots
 cp scripts/torpdots.sh scripts/torpdots && echo "..............."
 chmod a+x scripts/torpdots && echo ".................."
-cp scripts/torpdots usr/local/bin/torpdots && echo ".....................   !" && echo
+cp scripts/torpdots /usr/local/bin/torpdots && echo ".....................   !" && echo
 # End installation process
 echo -e "${BLUE}torpdots${NC} is now installed!"
 echo -e "Use '${BLUE}torpdots${NC} ${YELLOW}help${NC}' for instructions"
