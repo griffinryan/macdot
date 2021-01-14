@@ -19,12 +19,11 @@ echo
 echo -e "Now installing ${BLUE}torpdots${NC}..." && echo
 #   Install EVERYTHING to usr/local/share/torpdots/*
 mkdir /usr/local/share/torpdots && echo "..."
-cp -r scripts usr/local/share/torpdots && echo "......"
-cp -r assets usr/local/share/torpdots && echo "........."
-cp -r dotfiles usr/local/share/torpdots && echo "............"
+cp -r scripts /usr/local/share/torpdots/scripts && echo "......"
+cp -r assets /usr/local/share/torpdots/assets && echo "........."
+cp -r dotfiles /usr/local/share/torpdots/dotfiles && echo "............"
 
 # Installs torpdots.sh to /usr/local/bin/torpdots as executable
-mkdir /usr/local/bin/torpdots
 cp scripts/torpdots.sh scripts/torpdots && echo "..............."
 chmod a+x scripts/torpdots && echo ".................."
 cp scripts/torpdots /usr/local/bin/torpdots && echo ".....................   !" && echo
