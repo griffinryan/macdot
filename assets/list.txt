@@ -1,3 +1,4 @@
+
 Brew Formulae (in order of installation):
 - bash                  - xcode
 - coreutils             - findutils
