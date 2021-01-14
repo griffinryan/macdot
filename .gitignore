@@ -1,6 +1,8 @@
 # Compiled Python files
 *.pyc
 
+torpdots
+
 ### Java ###
 # Compiled class file
 # *.class
