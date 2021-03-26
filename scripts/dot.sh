@@ -10,7 +10,7 @@ LIGHTRED='\033[1;31m'      # Light Red
 function dotfileInstall() {
     cp -r /usr/local/share/torpdots/dotfiles/* ~/
     # copy iTerm2 settings
-    cp /usr/local/share/torpdots/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    cp -f /usr/local/share/torpdots/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 }
 
 echo
