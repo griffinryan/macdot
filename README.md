@@ -1,4 +1,4 @@
-# torpdots - a macOS tool
+# torpdots - a macOS dotfile tool
 
 ![torpdots.gif](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpdots.gif)
 
