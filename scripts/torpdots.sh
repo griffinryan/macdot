@@ -68,7 +68,7 @@ elif [[ "$1" == "apple" || "$1" == "-a" ]]; then
 elif [[ "$1" == "dot" || "$1" == "-d" ]]; then
     dotConfig;
 else
-    echo -e "\033[1;33m |\033[1;34m torpdots\033[0m needs an\033[1;35m argument\033[0m!                  \033[1;33m|"
+    echo -e "\033[1;35m|\033[1;34m torpdots\033[0m needs an\033[1;35m argument\033[0m! \033[1;35m|\033[0m" && echo
 fi;
 
 unset showInfo;
