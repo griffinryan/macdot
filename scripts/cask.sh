@@ -3,8 +3,6 @@
 #   Install command-line tools using Homebrew, Torpoise style!
 echo;
 echo 'Now installing casks...       ' && echo;
-brew install --cask xquartz
-echo;
 brew install --cask google-chrome
 echo;
 brew install --cask gimp
@@ -18,6 +16,8 @@ echo;
 brew install --cask rectangle
 echo;
 brew install --cask zoom
+echo;
+open -a Rectangle.app
 echo;
 brew cleanup
 echo;

@@ -14,20 +14,20 @@ LIGHTYELLOW='\033[1;33m';   # Light Yellow
 PURPLE='\033[0;35m';        # Purple
 LIGHTPURPLE='\033[1;35m';   # Light Purple
 
-# help page for torpdots - a macOS configuration tool.
+# help page for macrice - a macOS configuration tool.
 echo -e "${LIGHTYELLOW}  __________________________________________________________________${NC}";
-cat /usr/local/share/torpdots/assets/asciititle.txt
+cat /usr/local/share/macrice/assets/asciititle.txt
 
 echo;
-echo -e "    Welcome to ${LIGHTBLUE}torpdots${NC} -";
+echo -e "    Welcome to ${LIGHTBLUE}macrice${NC} -";
 echo -e "      a ${LIGHTPURPLE}macOS${NC} command-line utility to configure dotfiles and more." && echo;
-echo -e "    To use ${LIGHTBLUE}torpdots${NC}, specify an ${LIGHTYELLOW}argument${NC}." && echo;
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}update${NC}' to update ${LIGHTBLUE}torpdots${NC}.";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}list${NC}' to list supported formulae, casks, and dotfiles";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}install-homebrew${NC}' to install the latest version of Homebrew";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
-echo -e "    '${LIGHTBLUE}torpdots${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
+echo -e "    To use ${LIGHTBLUE}macrice${NC}, specify an ${LIGHTYELLOW}argument${NC}." && echo;
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}update${NC}' to update ${LIGHTBLUE}macrice${NC}.";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}list${NC}' to list supported formulae, casks, and dotfiles";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}install-homebrew${NC}' to install the latest version of Homebrew";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
+echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
 echo -e "${LIGHTYELLOW}  __________________________________________________________________${NC}";

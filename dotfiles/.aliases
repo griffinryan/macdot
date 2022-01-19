@@ -147,3 +147,7 @@ alias reload="exec ${SHELL} -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
+alias ide='open -a IntelliJ\ IDEA.app'
+
+alias safari='open -a Safari.app'
