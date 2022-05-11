@@ -1,5 +1,19 @@
 #!/usr/bin/env bash
 
+# java cli by Griffin Ryan
+function j() {
+	javac **/*.java;
+	echo; echo "	Java project has successfully compiled!";
+	echo; echo "	Now running Java project...";
+	CURR=$(pwd);
+	TARGET=$(find $CURR -type f -name "*.java");
+	cd -> find $CURR -type f -name "*.java";
+	# cd $TARGET
+	java Main.java;
+	cd $CURR;
+	rm -r **/*.class;
+}
+
 # Create a new directory and enter it
 function mkd() {
 	mkdir -p "$@" && cd "$_";

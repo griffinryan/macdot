@@ -151,3 +151,5 @@ alias path='echo -e ${PATH//:/\\n}'
 alias ide='open -a IntelliJ\ IDEA.app'
 
 alias safari='open -a Safari.app'
+
+alias gall='add && commit && push && c'
