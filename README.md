@@ -1,6 +1,6 @@
 # macrice - a macOS dotfile tool
 
-![torpdots.gif](https://torpoisebucket.s3-us-west-2.amazonaws.com/macrice.gif)
+![torpdots.gif](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpdots.gif)
 
 ## Overview
 
