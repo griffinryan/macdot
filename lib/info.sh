@@ -15,19 +15,11 @@ PURPLE='\033[0;35m';        # Purple
 LIGHTPURPLE='\033[1;35m';   # Light Purple
 
 # help page for macrice - a macOS configuration tool.
-echo -e "${LIGHTYELLOW}  __________________________________________________________________${NC}";
 toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 
-echo;
-echo -e "    Welcome to ${LIGHTBLUE}macrice${NC} -";
-echo -e "      a ${LIGHTPURPLE}macOS${NC} command-line utility to configure dotfiles and more." && echo;
-echo -e "    To use ${LIGHTBLUE}macrice${NC}, specify an ${LIGHTYELLOW}argument${NC}." && echo;
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}update${NC}' to update ${LIGHTBLUE}macrice${NC}.";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}list${NC}' to list supported formulae, casks, and dotfiles";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}install-homebrew${NC}' to install the latest version of Homebrew";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
-echo -e "    '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
-echo -e "${LIGHTYELLOW}  __________________________________________________________________${NC}";
+echo -e "    Welcome to ${LIGHTPURPLE}macrice${NC} -";
+echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
+echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
+echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
+echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
+echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
