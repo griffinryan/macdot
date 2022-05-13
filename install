@@ -17,10 +17,23 @@ LIGHTPURPLE='\033[1;35m'    # Light Purple
 echo
 # Begin installation process
 echo -e "Now installing ${BLUE}macrice${NC}..." && echo
+dsenableroot
 #   Install EVERYTHING to usr/local/share/macrice/*
 mkdir /usr/local/share/macrice && echo "..."
+#mkdir /usr/local/share/macrice/scripts
+#mkdir /usr/local/macrice/assets
+#mkdir /usr/loacl/share/macrice/dotfiles
+# cp -r scripts tempscripts
+# mv tempscripts /usr/local/share/macrice/scripts && echo "   ...moved scripts!"
+# rm -rf tempscripts
 cp -r scripts /usr/local/share/macrice/scripts && echo "......"
+# cp -r assets tempassets
+# mv tempassets /usr/local/share/macrice/assets && echo "   ...moved assets!"
+# rm -rf tempassets
 cp -r assets /usr/local/share/macrice/assets && echo "........."
+#cp -r dotfiles tempdotfiles
+#mv tempdotfiles /usr/local/share/macrice/dotfiles && echo "   ...moved dotfiles!"
+#rm -rf tempdotfiles
 cp -r dotfiles /usr/local/share/macrice/dotfiles && echo "............"
 
 # Installs macrice.sh to /usr/local/bin/macrice as executable
