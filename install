@@ -39,7 +39,7 @@ cp -r dotfiles /usr/local/share/macrice/dotfiles && echo "............"
 # Installs macrice.sh to /usr/local/bin/macrice as executable
 cp scripts/macrice.sh scripts/macrice && echo "..............."
 chmod a+x scripts/macrice && echo ".................."
-sudo cp scripts/macrice /usr/local/bin/macrice && echo ".....................   !" && echo
+cp scripts/macrice /usr/local/bin/macrice && echo ".....................   !" && echo
 # End installation process
 echo -e "${BLUE}macrice${NC} is now installed!"
 echo -e "Use '${BLUE}macrice${NC} ${YELLOW}help${NC}' for instructions"
