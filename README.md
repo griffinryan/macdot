@@ -18,6 +18,10 @@ To download macrice, run the following in any shell.
 
     git clone https://github.com/torpoise/macrice.git
 
+Or,
+
+    brew install macrice
+
 Make sure to be in the `macrice/` directory before installing! To do so, use `cd` to move to the newly cloned repository.
 
     cd macrice/
