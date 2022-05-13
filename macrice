@@ -7,42 +7,42 @@
 
 function showInfo() {
     # run script for info.sh
-    source /usr/local/share/macrice/scripts/info.sh
+    source lib/info.sh
 }
 
 function displayList() {
     # run script for list.sh
-    source /usr/local/share/macrice/scripts/list.sh
+    source lib/list.sh
 }
 
 function installBrew() {
     # run script for install-homebrew.sh
-    source /usr/local/share/macrice/scripts/install-homebrew.sh
+    source lib/install-homebrew.sh
 }
 
 function brewFormula() {
     # run script for formula.sh
-    source /usr/local/share/macrice/scripts/formula.sh
+    source lib/formula.sh
 }
 
 function brewCask() {
     # run script for cask.sh
-    source /usr/local/share/macrice/scripts/cask.sh
+    source lib/cask.sh
 }
 
 function appleConfig() {
     # run Applescript for apple executable
-    source /usr/local/share/macrice/scripts/apple
+    source lib/apple
 }
 
 function dotConfig() {
     # run script for dot.sh
-    source /usr/local/share/macrice/scripts/dot.sh
+    source lib/dot.sh
 }
 
 function uninstallTorpdots() {
     # run script for uninstall.sh
-    source /usr/local/share/macrice/scripts/uninstall.sh
+    source lib/uninstall.sh
 }
 
 # main loop set here
