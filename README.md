@@ -20,6 +20,7 @@ To download macrice, run the following in any shell.
 
 Or,
 
+    brew tap griffinryan/macrice
     brew install macrice
 
 Make sure to be in the `macrice/` directory before installing! To do so, use `cd` to move to the newly cloned repository.

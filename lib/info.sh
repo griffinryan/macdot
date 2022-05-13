@@ -16,7 +16,7 @@ LIGHTPURPLE='\033[1;35m';   # Light Purple
 
 # help page for macrice - a macOS configuration tool.
 echo -e "${LIGHTYELLOW}  __________________________________________________________________${NC}";
-cat assets/asciititle.txt
+toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 
 echo;
 echo -e "    Welcome to ${LIGHTBLUE}macrice${NC} -";
