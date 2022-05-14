@@ -1,13 +1,14 @@
 class Macrice < Formula
   desc "Macrice is a macOS CLI tool for customization."
   homepage "https://github.com/griffinryan/macrice"
-  url "https://github.com/griffinryan/macrice/archive/refs/tags/0.0.6.tar.gz"
-  version "0.0.6"
+  url "https://github.com/griffinryan/macrice/archive/refs/tags/0.0.8.tar.gz"
+  version "0.0.8"
   license "MIT"
 
   depends_on "toilet"
   depends_on "lolcat"
   depends_on "boxes"
+  depends_on "fish"
 
   def install
     bin.install "macrice"

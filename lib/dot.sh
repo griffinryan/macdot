@@ -21,12 +21,7 @@ function dotfileInstall() {
     # copy iTerm2 settings
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
     
-    
-    #fish
-    #fish_add_path /opt/homebrew/bin
-    #echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
-    #chsh -s /opt/homebrew/bin/fish
-    #bash
+    chsh -s /opt/homebrew/bin/fish
 }
 
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5

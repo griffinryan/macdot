@@ -3,18 +3,64 @@ set fish_greeting ""
 set -gx TERM xterm-256color
 
 # Theme
-set -g theme_color_scheme terminal-dark
+set -g theme_color_scheme gruvbox
+# Args: dark, light, solarized, solarized-dark, solarized-light, base16, 
+#       base16-dark, base16-light, zenburn, dracula, gruvbox, nord, 
+#       terminal, terminal-dark, terminal-light, terminal-light-black.
+
 set -g fish_prompt_pwd_dir_length 1
 set -g theme_display_user yes
 set -g theme_hide_hostname no
 set -g theme_hostname always
 
+# Theme
+# set -g theme_display_git no
+# set -g theme_display_git_dirty no
+# set -g theme_display_git_untracked no
+# set -g theme_display_git_ahead_verbose yes
+# set -g theme_display_git_dirty_verbose yes
+# set -g theme_display_git_stashed_verbose yes
+# set -g theme_display_git_default_branch yes
+# set -g theme_git_default_branches master main
+# set -g theme_git_worktree_support yes
+# set -g theme_use_abbreviated_branch_name yes
+# set -g theme_display_vagrant yes
+# set -g theme_display_docker_machine no
+# set -g theme_display_k8s_context yes
+# set -g theme_display_hg yes
+# set -g theme_display_virtualenv no
+# set -g theme_display_nix no
+# set -g theme_display_ruby no
+set -g theme_display_node yes
+set -g theme_display_user ssh
+# set -g theme_display_hostname ssh
+# set -g theme_display_vi yes
+# set -g theme_display_date no
+# set -g theme_display_cmd_duration yes
+# set -g theme_title_display_process yes
+# set -g theme_title_display_path no
+# set -g theme_title_display_user yes
+# set -g theme_title_use_abbreviated_path no
+# set -g theme_date_format "+%a %H:%M"
+# set -g theme_date_timezone America/Los_Angeles
+set -g theme_avoid_ambiguous_glyphs yes
+set -g theme_powerline_fonts no
+set -g theme_nerd_fonts yes
+set -g theme_show_exit_status yes
+# set -g theme_display_jobs_verbose yes
+set -g default_user your_normal_user
+
+set -g fish_prompt_pwd_dir_length 0
+set -g theme_project_dir_length 3
+set -g theme_newline_cursor yes
+set -g theme_newline_prompt '$ '
+
 # Aliases
-alias ls "ls -p -G"
-alias l "ls -p -G"
-alias la "ls -A"
-alias ll "ls -l"
-alias lla "ll -A"
+alias ls "exa -a -R -L 2"
+alias l "exa"
+alias la "exa -a"
+alias ll "exa -a -T -L 2"
+# alias cd "cd $1 && l"
 
 alias c "clear"
 alias mv "mv -iv"
@@ -93,6 +139,11 @@ function __check_rvm --on-variable PWD --description 'Do nvm stuff'
     nvm use
   else
   end
+end
+
+if test (uname -s) = "Darwin"
+  set -gx PATH /usr/local/opt/coreutils/libexec/gnubin $PATH
+  set -gx PATH /usr/local/opt/gnu-sed/libexec/gnubin $PATH
 end
 
 switch (uname)

@@ -2,6 +2,7 @@
 
 # macrice — glryan@uw.edu	|	https://griffinryan.com/
 
+# dotfile backup script
 NC='\033[0m';               # No Color
 RED='\033[0;31m';           # Red
 LIGHTRED='\033[1;31m';      # Light Red
@@ -18,11 +19,6 @@ LIGHTPURPLE='\033[1;35m';   # Light Purple
 
 # help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
-
-echo -e "       '${LIGHTPURPLE}macrice${NC}' is now installing iTerm2 color profiles.";
-
-# install .itermcolor files.
-open /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/themes/*
-/bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
-
-echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' is now  ${LIGHTGREEN}complete!${NC}";
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}save${NC}' is now backing up all dotfiles in ${LIGHTBLUE}/~/...${NC}";
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}save${NC}' is now...     ${LIGHTBLUE}complete!${NC}";
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}save${NC}' backed up dotfiles to ${LIGHTBLUE}/~/.macrice/${NC}"
