@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# macrice — glryan@uw.edu	|	https://griffinryan.com/
+
 # cd "$(dirname "${BASH_SOURCE}")";
 # git pull origin main;
 

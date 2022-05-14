@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# macrice — glryan@uw.edu	|	https://griffinryan.com/
+
 # dotfile management script
 NC='\033[0m'               # No Color
 LIGHTBLUE='\033[1;34m'     # Light Blue

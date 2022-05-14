@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# macrice — glryan@uw.edu	|	https://griffinryan.com/
+
 #   Install command-line tools using Homebrew, Torpoise style!
 
 #		Homebrew latest bash and set as default shell.

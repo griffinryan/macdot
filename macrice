@@ -1,7 +1,10 @@
 #!/bin/bash
+
+# macrice — glryan@uw.edu	|	https://griffinryan.com/
+
 # macrice main     set at: /usr/local/bin/macrice
-# functions: help, list, install-homebrew, formula, cask, apple, dot
-# path: /usr/local/share/macrice/*         scripts/*       assets/*
+# functions: help, list, formula, cask, apple, dot
+# path: /opt/homebrew/Cellar/macrice
 
 # all macrice() functions are set here
 
@@ -13,11 +16,6 @@ function showInfo() {
 function displayList() {
     # run script for list.sh
     source /opt/homebrew/Cellar/macrice/**/lib/list.sh
-}
-
-function installBrew() {
-    # run script for install-homebrew.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/install-homebrew.sh
 }
 
 function brewFormula() {
@@ -58,9 +56,6 @@ fi;
 if [[ "$1" == "list" || "$1" == "-l" ]]; then
     # uses list.sh
     displayList;
-elif [[ "$1" == "install-homebrew" || "$1" == "installhomebrew" || "$1" == "homebrew" ]]; then
-    # uses install-homebrew.sh
-    installBrew;
 elif [[ "$1" == "formula" || "$1" == "formulae" ]]; then
     # uses formula.sh
     brewFormula;
@@ -79,7 +74,6 @@ fi;
 
 unset showInfo;
 unset displayList;
-unset installBrew;
 unset brewFormula;
 unset brewCask;
 unset appleConfig;
