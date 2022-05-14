@@ -1,7 +1,7 @@
 # Compiled Python files
 *.pyc
 
-torpdots
+dotfiles/**/.git
 
 ### Java ###
 # Compiled class file
