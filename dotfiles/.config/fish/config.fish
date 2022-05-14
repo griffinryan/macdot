@@ -40,7 +40,7 @@ alias lc3 "open LC3Tools.app"
 alias f "open -a Finder ./"
 
 # Git Cheating
-alias gall "git add . && git commit 'Deployed some changes to main!' && git push && echo && echo"
+alias gall "git add . && git commit -m 'Deployed some changes to main!' && git push && echo && echo"
 alias add "git add --all && git status"
 alias pull "git pull && git status"
 alias push "git push && git status"
