@@ -18,7 +18,7 @@ function dotfileInstall() {
     sudo rm -rf ~/lib
 }
 
-echo
+toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 echo -e "    Now installing all ${LIGHTPURPLE}macrice${NC} dotfiles to home directory..."
 
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
