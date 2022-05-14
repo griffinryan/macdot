@@ -22,5 +22,5 @@ toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d 
 echo -e "       '${LIGHTPURPLE}macrice${NC}' to display this page.";
 echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
 echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
-echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
-echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}formulae${NC}' to install popular homebrew formulae";
