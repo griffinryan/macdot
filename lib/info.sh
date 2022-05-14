@@ -19,9 +19,9 @@ LIGHTPURPLE='\033[1;35m'   # Light Purple
 # Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 # Status message.
-echo "       '${LIGHTPURPLE}macrice${NC}' to display this page.";
-echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}save${NC}' to ${LIGHTBLUE}backup${NC} dotfiles in ${LIGHTBLUE}/~/...${NC} to ${LIGHTBLUE}/~/.macrice/${NC}";
-echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to ${LIGHTBLUE}backup${NC} and ${LIGHTBLUE}install${NC} all dotfiles ${LIGHTRED}(use with caution!)${NC}";
-echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to ${LIGHTBLUE}configure macOS${NC} with Applescript ${LIGHTRED}(use with caution!)${NC}";
-echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' to ${LIGHTBLUE}configure iTerm2${NC} preferences.";
-echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}kegs${NC}' to ${LIGHTBLUE}install${NC} popular homebrew formulae";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC}' to display this page.";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}save${NC}' to ${LIGHTBLUE}backup${NC} dotfiles in ${LIGHTBLUE}/~/...${NC} to ${LIGHTBLUE}/~/.macrice/${NC}";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to ${LIGHTBLUE}backup${NC} and ${LIGHTBLUE}install${NC} all dotfiles ${LIGHTRED}(use with caution!)${NC}";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to ${LIGHTBLUE}configure macOS${NC} with Applescript ${LIGHTRED}(use with caution!)${NC}";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' to ${LIGHTBLUE}configure iTerm2${NC} preferences.";
+/bin/echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}kegs${NC}' to ${LIGHTBLUE}install${NC} popular homebrew formulae";
