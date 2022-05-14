@@ -82,7 +82,7 @@ alias cleanupDS="find . -type f -name '*.DS_Store' -ls -delete"
 
                         # BEGIN COMMON ALIASES:
 alias c='clear'								#	c: QUICK CLEAR
-alias cp='cp -iv'                           # Preferred 'cp' implementation
+alias cp='cp -i'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
 alias ls='ls'

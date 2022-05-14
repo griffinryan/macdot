@@ -8,9 +8,14 @@ LIGHTPURPLE='\033[1;35m'   # Light Purple
 LIGHTRED='\033[1;31m'      # Light Red
 
 function dotfileInstall() {
-    cp -r /opt/homebrew/Cellar/macrice/**/bin/dotfiles/ ~/
+    # cp -r /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.* ~/
+    sudo /bin/cp -rf /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.* ~/
     # copy iTerm2 settings
-    cp /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    sudo /bin/cp /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    sudo rm -f ~/macrice
+    sudo rm -rf ~/dotfiles
+    sudo rm -rf ~/fonts
+    sudo rm -rf ~/lib
 }
 
 echo
