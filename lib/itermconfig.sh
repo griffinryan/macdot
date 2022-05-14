@@ -16,13 +16,14 @@ LIGHTYELLOW='\033[1;33m';   # Light Yellow
 PURPLE='\033[0;35m';        # Purple
 LIGHTPURPLE='\033[1;35m';   # Light Purple
 
-# help page for macrice - a macOS configuration tool.
+# Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
-
-echo -e "       '${LIGHTPURPLE}macrice${NC}' is now installing iTerm2 color profiles.";
+# Status message.
+echo  "       '${LIGHTPURPLE}macrice${NC}' is now installing iTerm2 color profiles.";
 
 # install .itermcolor files.
 open /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/themes/*
 /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 
-echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' is now  ${LIGHTGREEN}complete!${NC}";
+# Status message.
+echo  "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' is now  ${LIGHTGREEN}complete!${NC}";

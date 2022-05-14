@@ -13,31 +13,39 @@ function dotfileInstall() {
     
     # wildcard * to add all parent files.
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
-    # individually add parent directories.
+
+    # individually (and recursively) add parent directories.
     /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
     /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.local
     /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.config ~/.config
     /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm ~/.iterm
-    # copy iTerm2 settings
+    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.fonts ~/.fonts
+
+    # move iTerm2 .plist file to current shell.
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
     
+    # make sure of Fish as default shell.
     chsh -s /opt/homebrew/bin/fish
 }
-
+# Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
-echo -e "    Now installing all ${LIGHTPURPLE}macrice${NC} dotfiles to home directory..."
+# Status message.
+echo "    Now installing all ${LIGHTPURPLE}macrice${NC} dotfiles to home directory..."
 
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
     # force dotfileInstall() with -f argument
     dotfileInstall
-    echo -e "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has successfully installed all dotfiles!"
+    # Status message.
+    echo "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has ${LIGHTBLUE}successfully installed${NC} all dotfiles!"
 else
-    read -p "    This will overwrite existing files in the home directory. Are you sure? (y/n) " -n 1
+    # Status message.
+    read -p "    This will ${LIGHTRED}overwrite existing${NC} files in the home directory. ${LIGHTRED}Are you sure?${NC} (y/n) " -n 1
     echo;
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         dotfileInstall
-        echo -e "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has successfully installed all dotfiles!"
+        # Status message.
+        echo "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has ${LIGHTBLUE}successfully installed${NC} all dotfiles!"
     fi;
 fi;
 unset dotfileInstall

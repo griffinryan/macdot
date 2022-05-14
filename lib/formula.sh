@@ -2,7 +2,12 @@
 
 # macrice — glryan@uw.edu	|	https://griffinryan.com/
 
-#   Install command-line tools using Homebrew, Torpoise style!
+# Help page for macrice - a macOS configuration tool.
+toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+# Status message.
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}kegs${NC}' is now installing ${LIGHTBLUE}new formulae${NC}...";
+
+
 
 #		Homebrew latest bash and set as default shell.
 brew install bash && \
@@ -66,6 +71,15 @@ brew install bat
 brew install fzf
 brew install vifm
 brew install nvim
-
+echo
+brew install fish
+brew install exa
+brew install coreutils
 echo
 brew cleanup
+
+# Help page for macrice - a macOS configuration tool.
+toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+# Status message.
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}kegs${NC}' is now...     ${LIGHTBLUE}complete!${NC}";
+echo "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}kegs${NC}' installed ${LIGHTBLUE}new homebrew formulae${NC}."

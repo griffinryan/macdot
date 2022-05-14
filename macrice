@@ -60,7 +60,7 @@ fi;
 if [[ "$1" == "list" || "$1" == "-l" ]]; then
     # uses list.sh
     displayList;
-elif [[ "$1" == "formula" || "$1" == "formulae" ]]; then
+elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
     # uses formula.sh
     brewFormula;
 elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
