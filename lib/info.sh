@@ -2,7 +2,7 @@
 
 # macrice — glryan@uw.edu	|	https://griffinryan.com/
 
-NC='\033[0m'               # No Color
+NC='\033[0m'              # No Color
 RED='\033[0;31m'          # Red
 LIGHTRED='\033[1;31m'      # Light Red
 GREEN='\033[0;32'          # Green
