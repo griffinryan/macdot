@@ -10,6 +10,8 @@ LIGHTPURPLE='\033[1;35m'   # Light Purple
 LIGHTRED='\033[1;31m'      # Light Red
 
 function dotfileInstall() {
+
+    dotfileSave
     
     # wildcard * to add all parent files.
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
@@ -27,6 +29,28 @@ function dotfileInstall() {
     # make sure of Fish as default shell.
     chsh -s /opt/homebrew/bin/fish
 }
+
+function dotfileSave() {
+    # make a new /.macrice/ folder.
+    cd $HOME
+    mkdir .macrice 2>/dev/null
+    mkdir .macrice/.vim 2>/dev/null
+    mkdir .macrice/.local 2>/dev/null
+    mkdir .macrice/.config 2>/dev/null
+    mkdir .macrice/.iterm 2>/dev/null
+    mkdir .macrice/.fonts 2>/dev/null
+
+    # individually (and recursively) add parent directories.
+    /bin/cp -r ~/.vim ~/.macrice/.vim 2>/dev/null
+    /bin/cp -r ~/.local ~/.macrice/.local 2>/dev/null
+    /bin/cp -r ~/.config ~/.macrice/.config 2>/dev/null
+    /bin/cp -r ~/.iterm ~/.macrice/.iterm 2>/dev/null
+    /bin/cp -r ~/.fonts ~/.macrice/.fonts 2>/dev/null
+
+    # wildcard * to add all parent files.
+    /bin/cp ~/.* ~/.macrice/ 2>/dev/null
+}
+
 # Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 # Status message.
