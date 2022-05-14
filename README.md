@@ -18,26 +18,33 @@ There are a few different features to macrice. An easy way to start learning the
 
     macrice
 
-The `apple` function is an automated way of changing macOS System Preferences and other configurations. Be careful when using `apple` as some changes are a little tricky to reverse!
+The `save` function creates a backup of your dotfiles in your home directory at `/.macrice/` to restore later.
 
-    macrice apple
+    macrice save
 
 The `iterm` function installs a set of very neat-looking color themes for the [iTerm2](https://iterm2.com/) shell.
 
     macrice iterm
 
-Finally, `dot` configures dotfiles for the inspired coder. This includes configurations for the bash shell, the [iTerm2](https://iterm2.com/) terminal, `git`, `vim`, and much more!
+The `dot` function configures dotfiles for macOS. This includes configurations for the bash shell, fish shell, the [iTerm2](https://iterm2.com/) terminal, `git`, `vim`, and much more!
+
+Use of `macrice dot` invokes `macrice save` so your dotfiles are automatically backed up in the home directory at `/.macrice/`
 
     macrice dot
 
-Be careful hackers! macrice can make a lot of changes to your macOS system that can be a slightly challenging to revert! This is an early access build, but there are plans to add both `backup` and `restore` functions in the future.
+The `apple` function is an automated way of changing macOS System Preferences and other configurations. Be careful when using `apple` as some changes are a little tricky to reverse!
 
-Thank you for using macrice!
+    macrice apple
+
+The `kegs` function is an automated [homebrew](https://github.com/Homebrew/brew) routine to install some popular formulae I use regularly for development.
+
+    macrice kegs
+
+Macrice can make a lot of changes to your macOS system that can be a slightly challenging to revert! Always use the `macrice save` command to be able to restore your system manually.
+
+Thank you for using Macrice!
 
 ### Go see my portfolio!
-
 [https://griffinryan.com/](https://griffinryan.com/)
-
-![Torpoise Logo.png](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpoiselogo.png)
 
 Software by Griffin Ryan, 2022.
