@@ -1,8 +1,8 @@
 class Macrice < Formula
   desc "Macrice is a macOS CLI tool for customization."
   homepage "https://github.com/griffinryan/macrice"
-  url "https://github.com/griffinryan/macrice/archive/refs/tags/0.1.0.tar.gz"
-  version "0.1.0"
+  url "https://github.com/griffinryan/macrice/archive/refs/tags/0.1.1.tar.gz"
+  version "0.1.1"
   license "MIT"
 
   depends_on "toilet"
