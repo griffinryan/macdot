@@ -82,7 +82,7 @@ alias cleanupDS="find . -type f -name '*.DS_Store' -ls -delete"
 
                         # BEGIN COMMON ALIASES:
 alias c='clear'								#	c: QUICK CLEAR
-alias cp='cp -i'                           # Preferred 'cp' implementation
+alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
 alias ls='ls'
@@ -158,10 +158,14 @@ spotlight () { mdfind "kMDItemDisplayName == '$@'wc"; }		#    spotlight: Search 
 	alias createmvnapp='mvn archetype:generate'
 	alias fm='vifm'
 	alias fy='fzf'
-	alias vi='nvim'
+	alias vi='vim'
+    alias vim='nvim'
 #    ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 #     		CONTINUE? :	y/n
 #    ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="/usr/local/opt/ruby/bin:$PATH"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"

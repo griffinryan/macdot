@@ -2,16 +2,25 @@
 
 # java cli by Griffin Ryan
 function j() {
-	javac **/*.java;
+	javac *.java;
 	echo; echo "	Java project has successfully compiled!";
 	echo; echo "	Now running Java project...";
 	CURR=$(pwd);
 	TARGET=$(find $CURR -type f -name "*.java");
-	cd -> find $CURR -type f -name "*.java";
+	cd **/src
 	# cd $TARGET
 	java Main.java;
 	cd $CURR;
 	rm -r **/*.class;
+}
+
+# fix Fish Shell w/ homebrew installation
+function fixfishpath() {
+	# brew install fish
+	fish
+	fish_add_path /opt/homebrew/bin
+	echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
+	chsh -s /opt/homebrew/bin/fish
 }
 
 # Create a new directory and enter it
