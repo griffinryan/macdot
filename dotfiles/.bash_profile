@@ -81,12 +81,11 @@ alias cleanupDS="find . -type f -name '*.DS_Store' -ls -delete"
 					    # cleanup:  clean up the dang house!
 
                         # BEGIN COMMON ALIASES:
-alias c='clear'								#	c: QUICK CLEAR
-alias cp='cp -iv'                           # Preferred 'cp' implementation
-alias mv='mv -iv'                           # Preferred 'mv' implementation
-alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
-alias ls='ls'
-alias ll='ls -a'                       	    # Preferred 'ls' implementation.
+								#	c: QUICK CLEAR
+                           # Preferred 'cp' implementation
+                           # Preferred 'mv' implementation
+                     # Preferred 'mkdir' implementation
+                       	    # Preferred 'ls' implementation.
 alias f='open -a Finder ./'                 # f:            Opens current directory in MacOS Finder
 alias less='less -FSRXc'                    # Preferred 'less' implementation
 cd() { builtin cd "$@"; ls; }               # Always list directory contents upon 'cd'
@@ -144,11 +143,14 @@ spotlight () { mdfind "kMDItemDisplayName == '$@'wc"; }		#    spotlight: Search 
     # GIT MASTER BRANCH ALIASES
 	alias status='git status'
 	alias add='git add --all && git status'
-	alias commit='git commit -m "committed some changes to main branch!" && git status'
-	alias pull='git pull && git status'
+    alias pull='git pull && git status'
 	alias push='git push && git status'
 	alias stat='git status'
 	alias checkout='git checkout && git status'
+    alias fm='vifm'
+	alias fy='fzf'
+    alias vi='nvim'
+	alias commit='git commit -m "committed some changes to main branch!" && git status'
     # CASK ALIASES
 	alias chrome='open -a Google\ Chrome'
 	alias gimp='open -a GIMP'
