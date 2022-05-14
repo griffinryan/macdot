@@ -10,14 +10,17 @@ LIGHTPURPLE='\033[1;35m'   # Light Purple
 LIGHTRED='\033[1;31m'      # Light Red
 
 function dotfileInstall() {
-    # cp -r /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.* ~/
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/**/dotfiles/.* ~/
+    
+    # wildcard * to add all parent files.
+    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
+    # individually add parent directories.
+    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
+    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.vim
+    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
     # copy iTerm2 settings
-    /bin/cp /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
-    rm -f ~/macrice
-    rm -rf ~/dotfiles
-    rm -rf ~/fonts
-    rm -rf ~/lib
+    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    
+    
     #fish
     #fish_add_path /opt/homebrew/bin
     #echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
