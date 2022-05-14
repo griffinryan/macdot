@@ -38,6 +38,10 @@ function dotConfig() {
     source /opt/homebrew/Cellar/macrice/**/lib/dot.sh
 }
 
+function backupConfig() {
+    source /opt/homebrew/Cellar/macrice/**/lib/save.sh
+}
+
 function uninstallTorpdots() {
     # run script for uninstall.sh
     source /opt/homebrew/Cellar/macrice/**/lib/uninstall.sh
@@ -63,6 +67,9 @@ if [[ "$1" == "list" || "$1" == "-l" ]]; then
 elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
     # uses formula.sh
     brewFormula;
+elif [[ "$1" == "save" || "$1" == "backup" ]]; then
+    # uses save.sh
+    backupConfig;
 elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
     # uses itermconfig.sh
     itermConfig;
