@@ -17,9 +17,8 @@ LIGHTPURPLE='\033[1;35m';   # Light Purple
 # help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 
-echo -e "    Welcome to ${LIGHTPURPLE}macrice${NC} -";
-echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
-echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
-echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
-echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
-echo -e "       '${LIGHTBLUE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}dot${NC}' to install all dotfiles ${RED}(use with caution!)${NC}";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}formula${NC}' to install popular homebrew formulae";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}cask${NC}' to install popular homebrew casks";
