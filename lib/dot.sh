@@ -9,21 +9,21 @@ LIGHTRED='\033[1;31m'      # Light Red
 
 function dotfileInstall() {
     # cp -r /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.* ~/
-    sudo /bin/cp -rf /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.* ~/
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/**/dotfiles/.* ~/
     # copy iTerm2 settings
-    sudo /bin/cp /opt/homebrew/Cellar/macrice/**/bin/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
-    sudo rm -f ~/macrice
-    sudo rm -rf ~/dotfiles
-    sudo rm -rf ~/fonts
-    sudo rm -rf ~/lib
-    fish
-    fish_add_path /opt/homebrew/bin
-    echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
-    chsh -s /opt/homebrew/bin/fish
-    bash
+    /bin/cp /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    rm -f ~/macrice
+    rm -rf ~/dotfiles
+    rm -rf ~/fonts
+    rm -rf ~/lib
+    #fish
+    #fish_add_path /opt/homebrew/bin
+    #echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
+    #chsh -s /opt/homebrew/bin/fish
+    #bash
 }
 
-toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 echo -e "    Now installing all ${LIGHTPURPLE}macrice${NC} dotfiles to home directory..."
 
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*

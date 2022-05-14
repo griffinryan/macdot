@@ -15,7 +15,7 @@ PURPLE='\033[0;35m';        # Purple
 LIGHTPURPLE='\033[1;35m';   # Light Purple
 
 # help page for macrice - a macOS configuration tool.
-toilet -d /opt/homebrew/Cellar/macrice/**/bin/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 
 echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}help${NC}' to display this page.";
 echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}apple${NC}' to configure macOS with Applescript ${RED}(use with caution!)${NC}";
