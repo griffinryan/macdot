@@ -2,6 +2,9 @@
 
 # macrice — glryan@uw.edu	|	https://griffinryan.com/
 
+# TO-DO: Create a `macrice restore` function
+#        that restores the backup /~/.macrice/ to /~/.
+
 # macrice main     set at: /usr/local/bin/macrice
 # functions: help, list, formula, cask, apple, dot
 # path: /opt/homebrew/Cellar/macrice

@@ -3,11 +3,12 @@
 # macrice — glryan@uw.edu	|	https://griffinryan.com/
 
 # dotfile management script
-NC='\033[0m'               # No Color
-LIGHTBLUE='\033[1;34m'     # Light Blue
-LIGHTYELLOW='\033[1;33m'   # Light Yellow
-LIGHTPURPLE='\033[1;35m'   # Light Purple
-LIGHTRED='\033[1;31m'      # Light Red
+NC='\33[0m'               # No Color
+LIGHTBLUE='\33[1;34m'     # Light Blue
+LIGHTYELLOW='\33[1;33m'   # Light Yellow
+LIGHTPURPLE='\33[1;35m'   # Light Purple
+LIGHTRED='\33[1;31m'      # Light Red
+YELLOW='\33[0;33m';        # Yellow
 
 function dotfileInstall() {
 
@@ -27,7 +28,7 @@ function dotfileInstall() {
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
     
     # make sure of Fish as default shell.
-    chsh -s /opt/homebrew/bin/fish
+    # chsh -s /opt/homebrew/bin/fish
 }
 
 function dotfileSave() {
@@ -54,22 +55,25 @@ function dotfileSave() {
 # Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 # Status message.
-echo "    Now installing all ${LIGHTPURPLE}macrice${NC} dotfiles to home directory..."
+printf "    Now installing all \33[1;35mmacrice\33[0m dotfiles to home directory...\n"
 
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
     # force dotfileInstall() with -f argument
     dotfileInstall
     # Status message.
-    echo "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has ${LIGHTBLUE}successfully installed${NC} all dotfiles!"
+    printf "       '\33[1;35mmacrice\33[0m \33[1;33msave\33[0m' backed up dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
+    printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;34msuccessfully installed\33[0m all dotfiles!\n"
 else
     # Status message.
-    read -p "    This will ${LIGHTRED}overwrite existing${NC} files in the home directory. ${LIGHTRED}Are you sure?${NC} (y/n) " -n 1
+    printf "    This will \33[1;31moverwrite existing\33[0m files in the home directory. \33[1;31mAre you sure\33[0m? (y/n) " 
+    read
     echo;
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         dotfileInstall
         # Status message.
-        echo "    ${LIGHTPURPLE}macrice${NC} ${YELLOW}dot${NC} has ${LIGHTBLUE}successfully installed${NC} all dotfiles!"
+        printf "    \33[1;35mmacrice\33[0m \33[1;33msave\33[0m backed up dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
+        printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;32msuccessfully installed\33[0m all dotfiles!\n"
     fi;
 fi;
 unset dotfileInstall
