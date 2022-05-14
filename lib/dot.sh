@@ -14,9 +14,10 @@ function dotfileInstall() {
     # wildcard * to add all parent files.
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
     # individually add parent directories.
-    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
-    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.vim
-    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
+    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
+    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.local
+    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.config ~/.config
+    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm ~/.iterm
     # copy iTerm2 settings
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
     
