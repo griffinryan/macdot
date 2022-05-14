@@ -22,6 +22,6 @@ toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d 
 echo -e "       '${LIGHTPURPLE}macrice${NC}' is now installing iTerm2 color profiles.";
 
 # install .itermcolor files.
-open /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/themes/*
+open /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/themes/* 2>/dev/null
 
-echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' is now  ${GREEN}(complete!)${NC}";
+echo -e "       '${LIGHTPURPLE}macrice${NC} ${LIGHTYELLOW}iterm${NC}' is now  ${LIGHTGREEN}complete!${NC}";
