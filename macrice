@@ -43,6 +43,10 @@ function uninstallTorpdots() {
     source /opt/homebrew/Cellar/macrice/**/lib/uninstall.sh
 }
 
+function itermConfig() {
+    source /opt/homebrew/Cellar/macrice/**/lib/itermconfig.sh
+}
+
 # main loop set here
 if [[ -z "$1" ]]; then
     # uses info.sh
@@ -59,9 +63,9 @@ if [[ "$1" == "list" || "$1" == "-l" ]]; then
 elif [[ "$1" == "formula" || "$1" == "formulae" ]]; then
     # uses formula.sh
     brewFormula;
-elif [[ "$1" == "uninstall" || "$1" == "uninstaller" ]]; then
-    # uses uninstall.sh
-    uninstallTorpdots;
+elif [[ "$1" == "iterm" || "$1" == "iterm2"  || "$1" == "iTerm 2"]]; then
+    # uses itermconfig.sh
+    itermConfig;
 elif [[ "$1" == "cask" || "$1" == "casks" || "$1" == "-c" ]]; then
     # uses cask.sh
     brewCask;
