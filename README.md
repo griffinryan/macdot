@@ -3,11 +3,15 @@
 
 ## Overview
 
-`macrice` is a macOS tool designed to make configuring a macOS computer a breeze.
+Macrice is a CLI designed to make configuring UNIX computers easy.
+
+---
+
+Macrice is a dotfile manager. `macrice` easily configures dotfiles on macOS and Linux systems from the command line.
 
 ## Installation
 
-To download macrice, run the following in a shell:
+To download Macrice with [brew](https://github.com/Homebrew/brew), run the following from the command line:
 
     brew tap griffinryan/macrice
     brew install macrice
@@ -17,29 +21,36 @@ To download macrice, run the following in a shell:
 There are a few different features to macrice. An easy way to start learning the macrice magic is to simply run `macrice` in any shell.
 
     macrice
+---
 
 The `save` function creates a backup of your dotfiles in your home directory at `/.macrice/` to restore later.
 
     macrice save
+---
 
-The `iterm` function installs a set of very neat-looking color themes for the [iTerm2](https://iterm2.com/) shell.
+The `iterm` function installs a set of very neat-looking color themes for the [iTerm2](https://github.com/gnachman/iTerm2) shell.
 
     macrice iterm
+---
 
-The `dot` function configures dotfiles for macOS. This includes configurations for the bash shell, fish shell, the [iTerm2](https://iterm2.com/) terminal, `git`, `vim`, and much more!
+The `dot` function configures dotfiles for macOS. This includes configurations for the `bash`, `fish`, the [iTerm2](https://github.com/gnachman/iTerm2) terminal, `git`, `vim`, and much more!
 
-Use of `macrice dot` invokes `macrice save` so your dotfiles are automatically backed up in the home directory at `/.macrice/`
+`macrice save` is always used with `macrice dot`. Before using `dot`, dotfiles are automatically backed up in the home directory at `/.macrice/`.
 
     macrice dot
+---
 
 The `apple` function is an automated way of changing macOS System Preferences and other configurations. Be careful when using `apple` as some changes are a little tricky to reverse!
 
     macrice apple
+---
 
 The `kegs` function is an automated [homebrew](https://github.com/Homebrew/brew) routine to install some popular formulae I use regularly for development.
 
     macrice kegs
+---
 
+# Notes
 Macrice can make a lot of changes to your macOS system that can be a slightly challenging to revert! Always use the `macrice save` command to be able to restore your system manually.
 
 Thank you for using Macrice!
