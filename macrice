@@ -13,45 +13,45 @@
 
 function showInfo() {
     # run script for info.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/info.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/help
 }
 
 function displayList() {
     # run script for list.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/list.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/list
 }
 
 function brewFormula() {
     # run script for formula.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/formula.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/formula
 }
 
 function brewCask() {
     # run script for cask.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/cask.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/cask
 }
 
 function appleConfig() {
     # run Applescript for apple executable
-    source /opt/homebrew/Cellar/macrice/**/lib/apple
+    bash /opt/homebrew/Cellar/macrice/**/lib/apple
 }
 
 function dotConfig() {
     # run script for dot.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/dot.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/dot
 }
 
 function backupConfig() {
-    source /opt/homebrew/Cellar/macrice/**/lib/save.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/save
 }
 
 function uninstallTorpdots() {
     # run script for uninstall.sh
-    source /opt/homebrew/Cellar/macrice/**/lib/uninstall.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/uninstall
 }
 
 function itermConfig() {
-    source /opt/homebrew/Cellar/macrice/**/lib/itermconfig.sh
+    bash /opt/homebrew/Cellar/macrice/**/lib/itermconfig
 }
 
 # main loop set here

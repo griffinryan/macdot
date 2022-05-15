@@ -96,4 +96,4 @@ brew cleanup
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 # Status message.
 printf "       '\33[1;35mmacrice\33[0m \33[1;33mkegs\33[0m' is now...     \33[1;34mcomplete!\33[0m\n";
-printf "       '\33[1;35mmacrice\33[0m \33[1;33mkegs\33[0m' \33[1;32minstalled\33[0m new \33[1;34mhomebrew formulae\33[0m!\n";
+printf "       '\33[1;35mmacrice\33[0m \33[1;33mkegs\33[0m' \33[1;32minstalled\33[0m new \33[1;34mhomebrew formulae\33[0m!\n\n";

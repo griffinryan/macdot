@@ -19,6 +19,7 @@ LIGHTPURPLE='\33[1;35m';   # Light Purple
 # Help page for macrice - a macOS configuration tool.
 toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
 # Status message.
+echo
 printf  "       '\33[1;35mmacrice\33[0m' is now installing \33[1;34miTerm2\33[0m color profiles.\n";
 
 # install .itermcolor files.
@@ -26,4 +27,4 @@ open /opt/homebrew/Cellar/macrice/**/dotfiles/.iterm/themes/*
 /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 
 # Status message.
-printf  "       '\33[1;35mmacrice\33[0m \33[1;33miterm\33[0m' is now \33[1;32mcomplete\33[0m!\n";
+printf  "       '\33[1;35mmacrice\33[0m \33[1;33miterm\33[0m' is now \33[1;32mcomplete\33[0m!\n\n";

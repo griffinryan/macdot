@@ -20,6 +20,8 @@ LIGHTPURPLE='\33[1;35m';   # Light Purple
 function dotfileSave() {
     # make a new /.macrice/ folder.
     cd $HOME
+    rm -rf .macrice
+    
     mkdir .macrice 2>/dev/null
     mkdir .macrice/.vim 2>/dev/null
     mkdir .macrice/.local 2>/dev/null
@@ -54,7 +56,7 @@ else
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         dotfileSave
         # Status message.
-        printf "    '\33[1;35mmacrice\33[0m \33[1;33msave\33[0m' \33[1;32msuccessfully backed up\33[0m dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
+        printf "    '\33[1;35mmacrice\33[0m \33[1;33msave\33[0m' \33[1;32msuccessfully backed up\33[0m dotfiles to \33[1;34m/~/.macrice/\33[0m.\n\n"
     fi;
 fi;
 unset dotfileSave

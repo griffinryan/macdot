@@ -25,4 +25,4 @@ printf "       '\33[1;35mmacrice\33[0m \33[1;33msave\33[0m' to \33[1;32mbackup\3
 printf "       '\33[1;35mmacrice\33[0m \33[1;33mdot\33[0m' to \33[1;32mbackup\33[0m and \33[1;32minstall\33[0m all dotfiles (\33[1;31muse with caution!\33[0m).\n";
 printf "       '\33[1;35mmacrice\33[0m \33[1;33mapple\33[0m' to \33[1;32mconfigure macOS\33[0m with Applescript (\33[1;31muse with caution!\33[0m).\n";
 printf "       '\33[1;35mmacrice\33[0m \33[1;33miterm\33[0m' to \33[1;32mconfigure iTerm2\33[0m preferences.\n";
-printf "       '\33[1;35mmacrice\33[0m \33[1;33mkegs\33[0m' to \33[1;32minstall\33[0m popular homebrew formulae.\n";
+printf "       '\33[1;35mmacrice\33[0m \33[1;33mkegs\33[0m' to \33[1;32minstall\33[0m popular homebrew formulae.\n\n";

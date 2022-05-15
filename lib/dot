@@ -73,7 +73,7 @@ else
         dotfileInstall
         # Status message.
         printf "    \33[1;35mmacrice\33[0m \33[1;33msave\33[0m backed up dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
-        printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;32msuccessfully installed\33[0m all dotfiles!\n"
+        printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;32msuccessfully installed\33[0m all dotfiles!\n\n"
     fi;
 fi;
 unset dotfileInstall
