@@ -18,11 +18,11 @@ function dotfileInstall() {
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
 
     # individually (and recursively) add parent directories.
-    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
-    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.local
-    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.config ~/.config
-    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm ~/.iterm
-    /bin/cp -r /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.fonts ~/.fonts
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.local
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.config ~/.config
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm ~/.iterm
+    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.fonts ~/.fonts
 
     # move iTerm2 .plist file to current shell.
     /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist

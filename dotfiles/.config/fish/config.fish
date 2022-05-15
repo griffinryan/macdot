@@ -75,8 +75,6 @@ alias vi "nvim"
 alias less='less -FSRXc'
 # file-size in human terms
 alias df='df -h'
-# better version of which
-alias which "type -all"
 
 # Apps
 alias ide "open -a IntelliJ\ IDEA.app"
