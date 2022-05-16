@@ -56,10 +56,10 @@ set -g theme_newline_cursor no
 set -g theme_newline_prompt '$ '
 
 # Aliases
-alias ls "exa -a -R -L 2"
-alias l "exa"
-alias la "exa -a"
-alias ll "exa -a -T -L 2"
+alias ls "exa -a -R -L 2 --icons"
+alias l "exa --icons"
+alias la "exa -a --icons"
+alias ll "exa -a -T -L 2 --icons"
 # alias cd "cd $1 && l"
 
 alias c "clear"
