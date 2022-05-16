@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# macrice — glryan@uw.edu	|	https://griffinryan.com/
+
+# dotfile backup script
+
+function dotfileSave() {
+    # make a new /.macrice/ folder.
+    cd $HOME
+
+    # individually (and recursively) add parent directories.
+    /bin/cp -r ~/.macrice/.vim ~/.vim 2>/dev/null
+    /bin/cp -r ~/.macrice/.local ~/.local 2>/dev/null
+    /bin/cp -r ~/.macrice/.config ~/.config 2>/dev/null
+    /bin/cp -r ~/.macrice/.iterm ~/.iterm 2>/dev/null
+    /bin/cp -r ~/.macrice/.fonts ~/.fonts 2>/dev/null
+
+    # wildcard * to add all parent files.
+    /bin/cp ~/.macrice/.* ~/ 2>/dev/null
+}
+
+# Help page for macrice - a macOS configuration tool.
+    toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+# Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
+if [ "$1" == "--force" -o "$1" == "-f" ]; then
+    # force dotfileInstall() with -f argument
+    dotfileSave
+    # Status message.
+    printf "    '\33[1;35mmacrice\33[0m \33[1;33mrestore\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macrice/\33[0m.\n"
+else
+    # Status message.
+    printf "    This will \33[1;34mrestore existing\33[0m files in the home directory. \33[1;31mAre you sure\33[0m? (y/n) " 
+    read
+    echo;
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+        dotfileSave
+        # Status message.
+        printf "    '\33[1;35mmacrice\33[0m \33[1;33mrestore\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macrice/\33[0m.\n\n"
+    fi;
+fi;
+unset dotfileSave

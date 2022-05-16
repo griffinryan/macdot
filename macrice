@@ -45,6 +45,10 @@ function backupConfig() {
     bash /opt/homebrew/Cellar/macrice/**/lib/save
 }
 
+function restoreConfig() {
+    bash /opt/homebrew/Cellar/macrice/**/lib/restore
+}
+
 function uninstallTorpdots() {
     # run script for uninstall.sh
     bash /opt/homebrew/Cellar/macrice/**/lib/uninstall
@@ -73,6 +77,9 @@ elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
 elif [[ "$1" == "save" || "$1" == "backup" ]]; then
     # uses save.sh
     backupConfig;
+elif [[ "$1" == "restore" || "$1" == "revert" ]]; then
+    # uses restore.sh
+    restoreConfig;
 elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
     # uses itermconfig.sh
     itermConfig;

@@ -52,8 +52,8 @@ set -g theme_display_jobs_verbose no
 
 # set -g fish_prompt_pwd_dir_length 4
 # set -g theme_project_dir_length 4
-# set -g theme_newline_cursor no
-# set -g theme_newline_prompt '$ '
+set -g theme_newline_cursor no
+set -g theme_newline_prompt '$ '
 
 # Aliases
 alias ls "exa -a -R -L 2"
