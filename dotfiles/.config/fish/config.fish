@@ -3,18 +3,18 @@ set fish_greeting ""
 set -gx TERM xterm-256color
 
 # Theme
-set -g theme_color_scheme gruvbox
+set -g theme_color_scheme terminal-dark
 # Args: dark, light, solarized, solarized-dark, solarized-light, base16, 
 #       base16-dark, base16-light, zenburn, dracula, gruvbox, nord, 
 #       terminal, terminal-dark, terminal-light, terminal-light-black.
 
-set -g fish_prompt_pwd_dir_length 3
+set -g fish_prompt_pwd_dir_length 4
 set -g theme_display_user yes
 set -g theme_hide_hostname no
 set -g theme_hostname always
 
 # Theme
-# set -g theme_display_git no
+# set -g theme_display_git yes
 # set -g theme_display_git_dirty no
 # set -g theme_display_git_untracked no
 # set -g theme_display_git_ahead_verbose yes
@@ -30,9 +30,9 @@ set -g theme_hostname always
 # set -g theme_display_hg yes
 # set -g theme_display_virtualenv no
 # set -g theme_display_nix no
-# set -g theme_display_ruby no
-set -g theme_display_node yes
-set -g theme_display_user your_normal_user
+# # set -g theme_display_ruby no
+# set -g theme_display_node yes
+# set -g theme_display_user your_normal_user
 # set -g theme_display_hostname ssh
 # set -g theme_display_vi yes
 # set -g theme_display_date no
@@ -43,16 +43,16 @@ set -g theme_display_user your_normal_user
 # set -g theme_title_use_abbreviated_path no
 # set -g theme_date_format "+%a %H:%M"
 # set -g theme_date_timezone America/Los_Angeles
-set -g theme_avoid_ambiguous_glyphs yes
+# set -g theme_avoid_ambiguous_glyphs yes
 set -g theme_powerline_fonts no
 set -g theme_nerd_fonts yes
-set -g theme_show_exit_status yes
-# set -g theme_display_jobs_verbose yes
-set -g default_user your_normal_user
+# set -g theme_show_exit_status yes
+set -g theme_display_jobs_verbose no
+# set -g default_user your_normal_user
 
-set -g fish_prompt_pwd_dir_length 2
-set -g theme_project_dir_length 3
-set -g theme_newline_cursor no
+# set -g fish_prompt_pwd_dir_length 4
+# set -g theme_project_dir_length 4
+# set -g theme_newline_cursor no
 # set -g theme_newline_prompt '$ '
 
 # Aliases
@@ -70,6 +70,7 @@ alias mkdir "mkdir -pv"
 alias fm "vifm"
 alias fy "fzf"
 alias vi "nvim"
+alias vim "nvim"
 
 # better version of less
 alias less='less -FSRXc'
@@ -82,6 +83,8 @@ alias safari "open -a Safari.app"
 alias code "open -a Visual\ Studio\ Code.app"
 alias lc3 "open LC3Tools.app"
 alias f "open -a Finder ./"
+alias browse "open -a Safari.app"
+alias browser "open -a Safari.app"
 
 # Git Cheating
 alias gall "git add . && git commit -m 'Deployed some changes to main!' && git push && echo && echo"
