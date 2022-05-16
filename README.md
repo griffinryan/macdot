@@ -32,7 +32,7 @@ macrice restore
 ---------------
 The `restore` function reverts the dotfiles in your home directory to the dotfiles stored at `/.macrice/` from using `macrice save`.
 
-  macrice restore
+    macrice restore
 
 macrice iterm
 -------------
