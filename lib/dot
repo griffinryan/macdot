@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# macrice — glryan@uw.edu	|	https://griffinryan.com/
+# macdot — glryan@uw.edu	|	https://griffinryan.com/
 
 # dotfile management script
 NC='\33[0m'               # No Color
@@ -15,55 +15,55 @@ function dotfileInstall() {
     dotfileSave
     
     # wildcard * to add all parent files.
-    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.* ~/ 2>/dev/null
+    /bin/cp /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.* ~/ 2>/dev/null
 
     # individually (and recursively) add parent directories.
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.vim ~/.vim
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.local ~/.local
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.config ~/.config
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm ~/.iterm
-    /bin/cp -rf /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.fonts ~/.fonts
+    /bin/cp -rf /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.vim ~/.vim
+    /bin/cp -rf /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.local ~/.local
+    /bin/cp -rf /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.config ~/.config
+    /bin/cp -rf /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.iterm ~/.iterm
+    /bin/cp -rf /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.fonts ~/.fonts
 
     # move iTerm2 .plist file to current shell.
-    /bin/cp /opt/homebrew/Cellar/macrice/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+    /bin/cp /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.iterm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
     
     # make sure of Fish as default shell.
     # chsh -s /opt/homebrew/bin/fish
 }
 
 function dotfileSave() {
-    # make a new /.macrice/ folder.
+    # make a new /.macdot/ folder.
     cd $HOME
-    mkdir .macrice 2>/dev/null
-    mkdir .macrice/.vim 2>/dev/null
-    mkdir .macrice/.local 2>/dev/null
-    mkdir .macrice/.config 2>/dev/null
-    mkdir .macrice/.iterm 2>/dev/null
-    mkdir .macrice/.fonts 2>/dev/null
+    mkdir .macdot 2>/dev/null
+    mkdir .macdot/.vim 2>/dev/null
+    mkdir .macdot/.local 2>/dev/null
+    mkdir .macdot/.config 2>/dev/null
+    mkdir .macdot/.iterm 2>/dev/null
+    mkdir .macdot/.fonts 2>/dev/null
 
     # individually (and recursively) add parent directories.
-    /bin/cp -r ~/.vim ~/.macrice/.vim 2>/dev/null
-    /bin/cp -r ~/.local ~/.macrice/.local 2>/dev/null
-    /bin/cp -r ~/.config ~/.macrice/.config 2>/dev/null
-    /bin/cp -r ~/.iterm ~/.macrice/.iterm 2>/dev/null
-    /bin/cp -r ~/.fonts ~/.macrice/.fonts 2>/dev/null
+    /bin/cp -r ~/.vim ~/.macdot/.vim 2>/dev/null
+    /bin/cp -r ~/.local ~/.macdot/.local 2>/dev/null
+    /bin/cp -r ~/.config ~/.macdot/.config 2>/dev/null
+    /bin/cp -r ~/.iterm ~/.macdot/.iterm 2>/dev/null
+    /bin/cp -r ~/.fonts ~/.macdot/.fonts 2>/dev/null
 
     # wildcard * to add all parent files.
-    /bin/cp ~/.* ~/.macrice/ 2>/dev/null
+    /bin/cp ~/.* ~/.macdot/ 2>/dev/null
 }
 
-# Help page for macrice - a macOS configuration tool.
-toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+# Help page for macdot - a macOS configuration tool.
+toilet -d /opt/homebrew/Cellar/macdot/**/fonts -f larry3d 'macdot' | boxes -d parchment | lolcat -p 5
 # Status message.
-printf "    Now installing all \33[1;35mmacrice\33[0m dotfiles to home directory...\n"
+printf "    Now installing all \33[1;35mmacdot\33[0m dotfiles to home directory...\n"
 
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
     # force dotfileInstall() with -f argument
     dotfileInstall
     # Status message.
-    printf "       '\33[1;35mmacrice\33[0m \33[1;33msave\33[0m' backed up dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
-    printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;34msuccessfully installed\33[0m all dotfiles!\n"
+    printf "       '\33[1;35mmacdot\33[0m \33[1;33msave\33[0m' backed up dotfiles to \33[1;34m/~/.macdot/\33[0m.\n"
+    printf "    \33[1;35mmacdot\33[0m \33[1;33mdot\33[0m has \33[1;34msuccessfully installed\33[0m all dotfiles!\n"
 else
     # Status message.
     printf "    This will \33[1;31moverwrite existing\33[0m files in the home directory. \33[1;31mAre you sure\33[0m? (y/n) " 
@@ -72,8 +72,8 @@ else
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         dotfileInstall
         # Status message.
-        printf "    \33[1;35mmacrice\33[0m \33[1;33msave\33[0m backed up dotfiles to \33[1;34m/~/.macrice/\33[0m.\n"
-        printf "    \33[1;35mmacrice\33[0m \33[1;33mdot\33[0m has \33[1;32msuccessfully installed\33[0m all dotfiles!\n\n"
+        printf "    \33[1;35mmacdot\33[0m \33[1;33msave\33[0m backed up dotfiles to \33[1;34m/~/.macdot/\33[0m.\n"
+        printf "    \33[1;35mmacdot\33[0m \33[1;33mdot\33[0m has \33[1;32msuccessfully installed\33[0m all dotfiles!\n\n"
     fi;
 fi;
 unset dotfileInstall

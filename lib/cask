@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# macrice — glryan@uw.edu	|	https://griffinryan.com/
+# macdot — glryan@uw.edu	|	https://griffinryan.com/
 
 #   Install command-line tools using Homebrew, Torpoise style!
 echo;

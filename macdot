@@ -1,0 +1,114 @@
+#!/bin/bash
+
+# macdot — glryan@uw.edu	|	https://griffinryan.com/
+
+# TO-DO: Create a `macdot restore` function
+#        that restores the backup /~/.macdot/ to /~/.
+
+# macdot main     set at: /usr/local/bin/macdot
+# functions: help, list, formula, cask, apple, dot
+# path: /opt/homebrew/Cellar/macdot
+
+# all macdot() functions are set here
+
+function showInfo() {
+    # run script for info.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/help
+}
+
+function displayList() {
+    # run script for list.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/list
+}
+
+function brewFormula() {
+    # run script for formula.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/formula
+}
+
+function brewCask() {
+    # run script for cask.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/cask
+}
+
+function appleConfig() {
+    # run Applescript for apple executable
+    bash /opt/homebrew/Cellar/macdot/**/lib/apple
+}
+
+function dotConfig() {
+    # run script for dot.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/dot
+}
+
+function saveConfig() {
+    bash /opt/homebrew/Cellar/macdot/**/lib/save
+}
+
+function restoreConfig() {
+    bash /opt/homebrew/Cellar/macdot/**/lib/restore
+}
+
+function backupConfig() {
+    bash /opt/homebrew/Cellar/macdot/**/lib/backup
+}
+
+function uninstallTorpdots() {
+    # run script for uninstall.sh
+    bash /opt/homebrew/Cellar/macdot/**/lib/uninstall
+}
+
+function itermConfig() {
+    bash /opt/homebrew/Cellar/macdot/**/lib/itermconfig
+}
+
+function showHelp() {
+    bash /opt/homebrew/Cellar/macdot/**/lib/morehelp
+}
+
+# main loop set here
+if [[ -z "$1" ]]; then
+    # uses info.sh
+    showInfo;
+elif [[ "$1" == "help" || "$1" == "-h" ]]; then
+    showHelp;
+elif [[ "$1" == " " || "$1" == "  " ]]; then
+    showInfo;
+elif [[ "$2" == "help" || "$2" == "-h" ]]; then
+    showHelp;
+fi;
+
+if [[ "$1" == "list" || "$1" == "-l" ]]; then
+    # uses list.sh
+    displayList;
+elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
+    # uses formula.sh
+    brewFormula;
+elif [[ "$1" == "save" || "$1" == "Save" ]]; then
+    # uses save.sh
+    saveConfig;
+elif [[ "$1" == "restore" || "$1" == "revert" ]]; then
+    # uses restore.sh
+    restoreConfig;
+elif [[ "$1" == "backup" || "$1" == "backup" ]]; then
+    # uses restore.sh
+    backupConfig;
+elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
+    # uses itermconfig.sh
+    itermConfig;
+elif [[ "$1" == "cask" || "$1" == "casks" || "$1" == "-c" ]]; then
+    # uses cask.sh
+    brewCask;
+elif [[ "$1" == "apple" || "$1" == "-a" ]]; then
+    # uses apple (executable Applescript)
+    appleConfig;
+elif [[ "$1" == "dot" || "$1" == "-d" ]]; then
+    dotConfig;
+fi;
+
+unset showInfo;
+unset displayList;
+unset brewFormula;
+unset brewCask;
+unset appleConfig;
+unset dotConfig;

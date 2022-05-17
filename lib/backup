@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# macrice — glryan@uw.edu	|	https://griffinryan.com/
+# macdot — glryan@uw.edu	|	https://griffinryan.com/
 
 # dotfile backup script
 NC='\33[0m';              # No Color
@@ -38,15 +38,15 @@ function dotfileBackup() {
     /bin/cp -f ~/.* $PTD/ 2>/dev/null
 }
 
-# Help page for macrice - a macOS configuration tool.
-    toilet -d /opt/homebrew/Cellar/macrice/**/fonts -f larry3d 'Macrice' | boxes -d parchment | lolcat -p 5
+# Help page for macdot - a macOS configuration tool.
+    toilet -d /opt/homebrew/Cellar/macdot/**/fonts -f larry3d 'macdot' | boxes -d parchment | lolcat -p 5
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
     # force dotfileInstall() with -f argument
     dotfileBackup
 
     # Status message.
-    printf "    '\33[1;35mmacrice\33[0m \33[1;33mbackup\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macrice/\33[0m.\n"
+    printf "    '\33[1;35mmacdot\33[0m \33[1;33mbackup\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macdot/\33[0m.\n"
 else
     # Status message.
     printf "    This will \33[1;34mbackup existing\33[0m files in the home directory. \33[1;31mAre you sure\33[0m? (y/n) " 
@@ -56,7 +56,7 @@ else
         dotfileBackup
 
         # Status message.
-        printf "    '\33[1;35mmacrice\33[0m \33[1;33mbackup\33[0m' \33[1;32msuccessfully backed up\33[0m dotfiles to:\n"
+        printf "    '\33[1;35mmacdot\33[0m \33[1;33mbackup\33[0m' \33[1;32msuccessfully backed up\33[0m dotfiles to:\n"
         printf "    \33[1;34m$PTD/\33[0m\n\n"
     fi;
 fi;

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# macrice — glryan@uw.edu	|	https://griffinryan.com/
+# macdot — glryan@uw.edu	|	https://griffinryan.com/
 
 # Close any open System Preferences panes, to prevent them from overriding
 osascript -e 'tell application "System Preferences" to quit'
