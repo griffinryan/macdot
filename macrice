@@ -41,12 +41,16 @@ function dotConfig() {
     bash /opt/homebrew/Cellar/macrice/**/lib/dot
 }
 
-function backupConfig() {
+function saveConfig() {
     bash /opt/homebrew/Cellar/macrice/**/lib/save
 }
 
 function restoreConfig() {
     bash /opt/homebrew/Cellar/macrice/**/lib/restore
+}
+
+function backupConfig() {
+    bash /opt/homebrew/Cellar/macrice/**/lib/backup
 }
 
 function uninstallTorpdots() {
@@ -64,6 +68,8 @@ if [[ -z "$1" ]]; then
     showInfo;
 elif [[ "$1" == "help" || "$1" == "-h" ]]; then
     showInfo;
+elif [[ "$1" == " " || "$1" == "  " ]]; then
+    showInfo;
 elif [[ "$2" == "help" || "$2" == "-h" ]]; then
     showInfo;
 fi;
@@ -74,12 +80,15 @@ if [[ "$1" == "list" || "$1" == "-l" ]]; then
 elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
     # uses formula.sh
     brewFormula;
-elif [[ "$1" == "save" || "$1" == "backup" ]]; then
+elif [[ "$1" == "save" || "$1" == "Save" ]]; then
     # uses save.sh
-    backupConfig;
+    saveConfig;
 elif [[ "$1" == "restore" || "$1" == "revert" ]]; then
     # uses restore.sh
     restoreConfig;
+elif [[ "$1" == "backup" || "$1" == "backup" ]]; then
+    # uses restore.sh
+    backupConfig;
 elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
     # uses itermconfig.sh
     itermConfig;

@@ -4,7 +4,7 @@
 
 # dotfile backup script
 
-function dotfileSave() {
+function dotfileRestore() {
     # make a new /.macrice/ folder.
     cd $HOME
 
@@ -24,7 +24,8 @@ function dotfileSave() {
 # Install dotfiles to ~/.* from /usr/local/share/torpdots/dotfiles/.*
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
     # force dotfileInstall() with -f argument
-    dotfileSave
+    dotfileRestore
+
     # Status message.
     printf "    '\33[1;35mmacrice\33[0m \33[1;33mrestore\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macrice/\33[0m.\n"
 else
@@ -33,9 +34,10 @@ else
     read
     echo;
     if [[ $REPLY =~ ^[Yy]$ ]]; then
-        dotfileSave
+        dotfileRestore
+    
         # Status message.
         printf "    '\33[1;35mmacrice\33[0m \33[1;33mrestore\33[0m' \33[1;32msuccessfully restored\33[0m dotfiles from \33[1;34m/~/.macrice/\33[0m.\n\n"
     fi;
 fi;
-unset dotfileSave
+unset dotfileRestore
