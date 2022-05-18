@@ -9,7 +9,7 @@ Macdot is a dotfile manager. `macdot` easily configures dotfiles on macOS and Li
 
 ---
 
-# Installation
+## Installation
 
 To download Macdot with [homebrew](https://github.com/Homebrew/brew), run the following from the command line:
 
@@ -18,36 +18,48 @@ To download Macdot with [homebrew](https://github.com/Homebrew/brew), run the fo
 
 ---
 
-# Usage
+## Usage
 
 There are a few different features to Macdot. An easy way to start learning the Macdot magic is to simply run `macdot` in any shell.
 
     macdot
 
-##### `macdot save`
+---
+
+#### `macdot save`
 The `save` function saves a backup of your dotfiles in your home directory at `/.Macdot/` to restore later.
 
     macdot save
 
-##### `macdot restore`
+---
+
+#### `macdot restore`
 The `restore` function reverts the dotfiles in your home directory to the dotfiles stored at `/.Macdot/` from using `macdot save`.
 
     macdot restore
 
-##### `macdot backup`
+---
+
+#### `macdot backup`
 The `backup` function creates a backup of your dotfiles in a new directory. Using `macdot backup` will ask the user for a title of the new folder in the current working directory.
 
     macdot backup
 
-##### `macdot dot`
+---
+
+#### `macdot dot`
 The `dot` function configures dotfiles for macOS. This includes configurations for the [fish](https://github.com/fish-shell/fish-shell) shell, the [iTerm2](https://github.com/gnachman/iTerm2) terminal, [git](https://github.com/git/git), [vim](https://github.com/vim/vim), and *much* more!
 
     macdot dot
 
 `macdot save` is always used with `macdot dot`. Before using `dot`, dotfiles are automatically backed up in the home directory at `/.Macdot/`.
 
-##### `macdot help`
+---
+
+#### `macdot help`
 The `help` function displays _much_ more!
+
+    macdot help
 
 Thanks for using Macdot!
 

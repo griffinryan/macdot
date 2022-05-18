@@ -28,6 +28,9 @@ if has("nvim")
   Plug 'nvim-telescope/telescope.nvim'
   Plug 'windwp/nvim-autopairs'
   Plug 'windwp/nvim-ts-autotag'
+  Plug 'tjdevries/colorbuddy.vim'
+  " Plug 'tjdevries/gruvbuddy.nvim' 
+  Plug 'olimorris/onedarkpro.nvim'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }

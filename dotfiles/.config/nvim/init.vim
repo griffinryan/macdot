@@ -108,6 +108,8 @@ autocmd FileType coffee setlocal shiftwidth=2 tabstop=2
 autocmd FileType ruby setlocal shiftwidth=2 tabstop=2
 autocmd FileType yaml setlocal shiftwidth=2 tabstop=2
 
+" lua require('colorbuddy').colorscheme('gruvbuddy')
+
 "}}}
 
 " Imports "{{{
@@ -139,9 +141,9 @@ if exists("&termguicolors") && exists("&winblend")
   set pumblend=5
   set background=dark
   " Use NeoSolarized
-  let g:neosolarized_termtrans=1
-  runtime ./colors/NeoSolarized.vim
-  colorscheme NeoSolarized
+  " let g:neosolarized_termtrans=1
+  " runtime ./colors/onedarkpro.vim
+  colorscheme onedarkpro
 endif
 
 "}}}
