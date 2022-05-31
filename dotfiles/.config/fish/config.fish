@@ -62,6 +62,7 @@ alias la "exa -a --icons"
 alias ll "exa -a -T -L 2 --icons"
 # alias cd "cd $1 && l"
 
+alias g "git"
 alias c "clear"
 alias mv "mv -iv"
 alias cp "cp -iv"
