@@ -52,8 +52,8 @@ set -g theme_display_jobs_verbose no
 
 # set -g fish_prompt_pwd_dir_length 4
 # set -g theme_project_dir_length 4
-set -g theme_newline_cursor no
-set -g theme_newline_prompt '$ '
+# set -g theme_newline_cursor no
+# set -g theme_newline_prompt '$ '
 
 # Aliases
 alias ls "exa -a -R -L 2 --icons"
@@ -67,6 +67,9 @@ alias c "clear"
 alias mv "mv -iv"
 alias cp "cp -iv"
 alias mkdir "mkdir -pv"
+
+alias ... ".. && .."
+alias .... ".. && .. && .."
 
 alias fm "vifm"
 alias fy "fzf"
@@ -86,6 +89,7 @@ alias lc3 "open LC3Tools.app"
 alias f "open -a Finder ./"
 alias browse "open -a Safari.app"
 alias browser "open -a Safari.app"
+alias spotify "open -a Spotify.app"
 
 # Git Cheating
 alias gall "git add . && git commit -m 'Deployed some changes to main!' && git push && echo && echo"
@@ -118,6 +122,7 @@ set -gx PATH node_modules/.bin $PATH
 set -g GOPATH $HOME/go
 set -gx PATH $GOPATH/bin $PATH
 set -gx PATH /opt/homebrew/bin $PATH
+set -gx JAVA_HOME /usr/bin/java $JAVA_HOME
 
 # Others
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin $PATH
