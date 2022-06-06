@@ -300,7 +300,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.7607843279838562
   },
-  "Window Type" : 10,
+  "Window Type" : 12,
   "Use Bright Bold" : true,
   "Cursor Text Color" : {
     "Red Component" : 0.99999600648880005,
@@ -352,7 +352,7 @@
   "Smart Cursor Color" : false,
   "Ambiguous Double Width" : false,
   "Blur Radius" : 12.239295212765958,
-  "Cursor Type" : 0,
+  "Cursor Type" : 1,
   "Ansi 0 Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
