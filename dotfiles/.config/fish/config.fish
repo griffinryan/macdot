@@ -122,7 +122,7 @@ set -gx PATH node_modules/.bin $PATH
 set -g GOPATH $HOME/go
 set -gx PATH $GOPATH/bin $PATH
 set -gx PATH /opt/homebrew/bin $PATH
-set -gx JAVA_HOME /usr/bin/java $JAVA_HOME
+# set -gx JAVA_HOME /Users/griffinryan/Library/Java/JavaVirtualMachines/corretto-16.0.2/Contents/Home/bin/java $JAVA_HOME
 
 # Others
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin $PATH
@@ -146,6 +146,10 @@ function __check_rvm --on-variable PWD --description 'Do nvm stuff'
     nvm use
   else
   end
+end
+
+function showmd
+  command mdcat $argv/README.md
 end
 
 # switch (uname)
