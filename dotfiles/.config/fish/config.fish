@@ -56,20 +56,16 @@ set -g theme_display_jobs_verbose no
 # set -g theme_newline_prompt '$ '
 
 # Aliases
-alias ls "exa -a -R -L 2 --icons"
+alias ls "exa -a -R -L 4 --icons"
 alias l "exa --icons"
 alias la "exa -a --icons"
-alias ll "exa -a -T -L 2 --icons"
+alias ll "exa -a -T -L 4 --icons"
 # alias cd "cd $1 && l"
 
-alias g "git"
 alias c "clear"
 alias mv "mv -iv"
 alias cp "cp -iv"
 alias mkdir "mkdir -pv"
-
-alias ... ".. && .."
-alias .... ".. && .. && .."
 
 alias fm "vifm"
 alias fy "fzf"
@@ -82,14 +78,12 @@ alias less='less -FSRXc'
 alias df='df -h'
 
 # Apps
-alias ide "open -a IntelliJ\ IDEA.app"
+alias ide "open IntelliJ\ IDEA.app"
 alias safari "open -a Safari.app"
-alias code "open -a Visual\ Studio\ Code.app"
 alias lc3 "open LC3Tools.app"
 alias f "open -a Finder ./"
 alias browse "open -a Safari.app"
 alias browser "open -a Safari.app"
-alias spotify "open -a Spotify.app"
 
 # Git Cheating
 alias gall "git add . && git commit -m 'Deployed some changes to main!' && git push && echo && echo"
@@ -122,7 +116,6 @@ set -gx PATH node_modules/.bin $PATH
 set -g GOPATH $HOME/go
 set -gx PATH $GOPATH/bin $PATH
 set -gx PATH /opt/homebrew/bin $PATH
-# set -gx JAVA_HOME /Users/griffinryan/Library/Java/JavaVirtualMachines/corretto-16.0.2/Contents/Home/bin/java $JAVA_HOME
 
 # Others
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin $PATH
@@ -148,18 +141,14 @@ function __check_rvm --on-variable PWD --description 'Do nvm stuff'
   end
 end
 
-function showmd
-  command mdcat $argv/README.md
+switch (uname)
+  case Darwin
+    source (dirname (status --current-filename))/config-osx.fish
+  case Linux
+    source (dirname (status --current-filename))/config-linux.fish
+  case '*'
+    source (dirname (status --current-filename))/config-windows.fish
 end
-
-# switch (uname)
-#   case Darwin
-#     source (dirname (status --current-filename))/config-osx.fish
-#   case Linux
-#     source (dirname (status --current-filename))/config-linux.fish
-#   case '*'
-#     source (dirname (status --current-filename))/config-windows.fish
-# end
 
 set LOCAL_CONFIG (dirname (status --current-filename))/config-local.fish
 if test -f $LOCAL_CONFIG
