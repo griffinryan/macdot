@@ -1,0 +1,4189 @@
+{
+	"folders": [
+		{
+			"path": "/home/griffinryan/Desktop"
+		},
+		{
+			"path": "/home/griffinryan/Documents"
+		},
+		{
+			"path": "/home/griffinryan/Documents/ryan_lin_amian_iteration1"
+		},
+		{
+			"path": "/home/griffinryan/Documents/wavs"
+		},
+		{
+			"path": "/home/griffinryan/Documents/wavs/wav"
+		},
+		{
+			"path": "/home/griffinryan/Downloads"
+		},
+		{
+			"path": "/home/griffinryan/Downloads/DungeonAdventureSamples"
+		},
+		{
+			"path": "/home/griffinryan/Downloads/DungeonAdventureSamples/music"
+		},
+		{
+			"path": "/home/griffinryan/Downloads/DungeonAdventureSamples/sounds"
+		},
+		{
+			"path": "/home/griffinryan/Downloads/sprite"
+		},
+		{
+			"path": "/home/griffinryan/Downloads/spritesheet"
+		},
+		{
+			"path": "/home/griffinryan/Screenshots"
+		},
+		{
+			"path": "/home/griffinryan/workspace"
+		},
+		{
+			"path": "/home/griffinryan/workspace/Assignment2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/Assignment2/Obstruction"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src/com/torpoise"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src/com/torpoise/annie"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src/com/torpoise/annie/game"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/annie/src/com/torpoise/annie/graphics"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV/examples"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV/examples/cv"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV/examples/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV/examples/resume"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/Awesome-CV/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bigram"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bigram/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bigram/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bstree"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bstree/bstree"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bstree/bstree/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/bstree/bstree/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ArrayComplexity"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ArrayComplexity/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ArrayComplexity/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Assignment1"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Assignment1/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Assignment1/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Exceptions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Exceptions/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/Exceptions/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ObjectReview"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ObjectReview/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/20sp/ObjectReview/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/arraylist"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/ArrayList"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/AsymptoticAnalysis"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/AsymptoticAnalysis/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/ClassDesign"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/ClassDesign/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/Exceptions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/Exceptions/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/Recursion"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/lecturenotes/Recursion/search"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/recursionASSIGNMENT3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/test"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/test/objectdesign"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/lecture/lecturenotes/warehouse"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/Recursion"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/Recursion/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/classnotes/Recursion/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/dllist"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/dot"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/dot/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/dot/dotfiles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/dot/scripts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/ialist"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/improvedqueue"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/AnimalFunctions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/artwork"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras/axroutrunner"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras/Heavy-Data"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras/pacifico"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras/streamster"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/font/extras/VCR_OSD_MONO"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/logo"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/samples"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/sound"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/assets/sound/compressed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/BirthdayVisualization"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/ElliArray"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/Figure_I_2_Bell_Curve"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/Figure_I_2_Bell_Curve/Figure_I_2_Bell_Curve"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/JumpingMonster"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/KiteInspiration"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/KiteInspiration/data"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/LegoFamily"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/LogoDesign"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/RainBucket"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/TaijituDrawing"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/sketchbook/TotoroScene"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw0"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw0/username-orientation"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw0/username-orientation/support_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin/appliation"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin/res"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/bin/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src/appliation"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src/res"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/src/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw1/username-bookstore/support_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin/logic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin/tests"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/bin/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src/logic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src/tests"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/src/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw2/username-roadrage/support_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/bin/contoller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/bin/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/bin/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/images"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/src/contoller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/src/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/src/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw3/username-coloradjuster/support_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/application"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/controller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/model/info"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/model/messages"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/bin/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/images"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/race_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/application"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/controller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/model/info"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/model/messages"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/src/view"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/charles_tcss305/hw4/username-raceday/support_files"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter1"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter4"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter5"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter6"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter7"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/chapter8"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/Project1"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/Project2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/Project3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/introduction142/Project4"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/practicum305"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/tcss/practicum305/textbook_pages"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/unruly"
+		},
+		{
+			"path": "/home/griffinryan/workspace/caffeine/warehouse"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/com/griffinryan/doter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/com/griffinryan/doter/editor"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/com/griffinryan/doter/gui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/gui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons/close"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons/diagnostic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons/invert_colors"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons/popup"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/icons/taskbar"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_Condensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_Expanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_ExtraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_ExtraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_SemiCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_SemiExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_UltraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_UltraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata,Source_Sans_Pro/Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_Condensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_Expanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_ExtraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_ExtraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_SemiCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_SemiExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_UltraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Inconsolata/static/Inconsolata_UltraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/lsp"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/lsp/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/lsp/java/project-template"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/bin/main/Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/gradle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/gradle/wrapper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/package"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/package/build"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/package/build/bundle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java/com/griffinryan/doter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java/com/griffinryan/doter/editor"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/java/com/griffinryan/doter/gui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/com/griffinryan/doter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/gui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons/close"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons/diagnostic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons/invert_colors"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons/popup"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/icons/taskbar"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_Condensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_Expanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_ExtraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_ExtraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_SemiCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_SemiExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_UltraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Inconsolata/static/Inconsolata_UltraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata,Source_Sans_Pro/Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_Condensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_Expanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_ExtraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_ExtraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_SemiCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_SemiExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_UltraCondensed"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Inconsolata/static/Inconsolata_UltraExpanded"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/lsp"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/lsp/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/lsp/java/project-template"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DoterEditor/src/main/resources/Source_Sans_Pro"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/controller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/engine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/engine/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/engine/component"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/engine/utils"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/model/dungeon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/model/heroes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/classes/java/main/com/griffinryan/dungeonadventure/model/monsters"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/distributions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/annotationProcessor"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/annotationProcessor/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/annotationProcessor/java/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/headers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/headers/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/generated/sources/headers/java/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/libs"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/text"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/CaveBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/ForestBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/ForestBackground/parallax_forest_pack web"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/ForestBackground/parallax_forest_pack web/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/MountainBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/MountainBackground/parallax_mountain_pack"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/MountainBackground/parallax_mountain_pack/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/parallax/StarsBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/potion"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/sprite"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/sprite/player"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/textures/spritesheet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/ui/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/assets/ui/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/resources/main/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/scripts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/tmp"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/tmp/compileJava"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/tmp/fatJar"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/build/tmp/jar"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/gradle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/gradle/wrapper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/logs"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/controller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/engine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/engine/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/engine/component"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/engine/utils"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/model/dungeon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/model/heroes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/model/monsters"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/text"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/CaveBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/ForestBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/ForestBackground/parallax_forest_pack web"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/ForestBackground/parallax_forest_pack web/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/MountainBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/MountainBackground/parallax_mountain_pack"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/MountainBackground/parallax_mountain_pack/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/parallax/StarsBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/potion"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/sprite"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/sprite/player"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/textures/spritesheet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/ui/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/assets/ui/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/src/main/resources/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/DungeonAdventure/system"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Asteroids/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/BattleTanks/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames/bomberman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames/bomberman/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Bomberman/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames/breakout"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames/breakout/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/textures/anim"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/textures/bg"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/textures/particles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Breakout/src/main/resources/assets/ui/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Cannon/src/main/java/com/almasb/fxglgames/cannon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/java/com/almasb/fxglgames/cc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/CrystalChase/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/java/com/almasb/fxglgames/drop"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Drop/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/java/com/almasb/fxglgames/flappy"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/FlappyBird/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeoJumper/src/main/kotlin/com/almasb/fxglgames/geojumper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/component"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/component/enemy"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/menu"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/service"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/wave"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/textures/particles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/src/main/resources/assets/ui/cursors"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/textures/particles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/assets/ui/cursors"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/component"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/component/enemy"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/menu"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/service"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/classes/com/almasb/fxglgames/geowars/wave"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/generated-sources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/generated-sources/annotations"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/maven-status"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/maven-status/maven-compiler-plugin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/maven-status/maven-compiler-plugin/compile"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/maven-status/maven-compiler-plugin/compile/default-compile"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/GeometryWars/target/test-classes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames/gravity"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames/gravity/scifi"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets/text"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets/text/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Gravity/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/KeyRain"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/KeyRain/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/KeyRain/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/KeyRain/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/KeyRain/src/main/java/keyrain"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/java/com/almasb/fxglgames/platformer"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Mario/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/java/com/almasb/fxglgames/ncc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb/fxglgames/ncc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets/decks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures/cards"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures/skills"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/NinjaCardCombat/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/kotlin/com/almasb/fxglgames/outrun"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/OutRun/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman/components/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pacman/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/java/com/almasb/fxglgames/pong"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Pong/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames/rts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames/rts/actions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/RTSGame/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/Shooter/src/main/java/com/almasb/fxglgames/shooter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames/slotmachine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames/slotmachine/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/bet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/combo"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/won"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SlotMachine/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/event"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/level"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/level/boss"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/properties"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/textures/bosses"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceInvaders/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRanger/src/main/java/com/almasb/fxglgames/spaceranger"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/level"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/kv"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/properties"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/SpaceRunner/src/main/resources/assets/textures/powerups"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe/event"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/buffs"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/data"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/ui/scene"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/enemies"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/textures/enemies"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/textures/towers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/towers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/FXGLGames/TowerDefense/src/main/resources/assets/ui/css"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/bin/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/bin/main/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/bin/main/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/bin/main/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/gradle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/gradle/wrapper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/basic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/dungeon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/heroes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/monsters"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/java/com/griffinryan/dungeonadventure/systems"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/resources/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/resources/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/DungeonAdventure/src/main/resources/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Asteroids/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/java/com/almasb/fxglgames/tanks/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/BattleTanks/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames/bomberman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/java/com/almasb/fxglgames/bomberman/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Bomberman/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames/breakout"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/java/com/almasb/fxglgames/breakout/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/textures/anim"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/textures/bg"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/textures/particles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Breakout/src/main/resources/assets/ui/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Cannon/src/main/java/com/almasb/fxglgames/cannon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/java/com/almasb/fxglgames/cc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/CrystalChase/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/java/com/almasb/fxglgames/drop"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Drop/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/java/com/almasb/fxglgames/flappy"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/FlappyBird/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeoJumper/src/main/kotlin/com/almasb/fxglgames/geojumper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/component"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/component/enemy"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/menu"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/service"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/java/com/almasb/fxglgames/geowars/wave"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/textures/particles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/GeometryWars/src/main/resources/assets/ui/cursors"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames/gravity"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/java/com/almasb/fxglgames/gravity/scifi"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets/text"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets/text/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Gravity/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/KeyRain"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/KeyRain/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/KeyRain/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/KeyRain/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/KeyRain/src/main/java/keyrain"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/android"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/java/com/almasb/fxglgames/platformer"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Mario/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/java/com/almasb/fxglgames/ncc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/kotlin/com/almasb/fxglgames/ncc"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets/decks"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures/cards"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets/textures/skills"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/NinjaCardCombat/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/kotlin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/kotlin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/kotlin/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/kotlin/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/kotlin/com/almasb/fxglgames/outrun"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/OutRun/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/java/com/almasb/fxglgames/pacman/components/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pacman/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/java/com/almasb/fxglgames/pong"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Pong/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames/rts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/java/com/almasb/fxglgames/rts/actions"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/RTSGame/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/Shooter/src/main/java/com/almasb/fxglgames/shooter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames/slotmachine"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/java/com/almasb/fxglgames/slotmachine/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/bet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/combo"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/textures/animation/won"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SlotMachine/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/event"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/level"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/java/com/almasb/fxglgames/spaceinvaders/level/boss"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/properties"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/textures/background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/textures/bosses"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceInvaders/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRanger/src/main/java/com/almasb/fxglgames/spaceranger"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/collision"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/java/com/almasb/fxglgames/spacerunner/level"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/kv"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/properties"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/SpaceRunner/src/main/resources/assets/textures/powerups"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe/ai"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TicTacToe/src/main/java/com/almasb/fxglgames/tictactoe/event"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/buffs"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/data"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/java/com/almasb/fxglgames/td/ui/scene"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/enemies"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/levels"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/levels/tmx"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/textures/enemies"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/textures/towers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/towers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/FXGLGames/TowerDefense/src/main/resources/assets/ui/css"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/gradle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/gradle/wrapper"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/logs"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/basic"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/controller"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/dungeon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/heroes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/model"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/model/dungeon"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/model/heroes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/model/monsters"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/monsters"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/java/com/griffinryan/dungeonadventure/systems"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com/griffinryan/dungeonadventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com/griffinryan/dungeonadventure/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com/griffinryan/dungeonadventure/assets/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/gitrepos/oldgitDA/src/main/resources/com/griffinryan/dungeonadventure/assets/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/font-awesome"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/font-awesome/css"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/font-awesome/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/font-awesome/less"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/font-awesome/scss"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fontello"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fontello/css"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fontello/font"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fonts/librebaskerville"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fonts/opensans"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fonts/pacifico"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/css/fonts/tobi"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/images"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/images/portfolio"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/public/js"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/griffinpage/src/Components"
+		},
+		{
+			"path": "/home/griffinryan/workspace/homebrew-macdot"
+		},
+		{
+			"path": "/home/griffinryan/workspace/macdot"
+		},
+		{
+			"path": "/home/griffinryan/workspace/macdot/dotfiles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/macdot/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/macdot/lib"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/CompressedLiterature"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/CompressedLiterature/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/CompressedLiterature/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/CompressedLiterature/out/production/untitled104"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Dynamically-Evolve-a-Given-Name"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Dynamically-Evolve-a-Given-Name-using-Java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ExceptionsExample"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ExceptionsExample/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ExceptionsExample/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ExceptionsExample/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/GameIntArray"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/GameIntArray/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/GameIntArray/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/GameIntArray/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/AssignmentsProjects"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/AssignmentsProjects/Compressed - Assignment 3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Breadth-First-Search-After-Generating-Maze"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Breadth-First-Search-After-Generating-Maze/TCSS 342 Assignment 5 (Maze Generator)"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Breadth-First-Search-After-Generating-Maze/TCSS 342 Assignment 5 (Maze Generator)/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Compressed-Literature"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Compressed-Literature-2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/CompressedLiterature"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/CompressedLiterature2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/DungThaiAssignment3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2)"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2) Version 2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2) Version 2/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2) Version 2/extra src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2) Version 2/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Hashing-Implementation-of-Huffman-Coding/TCSS 342 Assignment 4 (Compressed Literature 2)/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature)"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature) Version 2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature) Version 2/extrafiles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature) Version 2/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature)/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature)/extrafiles"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/gitrepos/Huffman-Codes-to-Encode-War-and-Peace/TCSS 342 Assignment 3 (Compressed Literature)/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/MinInt"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/MinInt/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/MinInt/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/MinInt/out/production/MinInt"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/MinInt/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/NameEvolution"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/NameEvolution/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ObjectCloning"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ObjectCloning/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ObjectCloning/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/ObjectCloning/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out/production/untitled104"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out/production/untitled104/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out/production/untitled104/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/out/production/untitled104/com/griffinryan/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#01-Ryan_Griffin/src/com/griffinryan/io"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/src/main/java/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/src/main/java/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/target"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/target/classes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/target/classes/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04-Ryan_Griffin/target/classes/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/out/production/PRGA#04-Ryan_Griffin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/out/production/PRGA#04-Ryan_Griffin/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/out/production/PRGA#04-Ryan_Griffin/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/PRGA#04/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/SquareRoot"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/SquareRoot/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/SquareRoot/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/SquareRoot/out/production/SquareRoot"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/SquareRoot/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/StudentEquals"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/StudentEquals/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/StudentEquals/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/StudentEquals/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/buildResources"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/main/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/preload"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/preload/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/preload/types"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/renderer"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/renderer/assets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/packages/renderer/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/scripts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/tests"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/TypeScriptMarkdownDoter/types"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/W04Wed-305B-Example-AbstractClass"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/W04Wed-305B-Example-AbstractClass/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/W04Wed-305B-Example-AbstractClass/src/tcss305"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/out/production/Window"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/out/production/Window/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/out/production/Window/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/src/com"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/examples/Window/src/com/griffinryan"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/text"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/textures"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/textures/potion"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/textures/sprite"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/textures/sprite/player"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/textures/spritesheet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/ui"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/ui/fonts"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventure/ui/icons"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventureSamples"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventureSamples/music"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/DungeonAdventureSamples/sounds"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/Enjl-Starry Space Background"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web/__MACOSX"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web/__MACOSX/parallax_forest_pack web"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web/__MACOSX/parallax_forest_pack web/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web/parallax_forest_pack web"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_forest_pack web/parallax_forest_pack web/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack/__MACOSX"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack/__MACOSX/parallax_mountain_pack"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack/__MACOSX/parallax_mountain_pack/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack/parallax_mountain_pack"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/parallax_mountain_pack/parallax_mountain_pack/layers"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/ParallaxBackground"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/sprite"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/GameAssets/spritesheet"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/gitexamples"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/gitexamples/Huffman-Codes-to-Encode-War-and-Peace"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/HashingCompression"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/BurgerBaron"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/BurgerBaron/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/CompressedLiterature"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/CompressedLiterature/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/EvolvedNames"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/EvolvedNames/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/HashingCompression"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/HashingCompression/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/bin"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_linux"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_mac"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_mac/org.eclipse.core.runtime"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_mac/org.eclipse.equinox.app"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_mac/org.eclipse.osgi"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_ss_linux"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_ss_mac"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_ss_win"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/jdt-language-server-1.9.0-202203031534 2/config_win"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/src"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/src/main"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/java/SwingAWTDoter/src/main/java"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/LC3"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/notes"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/notes/DataStructures_LectureSlides"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/python"
+		},
+		{
+			"path": "/home/griffinryan/workspace/practicum/python/SlidingPuzzle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/SlidingPuzzle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/SlidingPuzzle/out"
+		},
+		{
+			"path": "/home/griffinryan/workspace/SlidingPuzzle/out/production"
+		},
+		{
+			"path": "/home/griffinryan/workspace/SlidingPuzzle/out/production/SlidingPuzzle"
+		},
+		{
+			"path": "/home/griffinryan/workspace/SlidingPuzzle/src"
+		}
+	]
+}

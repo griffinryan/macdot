@@ -1,0 +1,28 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/workspace/DungeonAdventure" value="true" />
+        <entry key="$USER_HOME$/workspace/FXGLGames/GeometryWars" value="true" />
+        <entry key="$USER_HOME$/workspace/FXGLGames/Pong" value="true" />
+        <entry key="$USER_HOME$/workspace/Sliding-puzzle-solver" value="true" />
+        <entry key="$USER_HOME$/workspace/SlidingPuzzle" value="true" />
+        <entry key="$USER_HOME$/workspace/blind-huristic-search" value="true" />
+        <entry key="$USER_HOME$/workspace/practicum/BurgerBaron" value="true" />
+        <entry key="$USER_HOME$/workspace/practicum/CompressedLiterature" value="true" />
+        <entry key="$USER_HOME$/workspace/practicum/EvolvedNames" value="true" />
+        <entry key="$USER_HOME$/workspace/practicum/HashingCompression" value="true" />
+        <entry key="$USER_HOME$/workspace/slider-puzzle-search" value="true" />
+        <entry key="$USER_HOME$/workspace/sliding-block-puzzle" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/workspace/practicum" />
+        <option value="$USER_HOME$/workspace" />
+      </list>
+    </option>
+  </component>
+</application>

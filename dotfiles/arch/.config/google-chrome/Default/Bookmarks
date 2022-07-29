@@ -1,0 +1,1285 @@
+{
+   "checksum": "bb88776fa79b7cac85a0b03ee5e927ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13276211581274706",
+            "guid": "a5c15922-144d-475d-8bb6-a1742648a00e",
+            "id": "8",
+            "name": "Dashboard",
+            "type": "url",
+            "url": "https://canvas.uw.edu/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13259376545893470",
+                        "guid": "81b739d1-116c-469b-89fe-e8ce22dff069",
+                        "id": "13",
+                        "name": "1-1 Find the Component Form of a Vector by using the1-1 Initial and Terminal Points (2D) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=8dNNfoYdL3k&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376628954319",
+                        "guid": "9c659e53-d5c9-4231-9d1d-c0fc500330f3",
+                        "id": "14",
+                        "name": "1-2 Geometric Interpretation of Vector Arithmetic - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=hxxY7KIS-gI&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376650629688",
+                        "guid": "86246e47-a0e0-4b33-aa2c-f91ac0b2fda0",
+                        "id": "15",
+                        "name": "1-3 Write a Vector as a Combination of Two Vectors - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=RS5SeVkrKik&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376738736697",
+                        "guid": "c6fb81b4-6c44-492d-bfd8-4602958d6646",
+                        "id": "16",
+                        "name": "1-4 Component Form of a Vector Given Magnitude and Direction (Q3) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=c6S114t3eEY&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376763235833",
+                        "guid": "c0d6691b-f380-4b7a-ac75-cc1811cbbe7e",
+                        "id": "17",
+                        "name": "1-5 Find the Magnitude and Direction of a Vector: Radians in Quadrant 1 - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Cs-kULIBBRA&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376779915790",
+                        "guid": "b4053b51-b6d1-4099-a843-9cfd7313732f",
+                        "id": "18",
+                        "name": "1-6 Find the Net Force of Three Vectors and the Opposite Force - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=4EFXTBK-5e0&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376807207352",
+                        "guid": "6a20c04b-dcc0-411b-855d-d56749c2a3f8",
+                        "id": "19",
+                        "name": "2-1 Determine the Distance Between a Point and a Coordinate Plane in R3 - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=JcKBmlfnQVw&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376819410013",
+                        "guid": "af35e383-e34f-4dde-84d2-a1ee9d6a07a0",
+                        "id": "20",
+                        "name": "2-2 Equation of a Sphere Given the Center and Radius - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=gU-vC1ROt_A&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376837726952",
+                        "guid": "a8f1fac8-ac2e-4ceb-91a9-b5b8a420912e",
+                        "id": "21",
+                        "name": "2-3 Find the Component Form of a Vector in Space Given the Initial and Terminal Point - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=rGSRdW5SFRE&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376856752362",
+                        "guid": "4336d3a8-9b1d-44c6-8076-3ad90a416aa4",
+                        "id": "22",
+                        "name": "2-4 Find the Magnitude of a Vector in 3D - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=EXPPDzV2BFY&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376889211463",
+                        "guid": "5f525ed5-e7cc-40d3-ba56-03d8b502790e",
+                        "id": "23",
+                        "name": "2-5 Find the Sum of Scalar Multiples of Two Vectors in 3D (Component Form) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=W1XHSYhpcBA&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376900298440",
+                        "guid": "286ea383-0e6d-48df-9d85-f3ea993d0f5d",
+                        "id": "24",
+                        "name": "2-6 Find the Parametric Equations of a Line in Space Given Two Points on the Line - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=kXpQz6z5Ih0&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376913546365",
+                        "guid": "612d5d17-a2c9-42a0-91ad-8d5c6c2606e4",
+                        "id": "25",
+                        "name": "2-7 Find the Point of Intersection of a Line Given by a Vector Function and a Coordinate Plane - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=5g2YSL2Dpw0&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376934492471",
+                        "guid": "54bb13e9-4951-47a9-aa66-91ae9b75fcee",
+                        "id": "26",
+                        "name": "2-8 Find the Difference of Scalar Multiples of Two Vectors in 3D (Linear Combination Form) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jYcZNaqJClg&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376952092638",
+                        "guid": "f4a8dd26-7dbc-4fdd-84d6-91e9d458ce3b",
+                        "id": "27",
+                        "name": "2-9 Find a Unit Vector in the Direction of a Given Vector in 3D - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=eqLY8K-6Vi8&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376978866456",
+                        "guid": "29cec9d0-c62f-4d0d-b762-cd7b5695db2f",
+                        "id": "28",
+                        "name": "3-1 Dot Product of Vectors - 3D - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=86ALeODKd-g&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259376989295525",
+                        "guid": "9f8784b3-2a3d-4aeb-b84a-2a351f766721",
+                        "id": "29",
+                        "name": "3-2 Find the Angle Between Two Vectors in Three Dimensions - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=S_568VZWFJo&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377002477527",
+                        "guid": "afb51229-88a5-4ffd-80f6-febc68af3076",
+                        "id": "30",
+                        "name": "3-3 Find a Component of a Vector So Two Vectors are Orthogonal (Dot Product) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=2k-sjNwfiT4&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377035981271",
+                        "guid": "876a63db-c3ca-4123-beeb-ce33bb0a5e96",
+                        "id": "31",
+                        "name": "3-4 Vector Projection in Three Dimensions - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=RxRwK81CVew&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377049989261",
+                        "guid": "3c0b2274-8a15-4c66-93ed-c8e2ae5476fb",
+                        "id": "32",
+                        "name": "3-5 Determine the Dot Product of Two Vectors Given Magnitude and Direction - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=lVD112yGI5g&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377097774560",
+                        "guid": "39360ef5-d81c-4477-a9a1-040288e527b0",
+                        "id": "33",
+                        "name": "4-1 Find the Cross Product of Two Vectors - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=f7umVs_vl-Q&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377113243553",
+                        "guid": "39a4cd45-3eb1-407a-90d3-1bcc93c005f3",
+                        "id": "34",
+                        "name": "4-2 Properties of Cross Products - Cross Product of a Sum and Difference - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=KfOv3SR144c&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377128697529",
+                        "guid": "f3f256b9-5c72-4067-b534-5c3b5cadad1e",
+                        "id": "35",
+                        "name": "4-3 Find the Area of a Triangle Using Vectors - 3D - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=MnpaeFPyn1A&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377236309810",
+                        "guid": "3636c753-9ef2-4c7f-80bb-370dcd163650",
+                        "id": "36",
+                        "name": "4-4 Find Two Unit Vectors Orthogonal to Two Given Vectors - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=QjXOWRpiVV4&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377259891892",
+                        "guid": "c8b612ab-9a6a-49af-9c4c-49b23560bb64",
+                        "id": "37",
+                        "name": "4-5 The Triple Scalar Product - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=mbeELeZP9_Y&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377291256534",
+                        "guid": "82d57e91-28cc-40f2-9930-698b38444252",
+                        "id": "38",
+                        "name": "5-1 Find the Equation of a Plane Given Three Points in the Plane Using Vectors - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=A3m450k7qMY&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377305940686",
+                        "guid": "8f7ca052-49c9-44e9-8c4f-847339d1acd3",
+                        "id": "39",
+                        "name": "5-2 Find the Equation of a Plane Given an Orthogonal Line (Parametric) and a Point - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=eR7fmWA84j4&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377318839543",
+                        "guid": "6b4b8094-515d-4b48-ba25-39f450afe3c5",
+                        "id": "40",
+                        "name": "5-3 Find the Equation of the Plane Containing a Given Line and a Point Using Vectors - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=m-6u41gMsTg&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377329140638",
+                        "guid": "e996c46f-b6b9-43f4-a422-072fb40092c9",
+                        "id": "41",
+                        "name": "5-4 Find the Equation of Plane Containing a Line and Orthogonal to a Given Plane - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=aupy5wwAyb8&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377360933114",
+                        "guid": "fbd7ec8b-d04d-457e-855e-9d67a45cda98",
+                        "id": "42",
+                        "name": "5-5 Find Parametric Equations of a Line in Space Parallel to a Vector Containing a Given Point - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=iByvJhXGPaQ&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377372439063",
+                        "guid": "896bbf3c-3eb2-42b8-bf67-006febc1185b",
+                        "id": "43",
+                        "name": "5-6 Find the Parametric Equations of a Line Perpendicular to a Plane Through a Point - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=SeIGDiERb0k&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377385367117",
+                        "guid": "12c2253a-47f1-4aaf-847d-4f15a4d4abc0",
+                        "id": "44",
+                        "name": "5-7 Determine the Linear Equation of the Intersection to Two Planes - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=q2FO675dmyM&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377472290992",
+                        "guid": "8f169e58-7dc8-4335-a532-4c8bb8697e3b",
+                        "id": "45",
+                        "name": "5-8 Determine the Point of Intersection of a Plane and a Line. - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=u9UN28V1LHc&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377509387281",
+                        "guid": "14d7dfe6-687e-4ef5-870c-7fb8ba94fe64",
+                        "id": "46",
+                        "name": "5-9 Find an Equation of a Plane Containing a Line and Orthogonal to a Given Plane - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=RzNJU0uExWI&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377521087195",
+                        "guid": "6fdfbd88-2615-4e81-8644-2071b17531e6",
+                        "id": "47",
+                        "name": "5-10 Find an Equation of a Plane Containing a Given Point and the Intersection of Two Planes - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=IqIITskhpf0&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377543019446",
+                        "guid": "c5dbe04b-3a08-40ec-9700-5e13bec939bc",
+                        "id": "48",
+                        "name": "5-11 Determine the Equation of a Plane Given a Point and Normal Vector - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=p_JItfXpGlQ&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377556337395",
+                        "guid": "4969fcef-a4b7-4d86-86c1-7a4f4d2195a0",
+                        "id": "49",
+                        "name": "5-12 Find the Equation of a Plane Given a Point in the Plane and a Parallel Plane - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=JKXl2Yc6pRM&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377567739984",
+                        "guid": "84d0e8f5-2e4e-4f2b-bbbe-0541c17efe4b",
+                        "id": "50",
+                        "name": "5-13 Determining the Angle Between Two Planes - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=rwr7yZ5KLVE&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377583703058",
+                        "guid": "a8f0bc28-c491-47b8-8cd2-c9716099cde3",
+                        "id": "51",
+                        "name": "5-14 Determining the Distance Between a Plane and a Point - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=3JXpqOwvHFY&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377593813005",
+                        "guid": "8f0a5fe3-8ee3-4b64-b00d-2cf2b8eba77b",
+                        "id": "52",
+                        "name": "5-15 Find the Distance Between Two Parallel Planes - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=CEO1SHYMnAs&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377638018391",
+                        "guid": "0126c1f2-75b2-4122-8821-076aeddae132",
+                        "id": "53",
+                        "name": "6-1 Function Values of a Function of Two Variables (Fraction) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=fGVlGGqDeH4&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377683402524",
+                        "guid": "338ee6c2-5205-42b2-8bcc-868a68ec1840",
+                        "id": "54",
+                        "name": "7-1 Convert Cartesian Coordinates to Cylindrical Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=3eA1UowemQs&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377694662617",
+                        "guid": "ac7b247d-1c7d-451d-a233-3d1cc814bbbc",
+                        "id": "55",
+                        "name": "7-2 Convert Cartesian Coordinates to Spherical Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ZI0f426X-rA&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377706352600",
+                        "guid": "d92d798f-bc75-4dd7-ae97-e04f9e266502",
+                        "id": "56",
+                        "name": "7-3 Convert Cylindrical Coordinates to Cartesian Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jNaPT_vcrNQ&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377717567658",
+                        "guid": "3546aa43-21fa-4df8-acc1-e88ab1b16b4c",
+                        "id": "57",
+                        "name": "7-4 Convert Spherical Coordinates to Cartesian Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=8J4B83Y-KHQ&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377728724626",
+                        "guid": "103e1cf6-ab3b-49e8-b756-4cb91d081cbe",
+                        "id": "58",
+                        "name": "7-5 Convert Cartesian Coordinates to Cylindrical Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=yj65oSVaiWQ&feature=emb_title&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259377740759965",
+                        "guid": "f3c4394b-fba0-413e-b8d9-b7e9f3b24601",
+                        "id": "59",
+                        "name": "7-6 Convert Cartesian Coordinates to Spherical Coordinates - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=cZuPrODTrf8&feature=emb_title&ab_channel=Mathispower4u"
+                     } ],
+                     "date_added": "13259377915681984",
+                     "date_modified": "13259377915681984",
+                     "guid": "6ad091fa-404a-4121-84c9-69c43f7b6922",
+                     "id": "12",
+                     "name": "MODULE_1",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13259440416410286",
+                        "guid": "78249bcd-42a0-4d7e-9b90-fe9dcd29214d",
+                        "id": "61",
+                        "name": "13-1 Find the Formula for a Sequence Given Terms (Arithmetic and Geometric) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=cSlsHN3N7cQ&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259441817319610",
+                        "guid": "53f47a49-8452-409b-a130-470ba09f8d85",
+                        "id": "62",
+                        "name": "13-2 Find the Formula for a Sequence Given Terms (Arithmetic and Geometric) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=S8qsbzZiRqQ&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259443925709028",
+                        "guid": "dfd8344e-291b-4e4a-af48-307af8f52809",
+                        "id": "63",
+                        "name": "13-3 Finding Terms in a Sequence Given a Recursive Formula - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=RjsyEWDEQe0&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259452711480009",
+                        "guid": "cea7c89b-e0e6-4a83-882d-2a1cf38ac0fd",
+                        "id": "64",
+                        "name": "14-1 Determine if an Infinite Geometric Series Converges or Diverges - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ueGHXYeX2Co&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259454729223109",
+                        "guid": "16d37737-4938-410c-8c68-5efe00be8344",
+                        "id": "65",
+                        "name": "14-2 Infinite Series: Nth Term Divergence Test (Geometric) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=5ciNNv2eL6k&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455038122316",
+                        "guid": "cb2b8133-c3af-4851-a839-a1d4482844a9",
+                        "id": "66",
+                        "name": "14-3 Write a Sum Using Summation / Sigma Notation - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=JlqPOWz4MOk&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455140362715",
+                        "guid": "a9e9328f-a7ab-4748-bd9f-8406e3bd69c5",
+                        "id": "67",
+                        "name": "15-1 Infinite Series - Integral Test (Exponential and Convergent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Jxu-ggQU-Bc&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455269944374",
+                        "guid": "479e96ca-7b96-4b14-8f18-e6b36f5bfc43",
+                        "id": "68",
+                        "name": "15-2 Infinite Series - Integral Test (Convergent Involving Arctangent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=xTA0eb6USl0&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455293273133",
+                        "guid": "47c28b04-c7f5-45d8-b317-c1ab181c7255",
+                        "id": "69",
+                        "name": "15-3 Infinite Series - Limit Comparison Test (Convergent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=uYC64L_UEJs&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455410340910",
+                        "guid": "3a7541f2-a65a-4237-8965-8c8beea6b972",
+                        "id": "70",
+                        "name": "15-4 Infinite Series - Limit Comparison Test (Geometric, Divergent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=5G8BPDhQsW8&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259455481570870",
+                        "guid": "666d7a14-1de9-4595-bc4e-f3b9520607ef",
+                        "id": "71",
+                        "name": "15-5 Infinite Series - Limit Comparison Test (Radical, Convergent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=NDaxM6bJL90&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259456127355164",
+                        "guid": "9132198e-f909-4bd1-8162-54c53cc4aebc",
+                        "id": "72",
+                        "name": "15-6 The Limit Comparison Test - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=LQ_ktobTEp0&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259457828598071",
+                        "guid": "6447c729-7a4f-4a8b-b106-31e074200f22",
+                        "id": "73",
+                        "name": "16-1 Find the Error When Using a Partial Sum to Estimate an Infinite Sum (Alternating Series) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=oZ3PKvQKffE&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259458610307801",
+                        "guid": "58732c92-c3b8-4e02-aae6-d6b63a6de1ef",
+                        "id": "74",
+                        "name": "16-2 Number of Terms Needed in Partial Sum to Estimate an Infinite Sum with a Given Error. - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=_hWa3INOo-Y&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259459296899453",
+                        "guid": "7cdbd827-4768-4f06-b818-cdc2ba4cb802",
+                        "id": "75",
+                        "name": "16-3 Infinite Series - The Ratio Test (Convergent) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=L6p-djs576A&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259460009390079",
+                        "guid": "c46444a0-0180-4b4e-97c7-d0b76e96c25c",
+                        "id": "76",
+                        "name": "16-4 Apply Alternating Series to Infinite Series - Divergent - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=yY2eXElLEx4&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259464435077052",
+                        "guid": "161e2e1c-89ff-4ed0-ab45-6f1a410d089e",
+                        "id": "77",
+                        "name": "16-5 Interval of Convergence for Power Series (Not Centered at 0) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=_MATUA9rE4I&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259465769430631",
+                        "guid": "43ccc49c-c48f-4f9e-971c-2591e9897279",
+                        "id": "78",
+                        "name": "17-1 Interval of Convergence for Power Series (Not Centered at 0) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=8JidUtBf-js&ab_channel=Mathispower4u"
+                     }, {
+                        "date_added": "13259475590935265",
+                        "guid": "cd55c9de-5465-4b7e-a7e5-b61643d53bcc",
+                        "id": "79",
+                        "name": "17-2 Find a Power Series to Represent a Rational Function - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Ps06EgRs3tI&ab_channel=Mathispower4u"
+                     }, {
+                        "children": [ {
+                           "date_added": "13259395438961283",
+                           "guid": "9423a1ad-a771-4e7b-aa07-b2e36ac10320",
+                           "id": "81",
+                           "name": "9-1 Find Parametric Equations of a Tangent Line to a Space Curve - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=mNWpqzd-F5Q&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259398270850827",
+                           "guid": "3b357bfb-b9bd-497f-a46b-3b80a190882f",
+                           "id": "82",
+                           "name": "9-2 Find the Angle of Intersection of Two Space Curves Given As Vector Functions - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=afkj7mPJldc&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259398768022951",
+                           "guid": "d4dc1737-3718-4674-9451-e0edd4ae39cc",
+                           "id": "83",
+                           "name": "9-3 Find a Unit Tangent Vector to a Space Curve Given by a Vector Valued Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=Yy9ehrUB62c&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259399392048128",
+                           "guid": "7a63ea4a-63d1-465a-980a-398b268e9d97",
+                           "id": "84",
+                           "name": "9-4 Find the Angle of Intersection of Two Curves Using Vectors - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=p7duVefILBE&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259400162671676",
+                           "guid": "f2b08ef7-c7bb-4dbb-ab2b-70b1b376e51b",
+                           "id": "85",
+                           "name": "9-5 Determine the Derivative of the Dot Product of Two Vector Valued Functions - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=n9D_ItH1B18&t=6s&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259400889871708",
+                           "guid": "c5d337d2-d105-4f44-be9c-5147d021e5fc",
+                           "id": "86",
+                           "name": "9-6 Determine the Second Derivative of a Vector Valued Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=2nK9_Kn9SXI&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259407950562844",
+                           "guid": "4b65afe3-8416-42a2-b2e1-98a8e283c32f",
+                           "id": "87",
+                           "name": "9(2)-1 Determine Arc Length of a Helix Given by a Vector Valued Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=n48XuXSyLz8&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259408964879293",
+                           "guid": "7931e927-b62a-4fa6-88bc-83f71659e246",
+                           "id": "88",
+                           "name": "9(2)-2 Find Velocity, Speed, Direction, and Acceleration Given Vector Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=e_MgTmE7JnA&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259412466562993",
+                           "guid": "2257a313-1f2b-4a32-8b6c-8a11af7a9d21",
+                           "id": "89",
+                           "name": "10-1 Find the Curvature of a Space Curve Given by a Vector Function (Cross Product) - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=fBRYswhTcyQ&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259413875327597",
+                           "guid": "e2af94cd-3a9e-48a7-9c37-02cf43a22cb5",
+                           "id": "90",
+                           "name": "10-2 Find the Curvature of a Space Curve Given by a Vector Function (Cross Product) - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=DaIe5id1yAM&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259425015948533",
+                           "guid": "0358979e-df27-4ff4-8271-12ad4afaceb3",
+                           "id": "91",
+                           "name": "11-1 Find the Velocity and Acceleration Vector Given the Position Vector Valued Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=WyO3bh76PMU&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259425456285451",
+                           "guid": "d2825633-621b-4b37-9415-0fd47f02b93b",
+                           "id": "92",
+                           "name": "11-2 Find the Velocity and Position Vector Functions Given the Acceleration Vector Function - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=iVIX04QGrTA&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259427138682519",
+                           "guid": "ad27813d-9343-45a8-b7e8-29a1b93c233f",
+                           "id": "93",
+                           "name": "11-3 Determining the Tangential and Normal Components of Acceleration - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=vuHvWYgAY3c&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259427344695288",
+                           "guid": "e93b61ea-9702-4031-aca3-9e80770b8f27",
+                           "id": "94",
+                           "name": "11-4 Given Parametric Equations Find the Horizontal and Vertical Velocity and Speed at a Given Time - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=WDFNUh79iZs&ab_channel=Mathispower4u"
+                        }, {
+                           "date_added": "13259433612079266",
+                           "guid": "5920a4c7-b7e5-437d-b8bb-9d04b1d2a6b2",
+                           "id": "95",
+                           "name": "11-5 BASEBALLPROBLEM A Baseball, Hit 3 Feet Above The Grounded, Leaves ... | Chegg.com",
+                           "type": "url",
+                           "url": "https://www.chegg.com/homework-help/questions-and-answers/baseball-hit-3-feet-grounded-leaves-bat-angle-45-degree-caught-outfielder-3-feet-ground-30-q13902685"
+                        }, {
+                           "date_added": "13259434300485344",
+                           "guid": "2a9a7f2e-3f23-494d-bc51-41ec76c776fd",
+                           "id": "96",
+                           "name": "11-6 GUNPROBLEM A Gun Is Fired With Muzzle Velocity 980 Feet Per S... | Chegg.com",
+                           "type": "url",
+                           "url": "https://www.chegg.com/homework-help/questions-and-answers/gun-fired-muzzle-velocity-980-feet-per-second-target-3000-feet-away-find-minimum-angle-ele-q35881067"
+                        } ],
+                        "date_added": "13259395474686503",
+                        "date_modified": "13259434300485344",
+                        "guid": "16261d43-9059-4e8c-a4aa-6a32f2aac3b6",
+                        "id": "80",
+                        "name": "MODULE_2",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13259395479669619",
+                     "date_modified": "13259475590935265",
+                     "guid": "895fc0f5-3982-4649-8ef1-d6f9e34e3fd2",
+                     "id": "60",
+                     "name": "MODULE_3",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13259395467558627",
+                  "date_modified": "13259395467558627",
+                  "guid": "addc0212-9fac-41e5-aacc-29d327194eb1",
+                  "id": "11",
+                  "name": "MATH",
+                  "type": "folder"
+               }, {
+                  "date_added": "13244686515330854",
+                  "guid": "5fc6c4fd-4732-4539-9ae0-086c05a853a7",
+                  "id": "97",
+                  "name": "Log In to Canvas",
+                  "type": "url",
+                  "url": "https://tacomacc.instructure.com/login/ldap?"
+               }, {
+                  "date_added": "13245104904987082",
+                  "guid": "8a308e97-750a-4182-8c3c-fd40066c337b",
+                  "id": "98",
+                  "name": "WAMAP",
+                  "type": "url",
+                  "url": "https://www.wamap.org/"
+               }, {
+                  "date_added": "13224891470904466",
+                  "guid": "e93f3b16-8c19-43a9-a384-932a85e44955",
+                  "id": "99",
+                  "name": "Oracle PeopleSoft Sign-in",
+                  "type": "url",
+                  "url": "https://ptprd.ctclink.us/psp/ptprd/?cmd=login&languageCd=ENG&"
+               }, {
+                  "date_added": "13258848056745526",
+                  "guid": "0227ecde-eec9-4f8c-8fa5-48634dab08a8",
+                  "id": "100",
+                  "name": "3D Graph Tool (Desmos-Style Ninjutsu)",
+                  "type": "url",
+                  "url": "https://c3d.libretexts.org/CalcPlot3D/index.html"
+               } ],
+               "date_added": "13259395511494300",
+               "date_modified": "13259395511494300",
+               "guid": "ac2cc63c-2b72-4299-b05d-97720fb639f9",
+               "id": "10",
+               "name": "Study",
+               "type": "folder"
+            }, {
+               "date_added": "13259042708148128",
+               "guid": "a32ec833-7bef-4bc2-9031-c6f280d80c4e",
+               "id": "101",
+               "name": "Engineering Intern, Junior, Summer 2021 - Bungie Careers",
+               "type": "url",
+               "url": "https://careers.bungie.com/jobs/2603932/engineering-intern-junior-summer-2021"
+            }, {
+               "date_added": "13260916350593978",
+               "guid": "33bf7de0-4fc7-47c7-a4b6-95ce85d60d5d",
+               "id": "102",
+               "name": "My FAFSA - 2021-2022 - FAFSA on the Web - Federal Student Aid",
+               "type": "url",
+               "url": "https://fafsa.ed.gov/spa/fafsa/#/MY_FAFSA;exiting=APPLICATION"
+            }, {
+               "date_added": "13262079321187783",
+               "guid": "99d2e795-0828-495e-8792-04051a31cafb",
+               "id": "103",
+               "name": "30 Minutes of Relaxing Visuals from Studio Ghibli | HBO Max - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=z9Ug-3qhrwY&ab_channel=HBOMax"
+            }, {
+               "date_added": "13262230551790152",
+               "guid": "71782863-1fb7-440d-bdc5-dd5d7f66a0d6",
+               "id": "104",
+               "name": "Every C-3PO Costume Explained By Anthony Daniels | WIRED - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8fCqhpV2SG4&ab_channel=WIRED"
+            }, {
+               "date_added": "13264231478789697",
+               "guid": "7ac45103-2ef6-4892-89d2-751b4433bbda",
+               "id": "105",
+               "name": "10 pieces of classical music for a perfect night's relaxation - Classic FM",
+               "type": "url",
+               "url": "https://www.classicfm.com/discover-music/best-sleep-classical-music/"
+            }, {
+               "children": [ {
+                  "date_added": "13263075347991489",
+                  "guid": "7fee2e18-a3c6-4b36-bc74-2e5163ef84bf",
+                  "id": "107",
+                  "name": "NVIDIA FleX | NVIDIA Developer",
+                  "type": "url",
+                  "url": "https://developer.nvidia.com/flex"
+               }, {
+                  "date_added": "13263516202635191",
+                  "guid": "94e14322-bd71-439a-927d-57abcf587cf0",
+                  "id": "108",
+                  "name": "How I Animated This Video - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=tq_KOmXyVDo&t=166s&ab_channel=JoelHaver"
+               }, {
+                  "date_added": "13263413522386160",
+                  "guid": "c1c46a37-0cc8-4983-b1af-9e09849b90fa",
+                  "id": "109",
+                  "name": "Vectornator: Graphic Design Software",
+                  "type": "url",
+                  "url": "https://www.vectornator.io/"
+               }, {
+                  "date_added": "13263523561440198",
+                  "guid": "8fe1add8-1a8b-40d0-a97a-285c7e797605",
+                  "id": "110",
+                  "name": "EbSynth - Transform Video by Painting Over a Single Frame",
+                  "type": "url",
+                  "url": "https://ebsynth.com/"
+               }, {
+                  "date_added": "13263524213269810",
+                  "guid": "19445cdd-9e15-42cd-86d4-3947607ec57e",
+                  "id": "111",
+                  "name": "DaVinci Resolve 17 | Blackmagic Design",
+                  "type": "url",
+                  "url": "https://www.blackmagicdesign.com/products/davinciresolve/"
+               } ],
+               "date_added": "13263527543254562",
+               "date_modified": "13263527543254562",
+               "guid": "5ef63046-7ca7-4d8e-b73c-bcd893d984b2",
+               "id": "106",
+               "name": "animation",
+               "type": "folder"
+            }, {
+               "date_added": "13264799425940733",
+               "guid": "9f9222a8-69af-46be-abf0-babd052489b4",
+               "id": "112",
+               "name": "POKEMON • Jazz Covers - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=xfNYHWeQfHo&ab_channel=Tenpers"
+            }, {
+               "date_added": "13265845053251982",
+               "guid": "cc0c5ff4-f63e-4ff5-bd63-90ed1ac69995",
+               "id": "113",
+               "name": "Pokemon | SS | Smogon Strategy Pokedex",
+               "type": "url",
+               "url": "https://www.smogon.com/dex/ss/pokemon/"
+            }, {
+               "children": [ {
+                  "date_added": "13264127784547818",
+                  "guid": "8accdb93-a019-4f30-b18a-a67703d06a1a",
+                  "id": "115",
+                  "name": "Stardew Valley planner v2",
+                  "type": "url",
+                  "url": "https://stardew.info/"
+               }, {
+                  "date_added": "13265072364528215",
+                  "guid": "53099aea-7fc2-462d-94c2-11381f25acb9",
+                  "id": "116",
+                  "name": "Stardew Valley Wiki",
+                  "type": "url",
+                  "url": "https://stardewvalleywiki.com/Stardew_Valley_Wiki"
+               }, {
+                  "date_added": "13265238153991849",
+                  "guid": "c95c3f1f-f6c2-4106-8cbe-b7bf09d4269f",
+                  "id": "117",
+                  "name": "PKSM v9.2.0 Documentation",
+                  "type": "url",
+                  "url": "file:///D:/Downloads/PKSM.Manual.html"
+               }, {
+                  "date_added": "13266280986831004",
+                  "guid": "1714d9b7-3142-4124-92f4-8ae6b0941018",
+                  "id": "118",
+                  "name": "Stardew Valley planner v2",
+                  "type": "url",
+                  "url": "https://stardew.info/planner/3-thick-mussles-played-cordially/"
+               } ],
+               "date_added": "13265135438729658",
+               "date_modified": "13266280986831004",
+               "guid": "df2a07cd-5189-4039-b791-175560833cb6",
+               "id": "114",
+               "name": "Stardew Helper",
+               "type": "folder"
+            }, {
+               "date_added": "13270243329385453",
+               "guid": "70d7673a-d30e-412f-9201-546e88ad6ecb",
+               "id": "119",
+               "name": "Student COVID-19 Vaccine Attestation Form",
+               "type": "url",
+               "url": "https://sps.uw.edu/attestations/#/covid19"
+            }, {
+               "date_added": "13274507517814007",
+               "guid": "c32b6e7e-d26c-48c4-9d86-37e335566dfc",
+               "id": "120",
+               "name": "124,833% Fortify Enchanting Potions Guide - Skyrim Special Edition - xBeau Gaming - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-3duU_fZi34"
+            }, {
+               "date_added": "13270590637127545",
+               "guid": "b8c6eeb7-8030-43c7-8fd3-1018b5282f8a",
+               "id": "121",
+               "name": "Dell S2721DGF 27.0\" 2560x1440 165 Hz Monitor (S2721DGF) - PCPartPicker",
+               "type": "url",
+               "url": "https://pcpartpicker.com/product/K2cRsY/dell-s2721dgf-270-2560x1440-165-hz-monitor-s2721dgf"
+            }, {
+               "date_added": "13266694005570121",
+               "guid": "fe718f5d-241f-4177-9f4e-a00e903465c3",
+               "id": "122",
+               "name": "Unreal Engine 5 is now available in Early Access! - Unreal Engine",
+               "type": "url",
+               "url": "https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available-in-early-access"
+            }, {
+               "date_added": "13262554596451693",
+               "guid": "d6ffd718-cfe0-4513-b32f-7267a2252d5a",
+               "id": "123",
+               "name": "Tuition and Costs | UW Tacoma",
+               "type": "url",
+               "url": "https://www.tacoma.uw.edu/admissions/tuition-costs"
+            }, {
+               "date_added": "13274397523117596",
+               "guid": "c912eda7-1091-4ef5-bd8f-f0905999e3b9",
+               "id": "124",
+               "name": "LG UltraGear 27\" IPS LED FHD G-Sync Compatible Monitor with HDR (DisplayPort, HDMI) Black 27GN600-B - Best Buy",
+               "type": "url",
+               "url": "https://www.bestbuy.com/site/lg-ultragear-27-ips-led-fhd-g-sync-compatible-monitor-with-hdr-displayport-hdmi-black/6433229.p?skuId=6433229"
+            }, {
+               "date_added": "13277673901265137",
+               "guid": "0ce96dae-9e56-442f-a236-e1fa93bbd379",
+               "id": "125",
+               "name": "How to Clean Grimy Old Lego Bricks | Reviews by Wirecutter",
+               "type": "url",
+               "url": "https://www.nytimes.com/wirecutter/guides/how-to-clean-lego/"
+            }, {
+               "date_added": "13276629516845031",
+               "guid": "9f90594f-a4ed-47fe-856d-a7a00d1372cf",
+               "id": "126",
+               "name": "TMATH 390 Probability and Statistics in Engineering and Science - MyPlan",
+               "type": "url",
+               "url": "https://myplan.uw.edu/course/#/courses/TMATH%20390?id=98a8c48d-763c-426c-80ca-20d80b4bacbe&states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwDMVA7ADTJjrZgAKWUKZKWaSgA4ATAF8QYoA"
+            }, {
+               "date_added": "13276756435738758",
+               "guid": "1d1fa4d5-b775-4f00-b5b9-b0f036eaf481",
+               "id": "127",
+               "name": "windows - How do I export a world from Minecraft win 10? - Arqade",
+               "type": "url",
+               "url": "https://gaming.stackexchange.com/questions/374783/how-do-i-export-a-world-from-minecraft-win-10"
+            }, {
+               "date_added": "13278972039208005",
+               "guid": "3f7a9b36-7441-4a19-b759-d31221e573cb",
+               "id": "128",
+               "name": "WSL | Ubuntu",
+               "type": "url",
+               "url": "https://ubuntu.com/wsl"
+            }, {
+               "date_added": "13276629499020620",
+               "guid": "ca5f0906-fe00-4270-9c30-23b9c0c5e48b",
+               "id": "129",
+               "name": "Course Enrollment Request | School of Interdisciplinary Arts and Sciences | University of Washington Tacoma",
+               "type": "url",
+               "url": "https://www.tacoma.uw.edu/uwt/sias/course-enrollment-request"
+            }, {
+               "date_added": "13279156579115405",
+               "guid": "80f99882-9685-45a6-9729-70fe84a185f9",
+               "id": "130",
+               "name": "I translated the C Donut source code into Java because I was bored : ProgrammerHumor",
+               "type": "url",
+               "url": "https://www.reddit.com/r/ProgrammerHumor/comments/hvvrx7/i_translated_the_c_donut_source_code_into_java/"
+            }, {
+               "children": [ {
+                  "date_added": "13252013947417390",
+                  "guid": "566a8a6d-4acd-4a0b-80a5-9395951d10e9",
+                  "id": "132",
+                  "name": "Donut math: how donut.c works – a1k0n.net",
+                  "type": "url",
+                  "url": "https://www.a1k0n.net/2011/07/20/donut-math.html"
+               }, {
+                  "date_added": "13279157766312133",
+                  "guid": "b4ca91b4-bbb8-41ef-a961-1125d6409bfd",
+                  "id": "133",
+                  "name": "Rotation - Encyclopedia of Mathematics",
+                  "type": "url",
+                  "url": "https://encyclopediaofmath.org/index.php?title=Rotation"
+               }, {
+                  "date_added": "13282021991297966",
+                  "guid": "54ef3a8b-fb8f-48d3-9056-ac4976531ec1",
+                  "id": "134",
+                  "name": "Linear Algebra with Applications (9th Edition) (Featured Titles for Linear Algebra (Introductory)): Leon, Steven J.: 9780321962218: Amazon.com: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.com/Linear-Algebra-Applications-Featured-Introductory/dp/0321962214"
+               }, {
+                  "date_added": "13282022299510218",
+                  "guid": "6402c05b-1d45-43e5-86d1-54dc5f245d7e",
+                  "id": "135",
+                  "name": "openGL Tutorial 3 : Matrices",
+                  "type": "url",
+                  "url": "http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/"
+               }, {
+                  "date_added": "13282022643982647",
+                  "guid": "70fa7e1f-216a-4970-8a64-fd8e5ecf0057",
+                  "id": "136",
+                  "name": "Rotation Matrix -- from Wolfram MathWorld",
+                  "type": "url",
+                  "url": "https://mathworld.wolfram.com/RotationMatrix.html"
+               }, {
+                  "date_added": "13282022693456596",
+                  "guid": "af90f9ea-e015-4d60-96b7-00cdb649e8ca",
+                  "id": "137",
+                  "name": "Stanford CS - handout17.dvi",
+                  "type": "url",
+                  "url": "https://graphics.stanford.edu/courses/cs348a-17-winter/ReaderNotes/handout17.pdf"
+               }, {
+                  "date_added": "13282026045913514",
+                  "guid": "cbc45ab7-9ffd-48cb-aa66-9e0ca8280fbe",
+                  "id": "138",
+                  "name": "UU Mathematics of Perspective Drawing",
+                  "type": "url",
+                  "url": "https://www.math.utah.edu/~treiberg/Perspect/Perspect.htm"
+               }, {
+                  "date_added": "13282953210855172",
+                  "guid": "a00fcfc5-fb68-4418-aca8-90e3daf83700",
+                  "id": "139",
+                  "name": "2D Transformation",
+                  "type": "url",
+                  "url": "https://www.tutorialspoint.com/computer_graphics/2d_transformation.htm"
+               }, {
+                  "date_added": "13282953296318391",
+                  "guid": "af42c0e4-f8c2-4a7b-b9c7-b3f60bd2377f",
+                  "id": "140",
+                  "name": "raytracingforcars.dvi",
+                  "type": "url",
+                  "url": "https://graphics.pixar.com/library/RayTracingCars/paper.pdf"
+               }, {
+                  "date_added": "13282953835694060",
+                  "guid": "ae806bdf-20a6-44ac-b94a-d58ff9f0cc38",
+                  "id": "141",
+                  "name": "physical lighting.pdf",
+                  "type": "url",
+                  "url": "https://graphics.pixar.com/library/PhysicallyBasedLighting/paper.pdf"
+               }, {
+                  "date_added": "13282953850211729",
+                  "guid": "985227d3-343a-40e0-9312-2ac124b18247",
+                  "id": "142",
+                  "name": "point-based illum.pdf",
+                  "type": "url",
+                  "url": "https://graphics.pixar.com/library/PointBasedGlobalIlluminationForMovieProduction/paper.pdf"
+               }, {
+                  "date_added": "13282954051482423",
+                  "guid": "01bec746-4e83-4f58-b4db-24b6f364d01d",
+                  "id": "143",
+                  "name": "2D Transformations / Processing.org",
+                  "type": "url",
+                  "url": "https://processing.org/tutorials/transform2d"
+               }, {
+                  "date_added": "13282954055391836",
+                  "guid": "c4ec1f37-999c-4d0c-b5e1-159fe1b50974",
+                  "id": "144",
+                  "name": "DONTCITE The Transformation Matrix",
+                  "type": "url",
+                  "url": "https://www.alanzucconi.com/2016/02/10/tranfsormation-matrix/"
+               } ],
+               "date_added": "13282021856337093",
+               "date_modified": "13282954055391836",
+               "guid": "7d4974ee-ff02-4504-bd6a-8760e3904484",
+               "id": "131",
+               "name": "MATHProjectSources",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13287613483223844",
+                  "guid": "30cc88fd-f4cf-4fbd-bc33-0253f8110a2c",
+                  "id": "146",
+                  "name": "Learn Unreal Engine 4 for Blender Users - UE4 Beginner Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=3jM_VLzRqlE"
+               }, {
+                  "date_added": "13287613537909389",
+                  "guid": "63d410d9-566f-4f0e-b24a-c3d99b0aa55a",
+                  "id": "147",
+                  "name": "BLENDER TO UNREAL ENGINE - FREE, FAST & EASY, - FULL GUIDE! (blender tutorial) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=WQi5SVikuGE"
+               }, {
+                  "date_added": "13287613671116510",
+                  "guid": "9b79c4fb-b854-43d0-8dd5-0e19c7a12244",
+                  "id": "148",
+                  "name": "Unreal Engine 4 Tutorial | Character Cloth And Cloth Physics - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FD0mfXq93bU"
+               }, {
+                  "date_added": "13287614964923625",
+                  "guid": "e8fdbe74-4a86-4e19-b65c-d7cd9bca4e04",
+                  "id": "149",
+                  "name": "Animate a Character in 15 Minutes in Blender - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=imbIsNAvUpM"
+               } ],
+               "date_added": "13287692933928407",
+               "date_modified": "13287692933928407",
+               "guid": "9341e835-5f99-4254-a8e5-b657103fbf66",
+               "id": "145",
+               "name": "Unreal/Blender",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13278557278925074",
+                  "guid": "00201450-8eb6-4274-be67-d4e84a0b6a14",
+                  "id": "151",
+                  "name": "INVERSE 1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=NXCz9dw5Ce0"
+               }, {
+                  "date_added": "13278557263713486",
+                  "guid": "06e9dc03-783c-40e2-91cd-8dc6c5f33ce6",
+                  "id": "152",
+                  "name": "INVERSE 2",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=6KEmzBwCBzI"
+               }, {
+                  "date_added": "13278559573459956",
+                  "guid": "8c5357c9-93cd-4d56-9149-d253af0ec5f4",
+                  "id": "153",
+                  "name": "AX=B(2X2)",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=pCQ3tjXEnh0"
+               }, {
+                  "date_added": "13278559560389609",
+                  "guid": "eeabebb3-aab9-4b0b-8011-400773868fa0",
+                  "id": "154",
+                  "name": "AX=B(3X3)",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=t4e6R-bDOGU&t=175s"
+               }, {
+                  "date_added": "13278571401407209",
+                  "guid": "9ddb8786-31b5-4025-ba11-2932fcb3974b",
+                  "id": "155",
+                  "name": "LU Decomposition - Shortcut Method - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=UlWcofkUDDU&t=29s"
+               }, {
+                  "date_added": "13281055409085620",
+                  "guid": "3936a1c0-2e63-4048-9462-a4a4fd46deca",
+                  "id": "156",
+                  "name": "Given That B= { [1,3−2], [0,1,1], [−3−9,7]} Is A B... | Chegg.com",
+                  "type": "url",
+                  "url": "https://www.chegg.com/homework-help/questions-and-answers/given-b-1-3-2-0-1-1-3-9-7-basis-r3-c-1-1-1-0-1-1-2-2-1-another-basis-r3-find-transition-ma-q9353625"
+               }, {
+                  "date_added": "13283243675227105",
+                  "guid": "2bbb661c-a821-43de-88f9-7b12eb5bae9a",
+                  "id": "157",
+                  "name": "WHW3 Question6 Solution (MONDAY 12/6)",
+                  "type": "url",
+                  "url": "https://www.chegg.com/homework-help/questions-and-answers/prove-matrix-diagonalizable-4bc-d-2-diagonalizable-4bc-d-2-q1082228"
+               }, {
+                  "date_added": "13281055628691759",
+                  "guid": "64923783-b08c-4cc0-b131-ce1b3d84244a",
+                  "id": "158",
+                  "name": "Find A Single Matrix For The Transformation That I... | Chegg.com",
+                  "type": "url",
+                  "url": "https://www.chegg.com/homework-help/questions-and-answers/find-single-matrix-transformation-equivalent-following-four-transformations-plane-successi-q9650857"
+               }, {
+                  "date_added": "13281397425974759",
+                  "guid": "15b0fda1-302d-4f18-8823-ba644971fbdd",
+                  "id": "159",
+                  "name": "Determine Which Sets of 3 Vectors Form a Basis for R3 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=oh8Me6OTcwQ"
+               }, {
+                  "date_added": "13281400232870282",
+                  "guid": "918d4fbe-d7c7-4e6d-bbcf-61645cfe1d36",
+                  "id": "160",
+                  "name": "Change Of Basis Question 2: Let {} And Be Two Sets... | Chegg.com",
+                  "type": "url",
+                  "url": "https://www.chegg.com/homework-help/questions-and-answers/change-basis-question-2-let-two-sets-vectors--sets-form-bases-r3-explain-answer-part-2-yes-q67593215"
+               }, {
+                  "date_added": "13279156446355573",
+                  "guid": "35d05966-71b4-498b-a28f-95560908f52c",
+                  "id": "161",
+                  "name": "Rotation matrix - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Rotation_matrix"
+               }, {
+                  "date_added": "13289258795066387",
+                  "guid": "85f1c82d-9c38-4861-b5c4-0115eab8fdd1",
+                  "id": "162",
+                  "name": "Solved: Show that if x is a real number, then [x] — [x]= I if x... | Chegg.com",
+                  "type": "url",
+                  "url": "https://www.chegg.com/homework-help/show-x-real-number-x-x-x-integer-x-x-0-x-integer-chapter-2.3-problem-44e-solution-9780071244749-exc"
+               }, {
+                  "date_added": "13286151731571193",
+                  "guid": "4269daac-502d-4e28-b774-7ae6e8483f59",
+                  "id": "163",
+                  "name": "GitMind",
+                  "type": "url",
+                  "url": "https://gitmind.com/app/my"
+               }, {
+                  "date_added": "13298513623833410",
+                  "guid": "349fec8d-6152-48a5-8177-6018d6d21ae8",
+                  "id": "168",
+                  "name": "3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats] - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=_ITiwPMUzho"
+               }, {
+                  "date_added": "13299197103893211",
+                  "guid": "8d55c68c-2143-49a0-a890-e98d8dbea88e",
+                  "id": "169",
+                  "name": "Ars Technica",
+                  "type": "url",
+                  "url": "https://arstechnica.com/"
+               } ],
+               "date_added": "13278574330013639",
+               "date_modified": "13302473754612961",
+               "guid": "e9a22ce3-37af-468e-9a9f-5273ff41d70c",
+               "id": "150",
+               "name": "MATH308",
+               "type": "folder"
+            }, {
+               "date_added": "13296935311811534",
+               "guid": "f657b194-e426-4261-9ea0-bebb03f699cf",
+               "id": "164",
+               "name": "How to build a Markdown editor using Electron, ReactJS, Vite, CodeMirror, and Remark - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gxBis8EgoAg"
+            }, {
+               "date_added": "13298140674008808",
+               "guid": "bcf4b219-4bbc-49b3-bade-ce603f432609",
+               "id": "166",
+               "name": "How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bSMZgXzC9AA"
+            } ],
+            "date_added": "13246156070770119",
+            "date_modified": "13303428941078833",
+            "guid": "93799d49-47c7-4b1b-97e5-f31b08149b42",
+            "id": "9",
+            "name": "Unsorted",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13302478554599695",
+               "guid": "41b90644-27d8-42e6-8488-42c2b78955db",
+               "id": "176",
+               "name": "adibrachid1/N-puzzle: N-puzzle solver in JAVA",
+               "type": "url",
+               "url": "https://github.com/adibrachid1/N-puzzle"
+            }, {
+               "date_added": "13302478480222787",
+               "guid": "c3ace883-b322-4881-868f-a3399cc9cc72",
+               "id": "175",
+               "name": "jaypeerachai/N-Puzzle-Graph-Search-Algorithm-with-heuristics: A Java implementation of Graph Search with heuristics for N-Puzzle problem",
+               "type": "url",
+               "url": "https://github.com/jaypeerachai/N-Puzzle-Graph-Search-Algorithm-with-heuristics"
+            }, {
+               "date_added": "13302478471714817",
+               "guid": "ccbb73e8-838f-4c54-a72c-aef650bd33ba",
+               "id": "174",
+               "name": "Kvatsx/Artificial-Intelligence-Assignments: A-List of all the Assignment done in Artificial Intelligence Course @IIIT-D",
+               "type": "url",
+               "url": "https://github.com/Kvatsx/Artificial-Intelligence-Assignments"
+            }, {
+               "date_added": "13302477189341682",
+               "guid": "1593c459-3bd9-4a49-8154-afcc704ebfa1",
+               "id": "173",
+               "name": "zy31415/sliding-block-puzzle: Use search algorithms to solve Sliding Block Puzzle",
+               "type": "url",
+               "url": "https://github.com/zy31415/sliding-block-puzzle"
+            }, {
+               "date_added": "13302473817303005",
+               "guid": "8c9ebe05-d267-42e3-b1e0-52fc4fac4f0c",
+               "id": "172",
+               "name": "abpaudel/8-puzzle: 8 puzzle solver using BFS, DFS, IDDFS and A-star algorithm",
+               "type": "url",
+               "url": "https://github.com/abpaudel/8-puzzle"
+            }, {
+               "date_added": "13302473768204954",
+               "guid": "7773a43e-1a3d-4343-9d9b-3a15064d8ce7",
+               "id": "171",
+               "name": "rmssoares/8Puzzle-StateSpaceSearches: BFS, IDS, Greedy & A* applied to the 8-puzzle problem.",
+               "type": "url",
+               "url": "https://github.com/rmssoares/8Puzzle-StateSpaceSearches"
+            }, {
+               "date_added": "13302473754612961",
+               "guid": "7b147119-f28b-4a05-ab2a-251ac179522d",
+               "id": "170",
+               "name": "alizeyn/blind-huristic-search: An implementation for 8 Puzzle problem with DFS, BFS, A Start, BDS, RBFS",
+               "type": "url",
+               "url": "https://github.com/alizeyn/blind-huristic-search"
+            } ],
+            "date_added": "13302566318242461",
+            "date_modified": "13302566534242154",
+            "guid": "93c444cc-85a2-478c-821d-403e11520d9e",
+            "id": "178",
+            "name": "gitrepos",
+            "type": "folder"
+         }, {
+            "date_added": "13302820405971747",
+            "guid": "c14b1203-8d6e-47c6-a273-695c50139ddf",
+            "id": "188",
+            "name": "TCSS360A/DungeonAdventure: Dungeon Adventure",
+            "type": "url",
+            "url": "https://github.com/TCSS360A/DungeonAdventure"
+         }, {
+            "date_added": "13303179940981993",
+            "guid": "a232c1b7-f9c3-4962-836f-cc2a8fcbfcc8",
+            "id": "190",
+            "name": "17:18 min - Fixed git branch for glryan/main,etc. - Create main game loop (Start Game -> starts playing game). DungeonAdventure • Toggl Track",
+            "type": "url",
+            "url": "https://track.toggl.com/timer"
+         }, {
+            "date_added": "13303428927791461",
+            "guid": "1ca6b034-8698-4c92-827c-16ecee33d9d9",
+            "id": "199",
+            "name": "Dashboard - Pivotal Tracker",
+            "type": "url",
+            "url": "https://www.pivotaltracker.com/dashboard"
+         }, {
+            "date_added": "13303266934381399",
+            "guid": "8a2b1a38-fdae-4b72-99c9-cf947804f20a",
+            "id": "193",
+            "name": "Scenes SubScenes Screens (FXGL 11) · AlmasB/FXGL Wiki",
+            "type": "url",
+            "url": "https://github.com/AlmasB/FXGL/wiki/Scenes-SubScenes-Screens-(FXGL-11)"
+         }, {
+            "date_added": "13303439180657311",
+            "guid": "a15e9cc6-5f5b-413c-a22d-fb80c528c54a",
+            "id": "202",
+            "name": "Particle System (FXGL 11) · AlmasB/FXGL Wiki",
+            "type": "url",
+            "url": "https://github.com/AlmasB/FXGL/wiki/Particle-System-%28FXGL-11%29"
+         }, {
+            "date_added": "13303589183752028",
+            "guid": "5fe185ab-0e09-488d-be05-5dfae386febd",
+            "id": "204",
+            "name": "fairyglade/ly: display manager with console UI",
+            "type": "url",
+            "url": "https://github.com/fairyglade/ly"
+         }, {
+            "date_added": "13303589367606902",
+            "guid": "13009c17-4654-4377-b50c-f9668aa395eb",
+            "id": "205",
+            "name": "How DOOM fire was done",
+            "type": "url",
+            "url": "https://fabiensanglard.net/doom_fire_psx/index.html"
+         } ],
+         "date_added": "13298145471704352",
+         "date_modified": "13303589367606902",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298145471704353",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13283083580682529",
+            "guid": "5933074e-7112-4a2a-96c1-0ed4f75e3919",
+            "id": "5",
+            "name": "Citizenship - Department of Foreign Affairs",
+            "type": "url",
+            "url": "https://www.dfa.ie/citizenship/"
+         }, {
+            "date_added": "13283339735557838",
+            "guid": "66eacf91-3359-422f-b905-390119266139",
+            "id": "6",
+            "name": "The Love of the Game | UW Tacoma",
+            "type": "url",
+            "url": "https://www.tacoma.uw.edu/d7/news/article/love-game"
+         } ],
+         "date_added": "13298145471704354",
+         "date_modified": "13283339735557838",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Co4CCu0BCIiBAhLWARI8CAISOAoGCgJibRABEDMaEgmAWT+P9OQFACGAWT+P9OQFADIYChYIAhHatwGf9OQFABgAIQAAAAAAAAAAEjwIAhI4CgYKAmJkEAAQMxoSCYBZP4/05AUAIYBZP4/05AUAMhgKFggCEdq3AZ/05AUAGAAhAAAAAAAAAAAgAEjz7qTXpDBwvfKh1qQwkgFHCkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgO75mfTkBQARgO75mfTkBQApF9IBn/TkBQAwgN3nz8me+QIqDhAAGAEgACgAMAA4AEAAEgAgASoYdVJMNVZZdTNZMHd2V1RIVnp0amYzQT09EvUBCMwBEu8BChxNdmRsei93K1J6QjdRUWt1djJUUWhEV0ZFTms9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZIWGJiSnhLak5JSDB2VkM1U3NUNkZyRlNIRVhMdFBSTUtBY29lWGxYWkRRMWlLcElIaWF1aEZ4VlJzdFVkbDRSVE9xS0NRPT0YACACKAIwpMaHmc+e+QI4ifL616QwQJPy+tekMEocaWU5aVlMdUNCMlNkTG5yME1EWGFiL2lqLzE4PVonIiX/////AAAABd41eWlzeEFubGNEN2Q3RnNHUGRGcVN1Mm1KRkk9ZSjQ4akSrwIIcRKqAgocRTJBSko2TWVSNzFzV09IWFNDNW5BcGFFNUFFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlNnb0htM21nWG5CRGloSWdyZEp4MEtPMm1nRjQrQTFkMllxRkQ4VFF3cWJRQ3pIQi9ZL0I0MXRmYlZLdVdyU3pwdVl5Q20yb29EZW9qb1ZWa2VmU1MxTnVIRms4eldtbUV1K0dzYTJuVUQ1YVcxYzNnPT0YACAAKAAwic/b6t7F9AI4xP6TipgvQMT+k4qYL0ocS2Jmdm1tRjd5M2FybFZud1lmbWJoN1VHZzUwPVohIh////ZVSW4wYUJSZDZYdUVDMy9OemxVemQ2Z2hkQnM9ZX2JuXgSrQIIbhKoAgocNVMzMnVQdE9lUzg4T3VjNWw1NWFqcnVkNkdnPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlFKN29lVnpyeDNhMDVUdG12NUQwNGtGTHRWOTNEVDgzSG90YXRwMVAxdEhOR1Z6ODNyV0tQc3RxWFlsWmV2bGhDTkJ6ZG94dGQ4d3JMTlJkSkdZTlRZMlAraUtPdFdmNERGUkVBZC95YkZzNmNEMDl3PT0YACAAKAAwzZDQ6t7F9AI44K+Xt48vQOCvl7ePL0ocUW5TUCt0LzhVZ1RHcmlVZmdtbDhtbHhuWm1zPVofIh3sVGduSTBWWjZ0VTBiTWxVdTY2b1VpQi9FV1ZJPWWxV3NpEu0BCJMBEucBChxZandPKy9mcTJWVTJXSmRwbE9XMkdzU2pKU289EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZqRU5jQzczSFl5TkJZSWd4UUt2S0hkeFp1eHYya1dnOWgxajBTODk2VkpYREFqZFY0bGRpdytCM0dzeUFobUhuVS9CVXZRPT0YACAAKAAwsZqNjP3P9QI49eyWlukvQPXslpbpL0ocVmQzbEJEeWpxVVRrbDl3QXJJNnlVb2FzV0NBPVofIh29UmhiOUFJYW5hdGRlWEJ6bmJwdW0zNk10VXFFPWU4+TkzEuwBCJIBEuYBChxTNVhDSkhpNzlVY2ZkU3c1L2grVHJkem9ZMms9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZVZUc3cTZoY1JBWllzZTlNblBGQ1pMN2MzRWZCS0tXakxsVHVzSFFwb1diMWRtc0xlekNkUlVqMG1RNm84MjhHZHNJbWJnPT0YACAAKAAwsZqNjP3P9QI418GTlukvQNfBk5bpL0oca2NucVJwc3ljem1jQTdVZEtVRllOL1daUkowPVoeIhx6ZzgxRm1FUS9hck5HY2x4bk5wSU5EUndzM1E9ZTj5OTMS7AEIhQES5gEKHCtEVnJrd1VrekUwdENsVTdnMlZsTTI4dkZOcz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZm1JcXhnUkt6aGVsQ1B5UEsvL0cxOE5Uekt5MWZLbmNpVTRpNmdMczV3Y3lGalZCWkhESDJRZVllcnBpaHhBc0xTV0FJRnc9PRgAIAAoADCJz9vq3sX0AjiowZPWyS9AqMGT1skvShxCOXFJWk1BTm5VUk5haTkvd1ZyWTFNOCtROEE9Wh4iHGhtNThmb25wS2s3a0lSQTc2bU1NUzNEUDdPaz1lAAAAABKsAgg9EqcCChxTQVRnME93VlRFVS9vcFJLY2FIRDlZVEQ3TDQ9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZVM1djJ5MGh6Y1ExN2YwVzlNN045NTNPKy9QTkZEY1Y3d3ZuQ2dOakEwM0pBNVprV1Mva0dnOEVBRzRRRDFkVlB2ZG9Ia2hldy9jRlVXNG5WK0JIZjY0MzZTZkV2bWxXUEtzU05CbitCeGtobkc0bVE9PRgAIAAoADDNkNDq3sX0Ajia/ZecgC9Amv2XnIAvShxBN2RyWllMTzZLbnlUTGZTSW81d2NQM3MyOEU9Wh4iHFZzV3kwUEd6S0RGM3lRaHVlQ2gvMWo5TXozVT1lOP122xLtAQirARLnAQocV0tkVVBZV3QxNGo0eTFNK0JQTitvVXpKMFJjPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmb29qZmF1YVVoTjJCeGRROCtJZWlLL0V1a3ZVdlhJYStqV1RqUFhnbG1GZ0Y5azdBV3prNTh0R0Z1NklHSGFhelRFdlBYQT09GAAgAygDMI6g8uHsgPkCOI6qi8SgMECg5ZzwoDBKHDBPQm1QSXFkdUpPN1ZEb0lUNGtFMk9YWnYvcz1aHyId+1JWYnlSa0dURUd6ZUZrOUdDazN4ZytjdzZHZz1lKNDhqRLtAQitARLnAQocRjhBTVBKOG9CTFEzMFppZEZtbHFma1JNb0tJPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmaXU3dCtNVkF3eERab3FoSVpETTVRUy84S0ZDNmc2bndRb2w2NjR0UjFlSkRVNFBtc0pYQ0hxTzIrKytRdzhSUXF1d0J1Zz09GAAgAygDMNvU6ODsgPkCON2R3MWgMEDZ05zwoDBKHDBSeVFsWm1pc2k2cUJPV0hsUmM4bENNNDdvMD1aHyId7GRrcTd0MXdYZStNVzVqTDNBcnJoZmZpTmd1cz1lKNDhqRLtAQiuARLnAQocdUcxd2VXNXh0ZzVpSkp3Y3VoSjRUMmNOTUhrPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmMFFvL1VoSG8vRkxSQ2tJZnZXRGdDMW1ldDF6QnlMcnRkdHZLS1duaFlZd3JFUzI0N3JPR2htQjRmQ2ZQeFZ3QlViTzhqdz09GAAgAygDML2NlN/sgPkCOKO0qsagMEC/w5zwoDBKHDN0RE1Vc2RsNkVsckJMWVhzUmN5Y2FoNzJIYz1aHyId2XRXU3NhanZORENxYzJ0bWlkQUZFYWU3bmM3Zz1lKNDhqRLtAQibARLnAQocT1FNZFR3NWVGN0QwWS9mc2FMc1FDWjZHbU1nPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmOExGR0lad3l6NDRIczdwcVpXMGU0NUs5QURmYktjRVdKQitIclhac2pzN3dPcEZGNndwUFU2OHc4RUxFQTFYM2xuSjNsZz09GAAgACgAMM2Q0OrexfQCOMDRxr7HL0DA0ca+xy9KHEFscEROU0IwcURlZlE5RjRmYU02MGtnWWRaTT1aHyId9jNzTHlGMndtREtYOVFzZGExcmVaVDhXamZERT1lOPk5MxLtAQiVARLnAQocSy9qdUM5TStDalRmZ1djQi9NWkN2aHBjZk1jPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmWEZhNWdMOFJyK0VQUS9QYTBqVGVVdkpBbUJGYVBnNUNwZlZJOVVZYnc1SWt2WkxuYXRDYkt6VzE0aHB1dlg3M3FvU2lnUT09GAAgACgAMLugl439z/UCOLz57ZbpL0C8+e2W6S9KHDZ2aS9DV0VybnpVTjNFVnVaY0dGc3ZEdGQzUT1aHyId7zB1VlltVU51eUNycUZjV3hCWEVTLzNqbkp1bz1lOPk5MxL1AQjHARLvAQocTW1tMFdEUk1WL3lLempWb0xlTE5tM2xzblBJPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmRVMwaTlxZzNYSDBYVUVnQndEcE9sbXptZDMzZElqRzY3M2Rzd0RLUFlBUEh3TUc0bFBNWUVSODBSU25nd3daNndxYTh2Zz09GAAgAygDMOjunLT6mfkCOK/SxYukMEDDj8mLpDBKHHJxazhsaUlGZXZGYitrd3VLb2dxaVg2ZXIrUT1aJyIl/////wAAAAT8ODBMdlVJTFhMSWhrUTJHbWRNcldCRlJXSU9BPWVMxkc1Eq0CCG0SqAIKHGtkMFlMM2x5VzVBbEJYaGtId3dLbTRKZFBzQT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpUbmc4NFlVcXNRbURxNHRMbUJnSHRHOGVyeWphemcvRnJwSDY0N0craXdoRmhaTVgxVmlPUEhJdGFERi9ZSG5kQkZzd3d4QzJDak1oci9jeHFwYVhWKzBvY0h4SDMyUkcvb21jTVdQSmVzRldvL3U0QT09GAAgACgAMM2Q0OrexfQCONKP24KPL0DSj9uCjy9KHDkrd3NoaThZQTBHdXlhdkd5d2VqOG9EL3ZaRT1aHyId2UhTWFFMZW1Gc0FGTWkzaDlFT3hqOU5ra205ND1ly3s8yRKvAghwEqoCChxnRDduMUZWbG9SOVhyMlh1d2tCNkJBR0ltWk09EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVWl5M0c3NWt3VFRIWnc2SytmcktNTHNxeXg0aGUrYlBVcjRjYk8zRVFTbG9STTUyd0tpejhVY2UwRStPa3R4YWdqbkV6TkoyNTVZSEpNOWFaeHRkZXNlY1dhb2tGOTNWcEd4eVhHenJaZUt2akhQY2c9PRgAIAAoADDNkNDq3sX0AjiV+8eXlC9AlfvHl5QvShxLMlp1cmVzSnVZVjd5dFVpY1R3UFYzYnY1TjQ9WiEiH///2zg5S3hsbU5oSVNBblZDMjE3YXZZQVFhTnZXUT1lOP122xKtAghlEqgCChw5YzBoVVlHZ3hoSFJGYWx6SU9qeHNDSnl3aEk9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaUmdmOGJMZFJTdzU3MWhQNWdZVjBodEJ3aVRxdzFUWE9Zb2hPZzgxOElwK1A3QjQyZ1lqWUx6OWJBN3BINnBrM1VZVmJwSWE2V3h3ZzhPcWtXdHhHS1FKQlF5SU9BZmZCNmVwaWY4VnJQdW9rR2RDM1E9PRgAIAAoADCJz9vq3sX0Aji05cXe/i5AtOXF3v4uShw2WnRzczVER3JvM1RNWGUrMitOQ2NnYnU4akk9Wh8iHQNiNERRV0RKOWVQSE9nQk5OQjduQVF5OXN6SU09ZRlZBV8SrAIIaxKnAgocaXVpeXNTQlJpM292S1FjOE83NXhyVGtIM1lNPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWldLTWNiQVNNMWtNRFcrWTJhb2FGM01MSkNIOCtnZldXQ0JrT2tINis3T3JEdXFIaC9CTTNvaGl0cWtla0FnbWRSQ04xUlcyOVlVMnp3cTJCeS9FTjlMbDNJRlFaY0pDQVNVNHhwSUhUTmZRZGtNQ0tnPT0YACAAKAAwic/b6t7F9AI4l8y64Y0vQJfMuuGNL0oceCtPNnpWRm1yd2NML0lHMGRocFlHeXBoZDM4PVoeIhwzTENtdjAyZzVmZ0NPMVRUVGxKT1BpZm01YjA9Zd7ZViESrQIIWBKoAgocUERiN3B5RkZuNlQzb0hlZldHQnNIYVBCQ09RPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmN3WXRsOG5XYXU4R3FYZndPK1IyY0hrNnNkYVJpS3lDRnJ2MlY5ZTl6WWIxT1UwbllsMzhDRGVjMUcrN0MxOHk1SDRUVk9NSFZmT2U2Wk5oRzZmaWRBQmJucjBaV2ZqMzFyOVA0UlRkVkh3Rm9WU3l3PT0YACAAKAAwzZDQ6t7F9AI4j6qYjYAvQI+qmI2AL0ocSnprbDBNU0dmbExscC9FTllqcTFmQVd3Nkx3PVofIh3+ZWM1cXB4aisxVDVXeGRZN3F5M2hvem93U2h3PWU4/XbbEu4BCI4BEugBChxUVDFEZ2l0TjI5NldiMVhqVXVrNVB1UFRGbHc9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2Y0dXM0T3F6QVBVQmdGYVBIWXZJZy9tZTVCY3FMK0l6ZU5XeXM3aS9kYms1aytxdWllMENPSnFtZ09MZFFhZDNvS3pwVzV3PT0YACAAKAAwjabqz4bG9AI444qi6NcvQOOKoujXL0ocY0o4b2JyeWM1QlFnRTFocldXMFpZYUd1TGxrPVogIh7/0mxxeXZReWhmMndUVkRsZUs0MUdCQWtrVzhjYz1lAAAAABLtAQiMARLnAQoca25mSDdUSlVvemtYejNIU1NSbEpHaVB4OGhrPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmbmw1dTYrYzMyK3U1dkYvNTVpUTZidlJTT21tWFRYWWZhOWhRdVBldmdkOXFGR3RHbTMrRWF3Y2I2UWZXRW04Mk5QNTk4QT09GAAgACgAMKbzicOExvQCOL6jgOjXL0C+o4Do1y9KHGhxSG5IeDI4RjJwR0s4WjBqOXg1NEhHVVByQT1aHyId/0pVSm9naFNJRExPT0hxbGFLTVZydm9EVXRPVT1lAAAAABLtAQiaARLnAQocYkFJS29rQVVFQ3VhQ3gwOHlIamhWUUxoajRFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmcVhOUVZyTUIvQVZMSHJBaEMzL2QwRnBtN3BObElOOGxHVUYzU2psZ2dEOERwL0dCMHhROFpOdExnRzEvTlJNNU52eVk2dz09GAAgACgAMM2Q0OrexfQCOMf187jHL0DH9fO4xy9KHHV3Z2k0VGxaK1JrTCtob0MxTlBOQUJuOC9ybz1aHyId7XBqRWtORTNWVGVpeFVUdVFBWlU1Wm5DaE5paz1lOPk5MxLtAQicARLnAQocS0NvR3BBU2o1Syt0VkcwenRuYmN4Y2k0bW5NPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmK1M3aHRPa3ZYOVBMVUxDWjdVTUpxOFhwUlNCUW5Cd3pxSDhhS1dteFJsRGQwaCtGNm40LzM3SXpVVWJmRGo5dEd5WDlyUT09GAAgACgAMI2B4bLj1PQCOL63gt/QL0C+t4Lf0C9KHEpoOTN3MWlvKy9kMVlEYUdMZk1qOTRjalBLRT1aHyId+zZjdmFPV291SEo0UHBkaEJJZHJUOHhUVmx2bz1lU2XOARLwAQiyARLqAQocVm8xYyt6UG1qOEVSdVlpZlRNZkVPalVGb0xVPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmS1Zoam1RN2hUNlgrY1VObU03dUFjZ0hQbC9KTlNEK0JYdW85MlladVlEelpVV3RJUXhBeFRUYmFVeS9lenpHTU5aQUR2dz09GAAgASgBMM+O4tzsgPkCOKKRnPCgMECikZzwoDBKHGhNUTZQanVWNXpGTE5MUi9BQ2RFS1Y4S1Bubz1aIiIg/////lFENDh5YUwwVHh6NHJ3SEdYSVBMMERpUHJsWT1lAAAAABKuAghmEqkCChxtbFJJSVZpZkk1T0UzK0ltaVhuYzkzRDc0Z009EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWFBocStiVVVVZ3ppNXMwdEI2TkFNRXlOenlmUXJZZjNXS0t5VWFsaGFTdnljYkdiZ3VkVHhtV2t0RXVoZVB4YVJNV2svckUxNW8zMGhwdDV4SjFuQnZvcFRvUkhpYkNnN3J6dTY0TjFMeUZyWDBHcHc9PRgAIAAoADDNkNDq3sX0AjiC7fvbhS9Agu3724UvShxadmt6UzZjWlVMbFN2SjNad2tYdWJJa0hjeFE9WiAiHv/2MnRHMlo5dU9CdzBEaDgwSlM5YzNGSnR3RGFVPWXQ0T9mEu0BCJgBEucBChxTcFZRUVN5NXpSM3JoSTJtbm45OW1DRlRMRVE9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2Y1R2hveDBicTFCVCtCTUNET1Y0dEJjRVdmTTZneU1FU211aGNjZy85em5UTDlDVnBKN0g4NHhObDRydG1TZStDK2dxZ3FRPT0YACAAKAAwzZDQ6t7F9AI4497nt8cvQOPe57fHL0ocSWFPR3RHZERNZExMVU9uODVhNnc3NkJHZVlRPVofIh21aG0xangzTVE1KzJzc1dTWEVXU3NEYS9xM3A4PWU4+TkzEvUBCJEBEu8BChxOZGNsdzdRcE5sUjQzR1dmOUNKd3BGRTZaZHM9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZlNXorZjJqQkZaTWVITkVCQnhMaFJVeUhVcHZwSkY1SmFxQ0d6bytsOFFTZUlWSWJkN3Jpa2ZrUU9CRjlEaVJYUUlENm5nPT0YACAAKAAw/JqdpvT99wI4qOaEvOkvQKjmhLzpL0oceHY1OWJ3K3Y4QzVnWW9wSWJ3Vi96amo2L09BPVonIiX/////AAAABO5NL1UvanRKZXBmbDlHM1JkeUdCSWZwZHJScUE9ZQAAAAAS7gEIowES6AEKHGxxM2tGaERXTnE0SVAwdmYrRFpnZ3pxczFiaz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZktTTnZvMnc0eDJtL3I4elJkWjAvQkVJZEdaa0NDTE9mYm9Ga3dzOHRSeFp4SlFzVDhzVXFPMUxjU0tMUnJxajh6Ni91bGc9PRgAIAAoADDt8rKf9P33AjjzopHd4y9A86KR3eMvShxXbU12am1yb3hPRE4vczFtQU9IWlMxWGJIc2c9WiAiHv/rVUlxQ2wxZzJnamcvdG1PRENOR09kZGFsdzdBPWW0ivfdEvUBCL4BEu8BChw5UE9zTnkxbFNBZUkzYTRmZ25EY045bUw3S009EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZDWldNOGFuMW1IdHBaQk1qSnRCV1pmQ2pvaGJYb25tTTlQbUlSN2NEZkdCdFFacVF4ejdTRHZENEt1b2VuVnJwWjdQY0x3PT0YACBIKEgwua2W5sqe+QI4+NjolKMwQNDrstekMEoccGU3Mm5xNDgwWjdMT3Vrcm5SbHdlK0VMc0YwPVonIiX/////AAAABPtIdlNpWVZVdEV4Q3lCZHo4RmRiR25IcTZjL289ZXOqXgcS9QEIpgES7wEKHDJKREtleVJtU0tIdUN6ZXY4elhMeDNaa1FaUT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZitjYUpLNDJJNTdieUxVc0hhdFJMajFQTGQ2cU9haDZYSjZpdXl1RFVZMU41RFl1MVoyMExmYjVaNjFYVjAxdlpNRFBjUkE9PRgAIAMoAzCsnLKf+pn5AjjYn/SxkDBAmLrGi6QwShx0RDhZOXpzRCtwMnZCNFY2K2ZDUWdHaCtkbEU9WiciJf////8AAAAE/WdRYTYrVlVQZUszWG5tUmZKc056TGIyQ3Rndz1lOPk5MxLtAQidARLnAQoccDV6L0YwY1VBL3ZoNytyTGRaVytPcTVwSUJvPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmaW5ueEl5eVN6bG5lUEN2NHNEUWF6bzdJSUdzTWZBZmYzY0hLZkhOYUxjS2MzbG44T0JyOHZocS9XK2gya2M5TStmenZCUT09GAAgACgAMI2B4bLj1PQCONvMu/LYL0DbzLvy2C9KHE15SDVHeU5xaHlxNzR5OUVBczkzb2JvNzFwbz1aHyId/UFMWkhCU1djZCtKeHlpVW85YUgyRXU2TmwyRT1lU2XOARLtAQiZARLnAQocZ2w3eVNJTE5YZFRBTEh6TFkxZGJaaFB4WUJFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmZnJuQ0pQSjhFWDVIZHdLemF4cnZFdWVHM2Rqa1VWWGxtZnVVUjE4K1RzL3NBT0JuS0VVeXdPYzBsc2F1QWY5R0NOUDltUT09GAAgACgAMM2Q0OrexfQCONTb9LjHL0DU2/S4xy9KHEd0NTZGTmxRdkt2QmhYODNuS0M1Qll2UThvcz1aHyId2jZDL3N6ZGV1SEo3Q01kNFZENG1EU2lsY3lNMD1lOPk5MxLuAQiPARLoAQocVlU1K21sTkphdS9WZGJQKy9iOVhRUVpvdnZFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmUG1lQlp5TmdpK1FYRFRXQVp1OGhKMlJ0aHN3c3lLdHFmQkNqV3pQSVVnTDY5L0ZrT1JTUXRyM1dlajdoV2w1RGN4cjMxZz09GAAgACgAMN2slauHxvQCOJqvrujXL0Car67o1y9KHFhZOEZxeUl2MmgzU01LaG9abGFiOFJuN2NYZz1aICIe/+lneHNCdlQzRTdGZ3UyeGVYbnQzaTlnb3dTd3c9Zd5JZm4SrgIIaBKpAgocbXl0anBTKzBUOVZSQUdNTUsvZ24xcURuVmo0PRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmJEeVFQZFNaWlh5SzJmWk8xT2dBeFowNlN6Q0JwYlg5dUZqN0hyZ3hxcktKWG1MVGY1bHl4WGZWQ010cjN6YlVlRDFaN2RiNFk0TkYvWWNSVWJBWVI0Y0lwcVJZYlc3Slo3bFhUWnlTbkdVWmQ4OFB3PT0YACAAKAAwzZDQ6t7F9AI47qnQzoovQO6p0M6KL0ocNlRTOG0yaVQ2ZGtqR2NJak94clV4dXpNNTBnPVogIh7//W56c3VrMUxlOUdmMllYSVRDUzkvOEJ2Z0cvOD1lOP122xLtAQiHARLnAQocRzBVWS8zZVlvdVdDL0Y5VnhGWngwSDh3VHFZPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmdFR3ZnR6Vnk0NzFHOVdhTWNLdU1DSS9JVGx1WURRdVhPRlladzlzaG84OCtiZ3haZ21mK2RDakFaU2h5TEdsUUNjblRQUT09GAAgACgAMM2Q0OrexfQCOPbeiKzUL0D23ois1C9KHEhOejRaTGVKbGI5TFNkUjU2VHlhODRUb3gzYz1aHyId2kVpcXZLUnd2WkdKRC9BUVBoUFJ4TGh3akZUdz1lAAAAABKtAgg8EqgCChwxNm1IdURYWjRuZytKamRUaTZJd1FJRWdkUzA9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWGExb0pvR1hveUtiUFgvRXVLVUg4cG1yUjZqQlhSL0daWUZaSjNSQUg2a3UwaDhOYk1UM2c4WnhmT1Fpa3VKbkdWV2ZJVndwbWEzY1lCRnpsbmI1NkNTSldhdHZuUDVXMkczcGdqcEFrRnJkR0JLTGc9PRgAIAAoADDjgbXq3sX0Ajj1oOGGgC9A9aDhhoAvShxlaFNkQjY2RVd0OGgwQWl6ckZFcUJJeklsZ2c9Wh8iHdxpWVhXb2FpNDZrRlh5emJ2VlJIWG1JVFQ3eGs9ZQAAAAAS7QEIrAES5wEKHGFFbDBYSlMrYzZUcnNpTkk4bllxdmswOXQrUT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZnVkZUVxVHJPRm5JOVpDams4N2ZsOERERFFJVDNVN3NENVF3QU9aRTVmeks4WE1JVFlLc3RMZkZ3VWV0OTRjRnJLS2YrRFE9PRgAIAMoAzDb1Ojg7ID5AjjYqY7EoDBAsN6c8KAwShxVUWFjV2VJSmlkUVBicnI3K1J2Wkd4a0pVbjA9Wh8iHfZVSVpWRmFKMFpuLzhZMXRFaHpCTE1ZeVBkVmc9ZSjQ4akS7gEIjQES6AEKHFcwd2hxdkZzbGVza3krcVBDSHVmMURuVHcwST0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZkJYTXVsZlNDZ1JVT1Z4cHpNWWQ0WlljUC9QeEdVblJKblVSNHlwUE4rcDNnSy9LSHd6QUEvV2srUWRYOWhBU2gyMGpIVFE9PRgAIAAoADCvn4LIhsb0AjiumaHo1y9Arpmh6NcvShxGbm90aTdCRWRWTnJSSHUyUWtpMEZiQnlETDQ9WiAiHv+lSUNqa2pvTW9JcGRVQXlhWHJEeDlIa2o1dHM4PWUAAAAAEq0CCHMSqAIKHC9XaEFBdjlMbm5saHYwdzZSTlBPQzZ2M0lIRT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhtVTRJdUF6MGtNb3JGVmwvMzlGV2YzZmh6TEM1UThnd3czT0VuWFFtc0ZjUm9SRWh3bHlGdWpuLzBrTU5iSWZvbEV4em1Sb3hxbkpHZ0EvMXEwVkc3NkxGL3RGUGUrZDZ4YjkwdmRuMW9iQUJFUVZLb21CLzJvVWxXNy9paUdFYXlOWkpsZz09GAAgACgAMM2Q0OrexfQCOOScpteRL0DknKbXkS9KHHpEL0F2VllpRDRLajc0ZzM4dUJ5Q3ZvbkhJND1aHyIdGFlzTFFObCt4MnFTelNhUlZtb00zTXlPTWR6bz1l5RE6gxKtAghUEqgCChx6SVhUS2thYUVKOTVZblJWMTNnU09xYWNGRHM9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaU3lQRXVWV29ob1FwWHhXRkt4c0tEMER2ZmQ4WEJHelRveCs0bTFFa0tWUjJTQS9wMU1LNVVFaWNMNFFsbjJVcDQxZDRmbGxoOGlXN3ltWUdXOFo1ZmNBTS9KbnBVMEV3WmxCMDhTalJJVGRMMkdJWFE9PRgAIAAoADDNkNDq3sX0AjiwhtCIgC9AsIbQiIAvShw5RWRUeUMzV0hUdklzTlJzUnNIbWNWVWlIUG89Wh8iHetoTEw5Ri8vazU0NkdoTDZtNXBLeGZjZ1dNQlU9ZTj9dtsS7QEIiAES5wEKHGxnQUJSOXdtd25FV2Qyelg5ZVBvNi9GTG1jdz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmozM2NhSGw3ekdUc3FiSm4wWThCRjFiQ3F5UzFsWlpnZVpFR0R2YXVJZTk2T25DSk5xYmFBZ25jdjFyZ2ZIcmZqY0VEZ1E9PRgAIAAoADDNkNDq3sX0AjiO4p2s1C9AjuKdrNQvShxXeHNtcHF1TjdGRTVDTjh1K1FGK28xSm51bTA9Wh8iHe10VmdYT1ltbjR1c2piVmt3bFJRS05sdWZ3WFU9Zbf1mToS7QEIrwES5wEKHFFzR3NrTDBFUTE1T1ZTMWRJbHJwNythU2dSUT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmM1WGVRait4N1JkcTZIcEE4cHVNYytEUWRPWmQyN3lFSkwrL01meTlRR2VrWFpIaDFsa0ZZNmYyMmFvVko4cE5xQTEyY1E9PRgAIAMoAzC9jZTf7ID5Ajjf9qrGoDBAxLec8KAwShxVOGlzMUwzWnlMeXpOVXo1K0lnTU1ySDBDV1E9Wh8iHbJZTWo1RGR2a0FwT0pSODJiTFNCYThsKzNCbFU9ZSjQ4akStQIIMxKwAgocSk5YbHpuNlB0RFFDK0lBVVA4VFN1NTZReVA0PRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWldQRTFmSURoR1dKaXlxUWZUL25GMENzZ08vOUxrR1VMcnppb2NxZEpDWUQwOGFhblU1ZE02OWR1d0t6MnJ0TExVNUcxK1Uwd2FsUUpvblRURG4ySGVVSDJ3NkxGdkdVRUNVRUhqOEppdjRWQVo1RmR3PT0YACAAKAAwzZDQ6t7F9AI41/yc/v8uQNf8nP7/LkocQ1U1SWE5UE5EbWw2NzBDYU16L1pKRmV2M2o4PVonIiX/////AAAABPdsemdNc1BGSU5kNnp3UmkwZ1BRcGdhbVBhK2c9ZTj9dtsS7wEIfxLqAQocMmFiRWVzU1ozSlNONjVnc25GcVNOcFhYeHNRPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmZGJxempGVG1INmZFSXlHRFFwRXI5amg3cUtOT0RCNlh6RTBQbC9DK0VhVjJ4alNJbm5wSG5pR1o5RWZ2Q3dhTUlYY2ordz09GAAgACgAMInP2+rexfQCOJv2jd3AL0Cb9o3dwC9KHGNUSjIvM1N4RXo2RThlQXNtVzdJUlBVZDcvVT1aIiIg/////VdiblNjemZDUGxWeG5SRkcvcm1pdTdFcThQZz1lcWsblBL1AQiWARLvAQocYnlVazVEV3F3TGNmRW8rRG9oUTR5T3o2bWwwPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmc0RtOU8xalFEOXd6ekN4UUtRc2RrcDlobzllT2d1ZTF2RC9rakVBT0dEdGJJWVo0bzJFWWd1MW5nbi9Rai9GK3VzRmFaQT09GAAgACgAMKHcw6f0/fcCOJ2x+b/HL0Cdsfm/xy9KHFRJRHBURTZydk93cXJ4VzAwSmV6Z2ZwcVdQdz1aJyIl/////wAAAAT3dzBtejV2VE1zNnFTdEowd2RLMnJxNjJRNSt3PWUAAAAAEq4CCGkSqQIKHHJGSWZjeEVDOU1HS1A4NEFndFpPWDdHNE5ncz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFplYzUzdHNDaDA2TTlnaGxteDgxVnp5UDdkcjhvV3pkbmNuZkl4MUtEMnZkV1lvRWpiRS8wS2lhaDdSUzhTUE1CZmtzZjRFbTVnREFabWx1VkVsc3NMcjkxOWxmYThRTTZWZ2xoUUQvNHJseW8wa1p1dz09GAAgACgAMM2Q0OrexfQCOIWc34iSL0CFnN+Iki9KHGF5RWRVdHBuRXNiSjlOUzN5YzlGc1RQaXJWdz1aICIe//9tRHV3YU1ZNitkQ1lBMWxUVUFZSnhmOGVCcm89ZWUh6SESrQIIWRKoAgocVVZyK01Wa0M4WnBJMGUvN2pOV1BHN1BqTkpjPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlNwRzU0S3VFajhFSW44akROMWIvb1d1bHR5Mi9iZXJaeEUveU5KRTVDWldYQ2F5VXl6cENxa2lKMXo5c3VNQmJ1NmNXV3N0T1JjRDFRRiswR3IwK3NwRGhhK0QrSjRKUGcvVzNrOFpkOVh4ZHQ4Rm5nPT0YACAAKAAwzZDQ6t7F9AI4g4fujoAvQIOH7o6AL0ocbTdHdnVjWXpERk5qcnlNSjMrbCtHYnp3NHcwPVofIh3/cXU5MnovUlA1VmxvVXF0azYzMHhVVmszVnFNPWU4/XbbEq8CCHkSqgIKHENndER6WER5UGIrL1RwSFhsV1lvUUNVUVRZcz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhtVTRJdUF6MGtNb3JGVmwvMzlGV2YvdWdVa0NkWTVscE0weWNqdTlOYUFiWmt6dHk0MDMzVStBNklLc241NmVCUlBmc0lDUzVSUjVtSDdnL1hodWZuSlVsMko3QTR1dW9BTS9EZS9hK09VSDE2VUlBUGYyZithZWhFdWE0eElLSXcvQzRDQT09GAAgACgAMM2Q0OrexfQCOMe4g+GpL0DHuIPhqS9KHGNTN0NwdWNCSXhCdHV3QXVqVTlySGRRbUMwcz1aISIf////SHA5WDBRME1JM2E4MUt5SnIrR3A0TVVGMTlrPWUeH8MwEvUBCKQBEu8BChxtTTJ2akwxMTU2bHFubXFOdFE1S2tweXNwM3c9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2Y0KzR0T3JpMURNaHNrYThCUDUvRGhaWm4xL1N4RGUvMTM1RXZIVUVHWlNvVEVWTHp1Y1NLUHhCRC9BeEpVczFQRXdlNVZ3PT0YACADKAMw8pHi1+yA+QI4w+OS84swQJK/m/CgMEocbEluekV6Q2wzcFNKZWg0NXkxTnNYYlpRSzhzPVonIiX/////AAAABPsvaGFFMXBZL2tHaXhsNUZiUFRRZkhnU2hQUzQ9ZTj5OTMS7wEIfRLqAQocQmdPdW5wQlVIVm1aNFJ5clpTK0pzaHBlbkFjPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmNzRuVi8wM0VVYkVkOUdicVJhSGxLWHFuTzdkMVFmc2plR0Z0VWl3YmRzbEdnQjY4TnFSYndnZVVvMlR6eHA4TWd1Zlcwdz09GAAgACgAMM2Q0OrexfQCONHJy5LEL0DRycuSxC9KHDlpWGlxUm5oTE9aMkZXSkgwd0ZtQ0xyTnl1bz1aIiIg////9DNVbHkwcmsraXFLak41WmZRWmllZS9tNHhtMD1lDBK1AhKsAgh0EqcCChw1dGM5bjJkNVNTMmJRNGhwWFF4OENrTVZUUVE9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4bVU0SXVBejBrTW9yRlZsLzM5RldmMHU3WE1VWGVHZE55eEpsM21XbngxaVdVVFFGbTJRM3RMRGRkT1pHZWxSTmxjM3BubnY3eGxhd2d0RGFCdlIxdGlUS2JoVXFsWTRMRFlEcmpuWEp1bnhEVnpCSnJSMVMyY3BhdVk3UVI2eExGSlgvTmc9PRgAIAAoADDNkNDq3sX0Ajjw59qZlS9A8OfamZUvShxVNGxieEJvNWR1Q2xwQ3pkYlpPdnpRdDVDMVU9Wh4iHDFvb01DS3hQYXN3eDRKZFBXVlZCN1VQZWNKbz1l7QTFdhKvAgh3EqoCChxMVVZKR3lkbGQ5WURwQ05VWlEzd1ZvdXpTb0U9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4bVU0SXVBejBrTW9yRlZsLzM5RldmLzFXNDFsZUdNTkhJUWwvVXluU01oZDUrWFNQVlAxMzBkczBycGdNMDB3cmhFYmdzZ25iS2tha2l4bmJpaGtweUE1MXQ4YkswbS8zc0hDNVJjVnBnWjNkRGJRQzNjU0J6czl5RFZtZ1N4eGpUaFlWdXc9PRgAIAAoADDNkNDq3sX0AjjpurW7qC9A6bq1u6gvShxocjdsS3I5TzRHQ1Y0RTBTeElvLy81Q0NpUE09WiEiH////Wx2aytpWmlPMi94Z1U1S2tyQjE1ejRCKzBsVT1lSPHg8xLuAQihARLoAQocUFlkTjcrVE1waWhYUDUxdko1andxN3JTK0FFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmZWtQcG1jQmJpOU83NkxyMVhVN1hET20wY1RLVzdpMmMyUUdMYXkrczIvRTJGUlh2dEU3aFVxNnVvNVh3R3JCa2QyWmFjdz09GAAgACgAMMmc/J6Y7PQCOJP5wtXJL0CT+cLVyS9KHDFTdThCNVY0RG5RRnpqeDFqSnlNR0JoZnZLaz1aICIe/61XZ2xGTmNRZU9UUjZGSFI5NUFUTlNjSnJNc1k9ZeEuWRASrwIIahKqAgocS0RGUEVDN1N6Zlk3VFZYZGpsaHNyQWJHbEdFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmNCWStQQXY3L0QvaVQ3Vk40dHZ5N2FhY21KZFkyK214TGorZXAxbWlTMVRKWDhJVk9CZnBaZGx4SHBoVk1QaVVLaUMvdHcvOWo2OGxhSDAzUWdlZlNSWm15cExaNlJnSWxnM082TXd3aFRjR1A0d2VnPT0YACAAKAAw44G16t7F9AI41rOKuY8vQNazirmPL0ocN0pjL1J6UXdqZjlTbTMxRkp6R0RrVk9XdnJvPVohIh///7ZFNGhyTUtFb0NDTnhPaFM2eFJEMXRKUUJNZ2c9ZQAAAAAS7gEIqQES6AEKHC95SzV2b0VGK0N6YkFMeXNKNUJSVHZGWm9Ncz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmNSL1FDeHZjS1Zmc3l4eTE3ZnFETDEvQlFiQmdCc3d0QWQ5V1haL2FtUGFTa28rc0ZUbUJBZlFwWW8xdk1aM2xnVW9mUmc9PRgAIAAoADDJzZa25Z74AjiVztOplDBAlc7TqZQwShxnTTFmTXUycVZmcTJ2aE14U2pBZndJVFAvMzQ9WiAiHv/6YkVDSU1EUmV3NXRjS3c5YSszRkZ4TzFIaEpRPWXsSU4gErUCCDoSsAIKHFU3dzkvbDdQWktYRWdIZFJRZUhwNHEzellrOD0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpkR1E1SXNiMjZzR3I3Zy9RZzE2YjQzaGF5bXB2bTdMcWhBN0ZhVmJpUjgzZ3pXRGVTOHBBTWNLQ2pHRk5jYTZDS2dMbDJRZytjbFRrT1NkT1AxZStqTkwxVTBWRFg3aGxBNWoxOUtQcXc3UzV4WTNTdz09GAAgACgAMInP2+rexfQCONTppf7/LkDU6aX+/y5KHEZiY3FTcHFsL0NOM0ZFV01RVFF5YWFsSWU0VT1aJyIl/////wAAAAXpTmtBWExCNlM0RXM5cTRPQ0hnVVkvUGdtTDRrPWU4/XbbErUCCDESsAIKHHFvTW1WUjVkQ2liUFFhOWtheFk0ckhqWnRkTT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpYTVRiQUxMcFAxeHptR3hqS3hkTVBnYzZBY1R0WG0xSlM4bExLSmxRRXBrTS9CeGE2UWhTY05IbjY1RUUrV1dqOHlyZXVSVmpQUzEybXhUNlNVY2VVRlllRlBnbWNOUDFRbDN4R1crWlRPdmJSMnFOZz09GAAgACgAMM2Q0OrexfQCOPGmm/7/LkDxppv+/y5KHDQ0WGg1a1RsUlFqK3gvYTVoaG1rTjJxemd6az1aJyIl/////wAAAATddTdmVVhpSmhQWktNblFWN2RkTm8venlzWThrPWU4/XbbEq0CCGQSqAIKHEQ0TFFVdVIwZUR0QU5scVB3UHVpT1VSV1QxUT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpRbVF4ZlgxeGxUb2N6WFZ6OXRqM1lyUytPZ1N6NkFHYndHVzRCOEYzUldVWmpKUTJVcmE0RkRwVllpUTBTUU02VWpJajI2ZHFKTGEySllBNUkvU0lkSHBJZVIxOVRiZEJHdnpFNXU1S2hDMjVjd1Fldz09GAAgACgAMM2Q0OrexfQCOKmb3YH+LkCpm92B/i5KHHd3dTZWaW0zR3RlZUtuSFI5ZFhyNWtKN3FmYz1aHyId/3pibTR5S21sTEljakJ0a284d05IcFZjQmowaz1lOIC4SRKtAghSEqgCChxtWk5ndFhzaHFHK01Qbm1uYldVNFh5ako1MVU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaYStnbmpUTkp2ZlBEeUpoMmxSMFB2SmVSN2dIODZWa2xYdE5zaU1TN29XdnZ6c3ExS2M0SVQ1enFFaytFcVZPWlpranZrTW5YbERCZzhKRURERjdkVURuaGdDQzNOMTlpUXNTVktYZ1d4YlRxalQzOXc9PRgAIAAoADDNkNDq3sX0AjiCz4uIgC9Ags+LiIAvShxBQnkwN2xlczUrS280T3hKUVIvd0pjWlIvL1E9Wh8iHawxR0VoWW1XTURPei9FMzhyb2htNzFJR0dQTmM9ZTj9dtsSrQIIRRKoAgocU2FtaXlTdW9SZUFURDNGUjl3ZE00V2gyQU5ZPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWll5MkFXanI3WEc5UXl1angyRzhFdm9reE5ZT29EcjdHajloOWsxN3VLVUQ3VDRhOFpRS2tKbDk0Z3FpMWNPNTJ5YW9VY01KUXUwYUFzSmNUaS85WTFWKytQajFyWU01dG9LZmZjR1J3bWtPUzN3YmlRPT0YACAAKAAwic/b6t7F9AI42f6jo4AvQNn+o6OAL0ocNHNDeEdXRnZtNWlwc2dKWVByS20zWlE4RE5vPVofIh3+SVRUZmMxQXQ0T3NPUEkwY0tkUlZjaWdMbXdnPWU4/XbbEq0CCGESqAIKHDFyUnAxNWpZVTFpOXJjKzNDUG1uL3RURERoaz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpXRi9KaEVNV0Y3ZWVkY0FuanZOSmhjWThXRUNadWdVN1h5S01rL0pIWUpobUxtYzEyb0NpUVhxQ3pDZ0ovZFloblB5ZkNsNm1pRWl1WEd0VmJTRGh6Y1ZwQWlZcytnZnpxTGRDdjBaYjdpZEI1M00rdz09GAAgACgAMM2Q0OrexfQCOIOp/aDJLkCDqf2gyS5KHEhSUXV3bWZUazQ5czFmTVVmZXZnbVp0VHk2QT1aHyId+itvUVN1WFN5bUE0a1NSOTJOc3VObUtEdFEvMD1lhfYFcBKuAghfEqkCChxhQ0lOaEpRa1RsU25SL2NHYU1qWnc1REo4MUU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWkFCTEd6SFFSeTIvaDVvM1dxN0JMRWZHS1pqZTJNcithOCszNHdlZzN2c0RWR3JQSi9FLy91SXhsdm53a0V0cnNiMU8vMXFJeUhnSkVYMWE0eGROSnZMd2NZYzJISldxOEJDbWcwUXVkYytvbnhXN0E9PRgAIAAoADDNkNDq3sX0Ajiv1viYgC9Ar9b4mIAvShxQSVBuVTdyYTl6VEdKR1hFM01rY2JtdlIwRjA9WiAiHv/9MjJBQkhUaGdZeDF6Q2JzU2ZTNTZwLzcyT0x3PWVTZc4BEuwBCJcBEuYBChw0MXh3bFMzVTJYN1laQmcvaGlWVkJWNjJxZEE9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZFQ1pOelV2ZEZ5TTcxaGRuSVJEWHFUdWdRRWJxR0kzS25sT2RlYUQ5bldtSmZqMUtzQWJ4a1hQb0JKMTZxREIvTXBtVWRRPT0YACAAKAAwic/b6t7F9AI4zdXot8cvQM3V6LfHL0ocQjBGNE5pVnRzMlRFS0VDTUpHVmh4ako0MDRjPVoeIhxqa0dzemZVVlRGd29BMnc1SGdXaGY1bmFxSkU9ZTj5OTMStQIINBKwAgocTVBCZzJub0xmQlFNeUdIVVZndmJnaUZmUFhFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmY5dkFrSkI1SVNhWFMyZlRkR0RnbUNKM2s0cXRsQlJaUHB5cHBWMWh3ZGg3MXZqYkRaOGFrazg5NHBPR0hCN1hud2x1S2kxbXFxcWZpN0YwaFArcGNLOCsyMzZRR3Ftenp4Qk5sVXZONEtmZ2I2ZFFBPT0YACAAKAAwic/b6t7F9AI41cud/v8uQNXLnf7/LkocUk9WYnJ5T255NnNiUXJKTVUvaW9TUUtLUGJJPVonIiX/////AAAABPtmVTJVWUw3Rmo1VkUzSHYycWt1dE1nVGRPRlE9ZTj9dtsS7AEIsAES5gEKHGd4dC94ZFZiZ0s5REJTMUFnYUtQc2pUZDhvQT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZi82VDFrUGU5Z1ZnYlQ5YU9neU5MSDA0WTBkTnpvaTZtbWNGRy9yRWxKaVRVOXNtblpKQjJOcVVkNEFXb1Q4STNDWm03L2c9PRgAIAMoAzCfuI7e7ID5Ajjnu6/GoDBAo6ec8KAwShwvZEsrWjZWVE5ISktlaUYxMTJXSEFXSFNOMms9Wh4iHGRrcXlURVFMNEhsNVVpNE42bmRubUdsbk1kYz1lKNDhqRKwAgh7EqsCChxOVG4wR1dyL0d1ckRvOFZqTXMwdjVwZUVOUFU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZDl4NEZObWhOYXVDbkZVaU5xRVBaZm1YYmQvSGxLS1VkamhJY1FSVEl4ZDBPc3g1N2FvMTNYSURxWE83bjBWbjZFZm1iWWNMRmZnV2ZGV0dtT3VjNjFBcHJtY0N1MUYrSmFkTVlSWmRYblFJd0o5V3c9PRgAIAAoADCJz9vq3sX0AjjjuJLpiy9A47iS6YsvShxlc25DVitjVmh0QlFiQnRpbmpIamxWaXpYeTA9WiIiIP///9JnTDRZV25KUzV1NFgzZHJZdVJJQWtrT2REcVE9ZWEYJKMSrgIIGxKpAgocQWptZmFJQURTZVVyWW5rM0FmR0Jxc21NNlNFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWldSRmcrR2pxOHdrWkhJdC9UUm1ETDRtSVlhUGZRVFlCQzYweVgrYXYreHpxdDNnSDdudnlUa3R3Q0N6SlFmcytkUzhBbFhxRXZmUEtDQ3B3d1JYc2hmYklOTlduV3EzSkxMYm9vbWFESHl6Z3YwajVBPT0YACAAKAAwzZDQ6t7F9AI4nLb2/f8uQJy29v3/LkocNTdmdFpmcEdXR2lOSG1mR1NuS1dZNUNmempFPVogIh7/+TE5OWVhb0RRKytRc2dXeE9UU2RtbXNUR0g3Zz1lOP122xKuAghdEqkCChxJVm1aVnVhbW91UjlYWlpLRWxiMW5PUDhUOGM9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaUmVTbFNXRXBtUVVha054L2MzTmZ0Tkc0dURXUUkyeldjV0pyL2hQVlczM0lxVHFrWFkvaWJxWUZFZ3pDZ0ZpYkJzQkJtTlMxZVkxVWhJMTd0Vi9scXlqSEtPbjFzV3hOdTRjRXl3TkJaZ1NPeG9pWVE9PRgAIAAoADDNkNDq3sX0Ajj6yO2VgC9A+sjtlYAvShxUTVkyUlcxcUYycmtRajlVMG5Ha2E2VXhHWkU9WiAiHv/vOVU4b3BiaFpyYzBHSkUrQ20vWUxmZGk1NjBFPWU4/XbbEu4BCKIBEugBChxLWFdqWlhGSW9kVi9rSWJnM0hDU0NVcHgvbm89EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZPTEFqaWFIK3dWdUt1UGh4Qis1NGIwMWlVQk82VFduUS9uS3E3U3BNZ0FERDJnT0lLdThXRitkTnJMV3pLYkRoc2YydFFRPT0YACAAKAAw4KXNssb99QI4urDZpu8vQLqw2abvL0ocOW53SGlmMlN4R0ErbkYwR0xnWHcxZ1BNaUZNPVogIh7/1nV4anBpcUNkS3ZQWUI2YnVzbWtYd2VhdGV2VT1lU2XOARKwAgh6EqsCChx5Y3BYTURUVFdUa2laQmVvRGF4QVcyTWt1V3c9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaV1FoWXM2WWRPR2E2czFQUUNucmRNNzNya05Ec2ZEZmV0SFRlUUlPeUZNMHlKSlZsQWRLakRqUGZKNGg4K1J1MGw1VFFWdGdJWmo4NnhmSXpNZXUyMDB3MTdaSllMaUltMGxLYS9US1lPdm1xYzcwcVE9PRgAIAAoADDNkNDq3sX0AjjC9vuemy9Awvb7npsvShxpdE42bkd5dm9JYW5yZFVMa3gwN0xtNGlINVU9WiIiIP///6QzclFrS1dLME1ReHBvQUxOdHJQRWlOQ3ltbUE9ZbRM5VMS7QEIoAES5wEKHEMxM3hOSitqUEJ4OURmU05IMWkyOG5sQWNqdz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmRjWmgwQzhodjlwK0lUU3JrbjZ1RTlpdVVuN0hucmhlUkRITmVVUDFmcnNJOWdDY1k2UE1LdWUzaFFGRGtqai85RE15Nnc9PRgAIAAoADDzkJm249T0Ajim57iD0i9Apue4g9IvShxyR2F5Vmxtb3E4d29BVnhsdUtVMW1uOGV3Q1k9Wh8iHf9aVTlvczN6dWZUcmFKR1RIejV3eVNkMHozbkk9ZVNlzgES7QEIiQES5wEKHGRxbElnSmtHZHZ3c1hjU2N4dXBvVUFMd21GVT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmltRDREQm5TVkRuQS9HajJkZVc2aENUc3lzaFRRendaVkl6UEhxVlJFcUdPOUlYQUU5eE4xczFTcis1U2NLYjJuTXh5OFE9PRgAIAAoADDNkNDq3sX0AjjS5KCs1C9A0uSgrNQvShxWU3BkQ1BtTk5WcVlBQ3I0ZTNjVlpZaUJjRW89Wh8iHfZBc2hZcmVSNnJkNkVWVHVnZksvU3V6M0U5YVE9ZT+9pZESrgIIXBKpAgocK3d1WllnRjgvcnV1NTZ3eXU0NERoWmxpcmtrPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlM2TllWS0Q4RzJxejRMM0lLZndZS3lkbjEyWXZHME4wZHJQRm5zbXFtVzB3dFlNT2dyS2ZuWVVFUERSaTdYa2ZyRThuV0Z2M1JxbG5BNVpuSlFzMWxtNlhIeXVZRkRHRXpPb240aUZoWjVJZmRrYkRRPT0YACAAKAAwzZDQ6t7F9AI4nfGGlYAvQJ3xhpWAL0ocYzlMS0hsWThtMXJxekpOZHZocy9pTWdmNjhJPVogIh7/3kF2VFZVUll0QVp5Y2ZZWEVvditNZFpuZ1IvND1lOP122xLtAQiKARLnAQocYWFZZkJLWEVtVEVHY1pXSG5SVVR4SGJSVUZZPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmY1RocTloQnVJcGFHdzJuaUpIVi9CdXdvczdqSzNUNkY1NHNrejVxd2U0QnhabFlkV1MyOVY2QkdxSXo3ZGVpeHhML0RRUT09GAAgACgAMM2Q0OrexfQCONmz7a3UL0DZs+2t1C9KHHR1ZjF1YUdLeFRQbVJINGo2MWxzcXRvYXZSRT1aHyId+3VxM2tsRjhQVXBlZU5wNGxScUJtMzF0Q1FOWT1l+Z4NGhKtAggREqgCChxKMkZia25kMU81VCtPZ1BjQUt6QlQ5dkF5MHc9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVEE3bURBSUpveVliWFlQdVlUR0Vhc0RHakdpZ1NHWExwYzlxUzE1Ky8vUlM5eHVBNGxqVmQ1WVd5SVppQXFMUXVaZVp6YVBxTzlac3J6TmMweStxK1lNOVJnNjF0T0xzUWdzamNxRVZJK3pBQVlaaVE9PRgAIAAoADDNkNDq3sX0Ajjk8ur9/y5A5PLq/f8uShx0RFJETEtTUURneDk0NjZiQUVzUWxZSlBNUW89Wh8iHe5uYXVpWGdYU3llcXUrdlZXTUVBc2FQaTU3VTg9ZTj9dtsSrgIIWxKpAgocNmpBNU1ZVUpIT3V2OExxM002OG1BQnZnQXZnPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlprRDcrTWZCZ2M2Tm5SRXZNMHZyamtPYUlONWNMenNScGNRS1RiQmhjOEsxWjNkVkwxNGVkWG5iZ05LdlA3ZHdDbS9pVnM1c29tZU5lYkxCS3oybVVsK1F1OFM2cmh4UXBWemIzeTdPaHVyYUNBYVZRPT0YACAAKAAwzZDQ6t7F9AI4jIHslIAvQIyB7JSAL0ocTlU5dkJTNlFubEdZQ0MwVkNBSE5hRTV4a3JNPVogIh7/vDVOd2JYWTNMbHBOVC9HN0dvMitlQ0pHZDVMYz1lOP122xKsAghREqcCChxZd2MvdGJ1czByV1VmeU1lRTI0WmxFbUVxVmM9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZjZFbWpKSkpqNG9PZmh6eGZyMjgxcDFQbW1HblF5Vmd4SW9nNmUxWXkwRjJqY1dFdmRVa1c4ZXk3L1N4MFYzR2NaVnM0MHc0bGNFdWt3WE5uVWRGSVh4ZVU0cmxFUG5GOFFqZm1wMXh5RXZ5djJmR0E9PRgAIAAoADDNkNDq3sX0Ajjx4t6GgC9A8eLehoAvShxEZlNxdHlGZnR2NHFDWmw1R0FGRjB6bFB3M0k9Wh4iHFlQTnJuSDcrcHZFYi9kbFl1SHNWWVdTUlhjVT1lOP122xKsAggNEqcCChxJUjVxU3h2ZWpBN3Z3U3N4NDgxK3F2V2lqd1k9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWHd6ams4c0xLNjVYSzluMDc3bWd1R0x4TWNidG5UT1hlaW9rVlE5Y2tGajZqdjcyMmkwM3JWcHAySUl1SSs3cnZ1RWF2VE52MUNzNjdKSkxJd2JGNUxEVlVLbGpMdXJRdTBqZDBqODJpYUYzdFMwNVE9PRgAIAAoADDNkNDq3sX0Ajjl0N39/y5A5dDd/f8uShxFeEdtSVNLSlFVbjM4a1ZwSXdxcTNCcTZJYlE9Wh4iHGlhVHo4M1QrTGRZeE8raUE4YmVra2ZnS3RzVT1lOP122xKuAghNEqkCChw5YlpFSVhwZjNOaFQwV1FUUUxkRTB2ejJEV1U9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVjRlNWFxM1RZa3lSMG05VkIwTG5WY3FjanJCdXAxUzRyeDR2Y0w4OHpVSG9qYWxhRG1XMnRpUmN3amx3L29reHY4MWlRbjV0Q2dpd0dJaCtVWmNBdHI5QjJmdEgrTGtJODUxMjRHUkVXK3o3UWpBRWc9PRgAIAAoADDNkNDq3sX0AjiG+9GngC9AhvvRp4AvShxXRW5IMTZqSXVpdXhaWkhxK2xyc3JyV2hSM2c9WiAiHv/9NlQ0UWI2YUs0bEx5ZHpxYUVoRVJnWmVNRzJNPWXY1mr0Eq4CCEgSqQIKHFFyVDB4bVdSRHhCVUR6eG1HZXI5a2dzdlU2bz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpWczNuRm5kek0rTmVkUGZEeSt0TkxGZkZYa0hnYnFqSDNBUUdoNmxhQ0M2N1NpTCsrUFNxZm9zSzRIdlI3ZkR3ckRBdncyZ080UGhPdlh6RHppUVNkOURrMVkvaVRrTE9jZzYxUEF1Um5aNEFRc01rZz09GAAgACgAMM2Q0OrexfQCOPvy1qOAL0D78tajgC9KHEp5L2ZHdXU3a2VxU2ZUYWRtK3lCNVdacWh4OD1aICIe/7xZWXVDZnJ2eCs3MVlKaWtOa05jNWcyeG1lUkE9ZTj9dtsSrgIITxKpAgocUHAwOWZQak80OUZxQnNwdG9lUE1yaEZWWDk4PRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmFiaC8yUDMwTGcxWTM5TVZveUxYcUxsbGFNem0rOThJYnVIVER6SG02UlNGSGtoZSttaXZFS1kvSmlGWnh2UVN5NFdsZnFuMmsyRGR4eEJGenA4MHpVWU1MbnNYMkt6ZldjVWcwc3ZNL2xiOXlLT1BBPT0YACAAKAAwzZDQ6t7F9AI4l+76rIAvQJfu+qyAL0ocUUtCNE5EWnBRYVEyWEd0Tnd5M3JKcjVlME5jPVogIh7//2tFUkZNL25yc0o1bEtOOEZPUW83OGpYNkFoVT1l2NZq9BKuAghOEqkCChwyUnhDb2hmaHczRVJhL1ZEaXZuZWh1bWxmcm89EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVVJtdGpXejRNNkZZdDVJTTkrUDFzaDdNVHpUNDBZVU5ONkdHMDRNWkV4Yk1Uck9kVVRCcmFBRHBVNUJHVFdOKysrR09Od1R4Q2djaHdzUitWbitwc2lVNFNMZExpeSswSTVYbnF5ZElJY0p5N082T1E9PRgAIAAoADDNkNDq3sX0AjjXs6OogC9A17OjqIAvShxxUmpWNjhDZFg3NVBRY1JuUnBsTlN0SFg3T1U9WiAiHv/+ZHNWVzFER0htVG1mUndMNEhyc2NwbTMyN0s0PWXY1mr0Eq0CCFMSqAIKHFFrdTJ1NXppdkFjQWt2NGQvRFhHZHlRaU1yaz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpSTUtTazNxbXRCU2RLeVYxb2dSRDczRWRnem9QNXJBM0srZ2hzZzVTUHIrM0ZhaHAvYm5JcXp5T0RCUGM3VTN0ekhyMEx2SmJCRHVwdDJ6a0Vlci9Ob3FGZkVQNFBUaGZSa3B0SVIvUVhlcExLYjJYdz09GAAgACgAMM2Q0OrexfQCOJf7qYiAL0CX+6mIgC9KHDUyeVZvZFRUcEVFYzR0L1Q2S2o5OFJuelhVQT1aHyId1lRwRkhFbCtkZ2lic1dsVmJPR0RmY2J5VHREUT1lOP122xLtAQieARLnAQocNzA1d1EzNEUyWlhzTXh2LzN1cU8xUW9xY0NnPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmWkdNamNmaDhvbXE4NytySXh2SWdaYzdZR3V0N2hEbGJxZEJKemF3NnZOOEdKY1RGY1J2Wlk0bnNPWHIvWk1rSXZvUHlFUT09GAAgACgAMPHM87Pj1PQCOJTrj9/QL0CU64/f0C9KHEt6YW9QQXY4a0NWS05RZ0FHRXFQd1B2UmN4OD1aHyId/nQyTGhvTUVRbHlkcDQ5dnVKMGVmMHN5U1Nybz1lU2XOARL0AQiBARLuAQocSUtIN2lhRzkybUNRY1E1ZDBxYVZYbTA0NzBFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmaFdJdmRVZTRFNXhjTFJzT0hUbzVsd1NaNTdlS3BSb0pmeGZXRmNGZS92VmJBMEIrY091aFRmRjFwRlN6UVc0SGwvU1RnUT09GAAgACgAMM2Q0OrexfQCOI6pyqDAL0COqcqgwC9KHHVSeU1GMFBFcEZuYmNKWDJ6b2F2cWE3eEY0Zz1aJiIk/////wAAAAR0MG9JdCtyZW9yOWZkMnhBTkxudDM3YThEeXM9ZWEYJKMS8AEIgAES6gEKHHcxbEdHeGk5cVlmNEJVZVVsZXFaNisyL0pBdz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZlRvbnlWNjJ1eGR4QXNjRGU0dGZmd3lMbERlL1ZxNXRjU0VQSXJ1V0xGZDRWbnVFbWY1eFY0d0V4YXUrbVFDY3RYQzlheVE9PRgAIAAoADDNkNDq3sX0Ajio0Mv9yC9AqNDL/cgvShx5ZVZoZjhEcHFRNDlzUG82VEtjMmVZMFJaODg9WiIiIP////41SHIvdnRlWGlpUFRNYWN1djJhQUhCMnhCR2s9Za7IzPgSrQIIQhKoAgocMjhrWnJJejRSLzdyajArb2dpMTNPbHpuMENBPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlZlR3NUVmZRVFJNRnlFaXFYMkY0R01aRXVaVk8zNEVrQmhjdnk5MDlwbms2dDJqUkt2cFBMZWxjdHNVV0pjYWsrL3RyWHlPeXp3UzlXYUVrSGpPNXNLcGJWdTRSUkRZTmNlN25meTJQRkt3T0FUTlJ3PT0YACAAKAAwzZDQ6t7F9AI4qrWUo4AvQKq1lKOAL0ocUjd0WGw5dkkxcjg5eFpqNGZjTVVwT0s3dkhVPVofIh32N0VKdVpRRFhETWJsNk96RzBvNmhJWmFLbGk4PWU4/XbbEu8BCHwS6gEKHHdrR1Z5UVJwdXQrYWkrR1dqU2FHcHlHWlc2Zz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZm0wdG45REtUaXU2SisrQmV2bWU3cDl4UkJYSWJOTnRpNXEwK2o2QXFGWG1kWEhkNE5ReTNrUE1SNmJXWlo4aEg4WWNENWc9PRgAIAAoADDNkNDq3sX0AjiuqaX4ty9Arqml+LcvShxodmlyRjNrSnFWVEdkM0R3NVAvSUcxdG13S0U9WiIiIP///+lXcXgrTkh2cGtpSmthcUNSOHhkS2IyRVByUEk9ZSDgEGoSrQIIQRKoAgocaG1CeG14QUZRRVRRTXd3bTY0bXNTa2J0YytzPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmJaOUVUVFlZazRQSWZBQ2xpR3R2NGtQQVphcSszQWlEaURFR25CdkU0WVVGZnVSb25ZS2E2d2NsNU51RXFoYmFCcUNlNjJaVW1WdmpONWVpNjM5N25iR1ZpY0Z5Um9EYzd6R3habEY5ZDBXNXBmQkNnPT0YACAAKAAwic/b6t7F9AI4h8iBo4AvQIfIgaOAL0ocbjNDSG55dmV1cmZISnlXNnMySUhWcWdicm4wPVofIh3taGM2TEg1b2FXME00NkVXQTlWS05sa1Z2VkpRPWU4/XbbEq4CCEsSqQIKHGxCdlJ6V2JHWC9OMWdBdmNwYlU2amljc0lBMD0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpaQ3BiOW9UVng1VmcreE8rQ0xtWGIwWDE2d29odEc1a1Jvc1hFRkViYk4vM1ZNekNIOEVNWjB4dHZHb1ZIZ0htZU5hcmJzS0tJSmN0SktjMk1GbnBUOVYxMHY3amZLS0prL3pVKzVMTTFtT3ZLU0RXdz09GAAgACgAMM2Q0OrexfQCOIOtmKWAL0CDrZilgC9KHDZpTklVUVFFa1djTU5YZUU4WW52VmlsM0xmOD1aICIe//dHVFNVcmMza2N6SXRMWjNGTWhhYTJBM0ZwU1U9ZTj9dtsSrQIIQBKoAgocbUZtNDZRVTIraWlXcURsY0d2dzJsM2EzU2drPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlgycUFRYjZPSk5zUW9pd3NoSXJpU2NUM3hycVYwcmgrSENCSnRBSERBMnIya0hDR0pGa2d5bVNaZ0d1bDFGbWNJT0Ryb0N4MEFmeVhCR05tYWFQNkdLT3FoNWZ4S2kwL1YvY0w2VGQvd255QzVtdzVnPT0YACAAKAAwic/b6t7F9AI4uLSGooAvQLi0hqKAL0ocQ3Z4YnY3eVJKY1dyWXJzRzliNWZEcE9qRC93PVofIh3bSy91eDFHdjhoTTE4NjlCSEFuWHU1dWpsYXZ3PWU4/XbbErUCCDgSsAIKHFZyaWE0ZVcyNzlhRVZGaER6TnhKNnYveWE2dz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpSNkQvRzFzNXNpS1RybmxJanhQVVZPbEVhTnJmenFZcTFUeEVUL3FHdURQQkptWEowRjhYK0sydkpVWjBRcXlMbWhoNkFIOWxUNDZ5cXg3NG5uWmpiN0JSVGNzS3NObjl5Y1VZTjU3THgwdjZoQW01QT09GAAgACgAMM2Q0OrexfQCOPC6pP7/LkDwuqT+/y5KHHJtSXU3OVdGT0N5NHhzNkljUVBtUXgrbHhVcz1aJyIl/////wAAAAWlM1Z4c05DZ1hqR0J2QW9jMUdRZ2FseW1oVzBBPWU4/XbbEq0CCGMSqAIKHG1BOEp0bTM1UnpWdjZSdDFzeWRMbnZiSXA1dz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhaQm05bmVsZ3VnYVdSMjNrQ3o1MmU5TEFqVGVjS1kyTTJrL3BHdlhCZ3RXM0tUeS85czA3NDR5dU9Pb0F3aWpMRWdtNlcxTXl1dFI0ZVFCVVNKYWI5bkczV1FqbnhxMTh4bnUweGtRLzM1NEsxbzhRMmVMRDQyMnRXdFBabkM3ZGdnTFRWQT09GAAgACgAMInP2+rexfQCOLjY+8H/LUC42PvB/y1KHDQyTllzQlJBTHdPUmFmNXJ5RG00b2VVeHlhND1aHyId/0lCb1lzNzdYRFprSHB4NlIzOFhMTzdlZE1GST1lAAAAABKvAggjEqoCChxFVkJyUDlpNHhtSWh1NHd2bHlTMjlWUVlEdlU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVFAvQ1BZTi9oS1RrOE1QZ25uakpyU3RYR2xmRmxoeVJ6ZTdIUVFFTDZFaHQxa0tLSXdsUEk0Vm5ldGoyeEZGcnU4Yk1iQUQ3b0FuOFNyNXAxS3NsTXBjN1VpdmJkVUIrQU5IdXdOWnNTNFM1VGFNRFE9PRgAIAAoADCJz9vq3sX0Ajj5mYH+/y5A+ZmB/v8uShxReG9iUzRPcTdTUjh4cXJ5MW1WY3MxTmVwOTA9WiEiH///+1VCeDRLTGRNSkZncHFJTU5GaE5IVCthY0ZRND1lOP122xKtAghEEqgCChx5SytXU1NhZ3NiNURSTmJ1Q0tYcUdyR014R3M9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWEhHeDJGTXV4VlpRWVExekg1RW1nVFlrYXpzZFI3OVhSd3Mvc0JvQkIxQWFNU1hhOFQ4cTVYeG9oeW9ZZFlCRVBnUjFEMUplL2QrQ0QwSDdNdW12dXUwRklwdVd0Yko4TmF0RjlzVnFlaVlmS00xbmc9PRgAIAAoADDNkNDq3sX0Aji4yKKjgC9AuMiio4AvShxoNEx5SW9KVGhmVTRnZDN2Z3hoaXdYemZhdzg9Wh8iHf1YbmZXRFZWd1ZwNjl3UWZ1UkViZmZMalcxb2M9ZTj9dtsSrAIIPhKnAgocRnhVRVlhZGw0OGFQUkdVTHNHQkdqaGRmcytFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlVUN1ROcFRVandXQjFFdnBmbys0R3dvKzNDc2hrcndPUFpqL3UxUTZ2RnZTUEZHSWo5TnVZV1VWQlRMdkdicXpqZmVhQ0sxdlRUSCtXc0pUdHZaUFlmazhVN3JOVVEyaVZSaEpYWk5qWXZKZ1Q0aDV3PT0YACAAKAAwzZDQ6t7F9AI4573tnIAvQOe97ZyAL0ocd2pHMVpLMnh5eWhwMVg3eGNIT3o1Rk5NaENZPVoeIhxuT1htbE9CMUxLOEp5R1VvN1QrMXVNVEErMkE9ZTj9dtsSrQIIhAESpwIKHGNCekdJR2RqWkdKenl2U21qQTNBL0R0MDNTaz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpVVStGb2REMUpxS1BuVldveFFoeWUwL1d6OGFaNGNzclJiaHZlaHVFeHJlSzRsTUdKWlovY2Nra01lVnZYYTZDSEFQZktDdzJsOXBrQ0FIQzJnTWozWWFMZHZWb0xIL0dxZDI5V3ByVXh4dnNPMEhRUT09GAAgACgAMM2Q0OrexfQCOJmk/MbkLkCZpPzG5C5KHDdBQjRTUjZtYTZnakcrbnFiUG5qTFg2U0MrRT1aHiIcUHhPVW5zbmJabWxUa3VEb0NzVlY3R0l1L2lvPWXeUx4cEq4CCF4SqQIKHG83Qy9WaDRVTDZnOGpibUVrYkJtUEo5YkFZTT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpmYXJjSDFpanYzUGNTSGE2ZUdaN1RuOTdMSmFiSHhrRlVkVDAvZzEwZzB0ditKVk55OThHYUdFWVZMQnRjWkpwajdRUjZ4ek05T0tVUkFjLzVHbWNpaUJYV01HR2pZSE9DQ3ZZbzB5c3Bkcy9GWjFWUT09GAAgACgAMInP2+rexfQCOLeS+pWAL0C3kvqVgC9KHEtKTmRLRTFqb1lubXpDRTdWTmw2aHpVa1NRaz1aICIe//cxZDVDZW5kWXBjcnpGTmErSkhZbEdFZTJRNms9ZTj9dtsStQIIMhKwAgocR0tQUTVFSHorblprN1BwZUJ3a20vcWNlWXVVPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmQ5b296OWZhRTNkNTVEbFFOK0hCSlpJRTZCSTZNUEdCUDQwVGIxVTlXLzdWeW1GRHQ2UStTZHRBUTBGQ2pLREExZ1pYR2xNbXg1aW9MNUkzL2VmZW9BRlRIU1M4SVROUktzZlJjbG9BaHRqMytrMkRBPT0YACAAKAAwic/b6t7F9AI4/P+b/v8uQPz/m/7/LkocNmhCeExwTTJNNSthQmE1NDNFTW5GZURQeHpnPVonIiX/////AAAABO44SmJJUjNhUm5UNzhFNGxBRnJ0QitxWUQxQWs9ZTj9dtsS7QEIhgES5wEKHENpY1lIWXl1NklTU2JHcENtcVEzWUptcHFHaz0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmFYTi9zUE03b2JjMTdHZjZqM0NnWHdCcHI3SVRXSzdTZmtPa0tpeWhCTFoydVFBdSsyM3BrcXdFSUpjbjMwb0RTMnVuZ1E9PRgAIAAoADDNkNDq3sX0AjiC9/Wr1C9Agvf1q9QvShxmRWNVSXErcGg1cTI2R1ZUalZBSUV5UWdIWlE9Wh8iHbRKdnpPeVJHaXd3cTg1Ynkrb0VuT29mZmgzeGs9ZcN+NtQSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5bGlTbmRXczJSUDhEY0Q4QUVkbnk0MWVNNG1TK1A2TWx1WkE2OUZDcFNMVlBRcW5jbzN2ZDU3czc0L3FKVllBL0tic3RiMlJGbDJhNXFyZEVqbVRuamkrKzk5QT09GAAgACgAMPLV8uD1gPgCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASrQIIFBKoAgocVnhBUzlXNkNsVldXWHB4VkpCaERNbk1kZXJRPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmZUaHBHZ2dFSVBOeHlZTWVQblRrNGdKYXkxWGx4ZDcvVXZFSU5YSE0zUEtFcCtNYVBrT2d3RzlOdEo5MUtpTDJBL29zdFF3WkdXNGwySjZ1Yy81bnlZb3ZmajlReUxrNnRsV21nNERVd0w0OUtFYWFnPT0YACAAKAAwzZDQ6t7F9AI40qnu/f8uQNKp7v3/LkocSXV5dk5QLzR1bWpic2prUUFlVkN2YlRBaDBjPVofIh39R0xHTElMRGZNMjlmMHdpY0pWUjEzcEN2QVZNPWU4/XbbErUCCDASsAIKHFhnejI1S3VjRFZRakFockcwWm0rdVVtMVVxMD0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpVNk5PbjV0VDdBNEhablZkNWhSZUhiZEZmNkJIb2lWSjdBbWZxWUhTV3dnWkcvRWdldGIvRHgrODMxZXJwQzdkUTByMjYyT1VRRVVzOVJHcWtGWi9teUJ5Q3pRWVYxWGJsL2xYbWhZZVdyZjAvNTVsZz09GAAgACgAMM2Q0OrexfQCOOu+mv7/LkDrvpr+/y5KHGJvcmRHZ1ZzbXN5TVVOOXNaenNremZsNDhEZz1aJyIl/////wAAAAS6TXlBTlJBaUxTaWNYdHpWTFZGdTRWT3BFZ3ZvPWU4/XbbEqwCCHUSpwIKHFZjMHJMZER2Qm1sWjNOZmJqOUc0R0VJa2w0QT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFphdllZN3JMazRmMzZqbkNMR3Bwcm54NGJ2d1NWVmRxOURkdk1JemFjZi9BRnZjM0dqUXkvMVRQRUJ2VkhsVXVjai9IUzhFYlFXbk5jTkRPMzVzanNNUEd4d2gwckM0M20wK1JldnRYdW9kekRDQm5DUT09GAAgACgAMM2Q0OrexfQCOIfm4eiVL0CH5uHolS9KHHVOR3VwbEwwV0ZpcHFVQlYrRHhxS3RUcjlpWT1aHiIcelVsdHNzeGhaVlVORFBvSDRqSmltNmFEVHFjPWUAAAAAEq0CCGISqAIKHG1VNFZDZUMrN3NVbWsxVjYvc25sNVBhZFhaQT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDh0bklQVVM1VU1XM1kwVUREQmdlNGFnOWpYdjdVeERvUXhERFdmeWpXSVBsbFVlYklGam5NT3FOQ3d3a2NFcllQUkJBR0JPUVgrSEd5OS90UmREbm5OS05uSVA1YVJEYm40Yml3RzJtYU5GT1dtbDJybjgrTWg0Z3hIMEZYOFVQVXpZRmRNUT09GAAgACgAMM2Q0OrexfQCOJvmvejKLkCb5r3oyi5KHFhUU003ckgrRWhFZWJOYXpqU3BaT29GV1F3QT1aHyId/WhUbEMrcVE0NmcwNGhFL2UrSHNSOTByUGtORT1l8QKgqBLtAQiLARLnAQoccE9XU2pKOTR4SHE5RzMzVW5mb2wvWkVyRmZFPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmL29Na3YxZjR3cE9ObkJMSENQRVV3ODZlZklQR3FmWXRpbHRKTVp5ZWVsYVFZcy80ZzcrUTV0bDdBU3pab3o5TjdjOE9mUT09GAAgACgAMJ7lqZqExvQCOOeH++fXL0Dnh/vn1y9KHGp0eU9rcUZJdmdFdzlIVGNKMy9pbUZvR0FRWT1aHyId/no1bUIxOW1LNFJTNHM1ckNYMlBaTmcvbkxBYz1lZZ/pPBKtAghVEqgCChxyVjJ6cFEwd2s2dzlZaUprMkVPNmVMTmNTWkU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaYmxYL091MU16UzJnMGlTU3NWOTJRWTRObnBoc1pMVnA3dWpLSnBsOWUzQVR5emRDdjdzTlN3eXlWN2pLUjRTVW1ReHozNnVrNUxsN01SeVJMdTFkNWVPWHBmcFlDVU5QYnZ5MlBOYkFCWWJ1eFpyNHc9PRgAIAAoADDNkNDq3sX0Ajjviv+IgC9A74r/iIAvShxWSlYrTENjb2ZqYklqWk9kU1pQZ1ZPR0h1RG89Wh8iHfVxNElDQ0krRmM5ckUreXRzRW0vRUMxTHVJOGM9ZTj9dtsSsAIILBKrAgocWldhQ3hBV20rb2hXV3U0WHpZd1F6SU1CQmhVPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlVlTEY0TU1saVVPWG80QnIvZ1N2Ym8yOTlndjNIY2RnWFJpYkVEM1NHb1NJbTdGSElPdnhKV2d1NENYMndBMW5qOWtuNjdoU1hSN3A4WUdxZ29GUG1vb04waklpTmswRVV6N0FnaEszYnNrU1dZQmdnPT0YACAAKAAwzZDQ6t7F9AI4l++Q/v8uQJfvkP7/LkocL3RFVGZsdjdyN3RqUlE1eWdwMlpTajc0Z1pJPVoiIiD////6dEwzYnVQclQ3NlUyZ2tjV0VtMDM4bXduMHJ3PWU4/XbbEqwCCAkSpwIKHFdzTzNEd2pGUjR6b0VKcnN1eHdraHk5NXZwST0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpWbGpickIyVVAvVDlzcWdRNmdTeklBcEFITjc0ZDNNWnNiS0xpQWc4TE9aMFBJbUNOdHNlWGNqRXYrRnB0VlJQbGZiblhNYVRLWFZEOWt3bjFHd3RWSFd1TUtoaEpuejBCQXVZT2ZPOGV1V3hYM0orUT09GAAgACgAMOOBterexfQCOPLu293OLkDy7tvdzi5KHDl1QTk2WldhaExVMG1lc0VLMnlWQWo1MUJIZz1aHiIcRTI2Q1UwRUNUUVp6S1hldW9tbGpYaUlKL09vPWUAAAAAEu8BCH4S6gEKHFBKRmhsTC9uR3FoZmtHUWFwTU5VVFBxTlRkST0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZkhvcjJEQlV3NEU5bDI3VlhhM3ZEZmJMN1J3dzl2Nm0rTHdnL0NoUnFxUVFIUjVyT2pqWkdZdFpqVXB4MGNqREU0ZXFTZHc9PRgAIAAoADDNkNDq3sX0AjittMugwC9ArbTLoMAvShwweGFsZEEyWitnMEZCakRNZ29SbHAvRFpPV3M9WiIiIP////pvYUQ5MFUzVFM3MElUQTVUOVdmckxlZHVqbTA9ZUjx4PMSrQIIExKoAgocaEpIZzJWcUlLL2J6NTJURFJ2MzlvdW5VbWdvPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmN5S3REQ2c4bUNVc1NYenBzeGRKbkIrS3RuZ0FodDc1alY0NU1uNUdnZnJqeFdhUGZwZ3hHY0krNnpxVkVvUXVvRm9neGR5TlFUWTFNM0RUOEZmQWlJREVTb29wL01LZ1JPdnVjL2J4c3NhWTBMOHFnPT0YACAAKAAwzZDQ6t7F9AI4p8rt/f8uQKfK7f3/LkocRVBzMU5JY3NTRStNZnFTUFgvdkFZVVhvL3B3PVofIh37OTFDMlAvZnBVYjNWUzl3YnZ3dzdBdStuWGRVPWU4/XbbErQCCC8SrwIKHDdwVStYamE1d1g3MFVCamh2bG9UOWFnUWJuRT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpaQXI0YmxENW9sMEc4Vk1yUjZpTjE3dlZ2L3hpU1l2aUNTUmVXVnlFaHhGa2tkQ1c5bDRNcWxTVjlkWEFHaGswZy8wSUxJd1d5aFpDVHg1MEplc1FuL1RUcjIzSEliSGFNTHRqbGN4RzNQdC8vVVhVQT09GAAgACgAMInP2+rexfQCOL+Tmf7/LkC/k5n+/y5KHEwrQk9xWXA5SUIxZ0RxKytieHNDd3JseUJTQT1aJiIk/////wAAAAR1WU5SQVJiUTl6YTlEbGRhczR1VXBXd1VxWms9ZTj9dtsS9QEIzQES7wEKHDB0N29ackF2Y3RDWmVKaUgyblpQLzhEVmtXMD0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZmdzQm1KNHhVeVIzUkEreDJtaUVVdEJXdkpDQzF5NEROcE5COSt2UHA0cmh1TEtmN3J2WGV3ZzR6YmVTOGhVM2lhUGJMOFE9PRgAIAIoAjCRwtzwz575Aji3jobYpDBAu46G2KQwShxYaElmVE5VT1JuMFRaV3puS21QUmhtOU5ERUk9WiciJf////8AAAAF7240NWVOV0Fta0p0cjJERmVoOWtFWGp2T1l0bz1l1pWj1RKwAggrEqsCChx2SWFwK3dwUGpTb29TWGVYR0wrRUxzNDdEdEk9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaYlBzL3p1dzdkakxlMG4zNVhQNHJpNUFwdzNWbG5pMVQ4Uk5nY2ViTjNFV2VkaDVINEVJV3NRbndVNFFpcDluWUVWZkx2ZG10aURVS29QL0Q4ZFE0TEM2SUpmaXN0L3JueEpQNHR1aXZtUHdEQktsMlE9PRgAIAAoADDNkNDq3sX0AjiXipD+/y5Al4qQ/v8uShxxQzNYT0xWbjlERU4zRTJjWWRGK1B2aGh3VTg9WiIiIP////VwS3d3VHlVS0cxWVVvU01QWGNvR2hud010THM9ZTj9dtsS7QEInwES5wEKHHNWT0dkSEQ0MnNyQ3dCaUoxdExFdll5NkNaRT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZkxjSWN5N3dEbW9iNElXMFNSMUo2TmFzY1lMVmRQZmJjNW5WbFlYS0wvMElmT283cXJxRVFPMlJ3SlNuQnliUTlTc0M1TEE9PRgAIAAoADDzkJm249T0Aji2vo2C0i9Atr6NgtIvShx6S1BUeGRKZHR1T0VWRGVtbFlJNklHQkUveE09Wh8iHf9TdWhHUjBvNGZlcWYvTGtZYkFXWmxBOXVJYnM9ZTj5OTMSrwIIJBKqAgocQzFoYVhrbTh5TFNUcVJkY3Q2SHhaOXlycFdnPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlNJak5IL1FSWjNJN2dOQWN4elk0L0Q2TDVwRzN2UVVuZU4wa0xlVjZxeng5NlJYTEJGNHM5VjFjaEtrS3VoYXE2a1ZRZHlSeDFrTDdTU0tRU1RqdkhZdHJONHZCNVNvZ2xsV1QyMDJ5YThnVGFVektBPT0YACAAKAAwzZDQ6t7F9AI41eKH/v8uQNXih/7/LkocNlFOQ3FnVUZhR0xIaVY2K1llckNZQXcrS3dvPVohIh////1VeW5sWHlBVCtSUWpzRjFaMVFTaXBIZDFJTVk9ZTj9dtsSrwIIUBKqAgocV0VXbTdYNGdiTVlBaW1EZ0hPOHhUUlFRdUVrPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmN5UDU2WHM4dDB2aUxNM1BRUTM4MlJCc3NaY3MwbmRHWWdlTUJyZFYvVWY5YVFJeDNwY25oZXdrUHRPV0paSW9Fdi9nSkdIOEZ6MC9sV212NzdONDF2NjlpVkRiQjBJOTZ1MDdIYWtwdXMvejltYjZRPT0YACAAKAAw44G16t7F9AI4/vnghoAvQP754IaAL0ocZTN6aXhLTVJ6QmdGT3NEL2NZMFYxNWY5aGZRPVohIh///7VGaXFQM3pGWjlRZ2FQMnVZWWd2NTVVTVFMd1U9ZQAAAAAS9QEIygES7wEKHDJxY0pnVXRqOVNxakZxS3RCVnJhYS9LU1RGMD0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZktpMHg5bUR6dXQ1cHoxUXBKM2xpc0xqQnZPNDdwUG9QK2lkSjlwY0Zod3Y2SFlDSzZuWjU0eE5VeE1jRlpqWSthU1ZRK2c9PRgAIAIoAjDnp4OyoJr5AjjxtreQpDBA8ra3kKQwShxkQktQYm05ZUtMWHJxeVZsd2R1OHZaQ1FXOFk9WiciJf////8AAAAFvU1RQkxHSTRJaWJ0YjBqZi8rR1hxWjg3dUt5OD1lKNDhqRKtAggLEqgCChxNaWpZRDl4UGtuaHZTcVhVd3hNcFFjemY5aWc9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZWZWTkZhYW16ak0vYmJaZGc5dE9iYzAwakhBRGIyNXYvajJhODYvdjdudDFwWFRVSVBoWXlSb3FwNkdXYjdJNTZFcVhnMjdCaGxSUzlpVjQwcktJak9UVGJ5OWltV3lnWHE1eWVmWndHRnYyckg0Z1E9PRgAIAAoADDjgbXq3sX0AjimwuCGgC9ApsLghoAvShxUREF5SHZUTlg3bHpDV0tDK1VQcUVIV0Q4OWc9Wh8iHatRY3BpeUF1ZHdyN01KdWM2TUJaZllUUHJINWc9ZQAAAAASrwIIIRKqAgocWmNieHFQOEtpdGdIRGZFKy95ZTBrQjYyRzJFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlRTQksrRzJwOE5XdldmblpiZGpUMGR3d2E4a1dLQThoeVlnNE9lNU0vWXlkN3hZUGZrVFdONjE2WHZRd2MwcHBsdnhqUzlidEE2djlKM3RId0lWWTBTSzhDbmFBbngyNFM0TkhTZkVPM202ZUtqblFBPT0YACAAKAAwzZDQ6t7F9AI4rqj//f8uQK6o//3/LkocUC9pY1dpcVkySEpkV3hOUWlwM3VsaTVPOVM4PVohIh///+1VNzhKWWl5ZUs5VVZ5akRScHpRbnhIZmp0SXM9ZTj9dtsSrgIIGBKpAgoccTdnU2pIaFI1SkxnalBIdkZsbSt2aWpaQ1RNPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmRPcG9vZjdDRm8rYlNodVlVYWtiSE8wNGpkaDBJV3MzNVVXRVg0OE9GOXduZUxpSEdUQURSN09kRk1LS0FvQVpDRHBaa2R0Z2hubURHNnFzcXpjWndWZFZBRGVLcHYxVkVxcmEwYkdvTGRjSjhmaGpRPT0YACAAKAAwic/b6t7F9AI4yqHz/f8uQMqh8/3/LkoceXl6VWdGWEdGOTh4Wmo1LzF3MThQbk1nSHhvPVogIh7/zXIyV3ppZlNyRnlBV0l0ZHZMWmZoN2drSVJMND1lOP122xKuAggaEqkCChxSWnBWVkIwT2F0WCsyNkdRcmViYTh2OUVsQ1E9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaU2dHQTc0R2lvNXRxeHlDL1JnTUloZzEyVUtMU0FYOU1KRWloYlRDbzAzSWhzZkY3a2NyMmRhU05WemxjRVdMWXFsV3NJSFp3Ym5TNkpjbEptSEJZbGR3MUJYT0xxNWhhTG8xRTFvdnBQU3RSSUJkaVE9PRgAIAAoADCJz9vq3sX0AjjcrPX9/y5A3Kz1/f8uShxhYXdIRkdkN1h4UmRueTVUK0VWcklFWFU1NUU9WiAiHv/zYjRWTFNMY0xmemR5bURWU2pJR1g1OFk0OWRVPWU4/XbbEq8CCB8SqgIKHFEvL0pVM0FYRTdVQzhGdmp4SjRMSU4xcmJvVT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpiZzVSR2RMR0xEK3ZLQVJtdC9wSXpvRUp4K1B3ZGdwR2RUTFVLa05MUFh0clVnaDdBTkx0bEFYbmIxQjVKRWxsRFd6UWUraExMTlpYYytJUzZpMjZNNkN0SG82NncxblVhU25wVmVqVThBUFpWTDhudz09GAAgACgAMM2Q0OrexfQCOM3F+/3/LkDNxfv9/y5KHHFvWXNncFl2OEtST096c2JXU3NEeE5zTkMwdz1aISIf//+0RjhqaXBqbDVES01YcjBwZldHd21IemhhMWFZPWU4/XbbEq4CCGASqQIKHHRoYW5jVi8rNlZiYlpBcHVBU2puWHJJbG5sUT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpSQmxQUHI2SlN0TU9NYkk4dHF0V3NHVHJMYTFBRkRzVnR3N1pQQTZpRHN0K1NGaWdnL1o0RTdmZlliU2JIdFVVVnh5VnF6K0xXYjdQVVRVMisyeXZ5dm1Yb0JBZklvVFVzdVN2TldYUk55bUpJZVZKZz09GAAgACgAMM2Q0OrexfQCOMXYopmAL0DF2KKZgC9KHGNhK0JvSTRneUZNMm5YSmtYblZON0RYUXdvMD1aICIe//56ZHR0dlhrSzVBMlMxaGExR05oQWxGMmF0Rnc9ZVNlzgESrgIIHRKpAgocZFpkMGhpVFI5dng4REJuRVZTeFNpclVCNkFzPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmZGeWxiaXVlczMyQ2w4TzF1SzdDQStFREtieG5VdXo4LzlDZ0V4Z2lwanEwTzNpeU9TMTMvQWNTdVUzT1ROUXFSSTZXUkNaL01CamVsT0p2TnE4b1k5RVE0Mit5S1NLRG9tU3VWOXRudjdSbXJGc1Z3PT0YACAAKAAwic/b6t7F9AI479j4/f8uQO/Y+P3/LkocdGpMUnNNWlQ4cGpPQzBNY2tEb2tlTmRVY3h3PVogIh7//mhUUU95WGs4MkVMczJmb29QMG5FK0tvSmg5dz1lOP122xKvAggnEqoCChwyWXorWGVIajY4RnZXMkM3MHZrVnFyNHZ6dms9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaU2E3dUIxeGJWZWtOL2pXNXlsSFNoMTJIVUJQcjhhM0lvNHk3YUc3cGhGWnk5MGt0ckZlK1V6WFBhdFZ5NkNSTml0bWtjMFo1cU8vL0twQU9zWS95YWdmZE54cFJ1UGlwWllsU3pMM2doRUViV1RXaHc9PRgAIAAoADCJz9vq3sX0AjjUgoz+/y5A1IKM/v8uShxBd0YvMFJPSDlDazlUMFluNWlmV3lyWkVkT1U9WiEiH////1R4Ump3WmVITHN5V3BkZHEzTlRJbk5MUU84QT1lOP122xK1Agg2ErACChxVQkZ3MUpOSFNncUdBRWU2MEJxTXhTM3hLK009EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZnN5K0xiaWQrTmVYLzNWV0tSS1FOSjAzeVMxUWI3Y0dSSXBTRGZ3UG5HVDRNZEJ5L3FNbkxZd0dlOHRQU1hXQUNVZ2RGZVkxZlExeURPMEdITXZaazRaVldCSDVlT0RBV01LUTR2UmRlRUFwelZhc0E9PRgAIAAoADDNkNDq3sX0AjjKh6P+/y5Ayoej/v8uShx4K244MUFyUkc4Wm5BRVdsZ1cyTmtDZmkxK289WiciJf////8AAAAE/mlIK2tnTUZtRTI3RC9Wd2lnOFl6Y1JDUjdiND1lOP122xL1AQiDARLvAQocQm8ybitSNHlIOGdnTFNYRFhqanRBL0lYVFYwPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtma3ZrV2dYUVVGV1RBWE5RV1I3TlRFazF3T0ZMdzlHdDh0TWhCMERhK3k0eDg5UWhwUDE1dEp1Wm96NkxDWjVDUnBQM2kwdz09GAAgACgAMLKRuLS+zvQCONHY7avUL0DR2O2r1C9KHFU5QzRNUEYreGdOdHJ3SkxWWm5sODQrNSsvOD1aJyIl/////wAAAATdbE5ZUFJkQVAwN1dwSUhWZ0ZHTTVZaDZVa2ZZPWUAAAAAEq4CCEoSqQIKHHpZQkxSVU45WG5HQTBvRGZsRisvT2EvNVhJST0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpjeTBzQ0V6eUtwVnQzU1IxVi92ZjdLUTg3MEdUNEN4UTV4SHU3SVVjVjFjblpKOWdPTFZxSGk2Z3RlV3JaQXRyeHFSMEM1akdGa29mMjRVZ21NcEJEUzJ3RngrVUlTNkVMM1BKc3MzY1BESXdzUy9jdz09GAAgACgAMInP2+rexfQCOIO57qSAL0CDue6kgC9KHGdpdHhndVVsSmMzMmFtZXNzWEN5OU9RQzVjcz1aICIe/+9sWThkbmxXejRnTVM0TkdmdmxNN3R0Y1I3S2s9ZdjWavQSrAIIbBKnAgocZENLVUUxbFRLN0M3L0ZIdDdKekUzV2hINURvPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmZhT2loQ3FGM01tV2pGYmlCMkwyd0FXeGhLN0JkUjFOTXM2NXVjUFZkNW16TDVVaHZZbWJzQkNySEwrbjdwUzg3bGx6NG8vRFI2bVB4anVmK3J0ajlpaXdmQXNmcDRwVjBUdk12TDAzTnZ3ZExxVm5BPT0YACAAKAAwzZDQ6t7F9AI4i53Ws48vQIud1rOPL0ocQXVsbElqU0pQSThaZk4wZGIwZEVnNUk3aHJvPVoeIhxlb2UrYVNQZkxHejkwdHdSZHkvQWx1WHo5UGs9ZTj9dtsS7gEIqAES6AEKHHo1cFcwQ0hkM0ZOdU5iZFZNMlV5ZTZhc0FMWT0SZlo6QURxdEFaempwYm5UQk42S1FBWkZTcmc4akRLZk1ucnJhTXFhdkVGaTJmVDBydlB6dDZuUTIzSEZBZTJHOGxIa0JmbVVHYUJDek1lU2pTNWl6cStManRhV3p1QVZZc0haMHc9PRgAIAAoADC68Mmh84r4AjiZpt/jkTBAmabf45EwShxkOTJMc2s4bkVCNTBvOVFDdEpFemVoWDE5VXc9WiAiHv/1Tmd1bUVyeXpPanU0MGZudUFpLzlRVkZ4QlJBPWU4+TkzEu0BCKoBEucBChxuWlFDbk5iQklRdXF1L1drSndab3hWSU5tdUE9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZxTHgwQ1l3NWxXbEtPalYzVTNEalArWWpKbWV4bmUvUiswSEc4VHdZNG8vUE4yNDNXT3BvZXJ6ZFpUbHBJMUQzMjBHV01RPT0YACAEKAQwjqDy4eyA+QI49b+KxKAwQMnrnPCgMEoceEpDSXNrZnk4VkpEcnRwclk5VXQxaUszNlNnPVofIh39dE1mUUd4TGNiMDhrMkV4aU1CMWZscFROWFk0PWUo0OGpErACCC0SqwIKHHJDVFZJVGxUaTJhOU1ha1MvU2Evc0NOdy92QT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFplYTBUc2tid3U3YUQ3Z3lGUWZuRC9ockZ2eDZHclF0aXczUmhRYVE3SlVhSFFtT0RLdExCVjNPMlJrT0tyNFZKaGdlV3Nna3JEK25CNmRFVkpQdENvNEZhN0dYdHNmRUllR25pY0Y0U05vY0Z6WkttQT09GAAgACgAMM2Q0OrexfQCOKOWlv7/LkCjlpb+/y5KHFI3Mk9zNnVpSDIrWkczN0R2c01sdUZXeUpKaz1aIiIg/////XV0S1M4b1JoSVRON1FqL1ZNTTYyT09ONmtCQT1lOP122xKtAghDEqgCChxISWJUZGpCbS9EVXppWWZ6elhHRWgxYVZORFU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaWitMZVp3WklsbGZoWHVMaitOaklWNjZPNWYwM21GbkExYWordURlaFFkR1VrQUxVREcyTDhXSWlJci9HY0IzZW9UeTFabmdPKzRQdVFKL3VJbXVQenVsbU1hSi8vRzc0ajN5citxRjh0Umh0d2tEQ3c9PRgAIAAoADDNkNDq3sX0AjiK1JqjgC9AitSao4AvShxNSEFjRVdoNnFoR1ZxUGNYQWdJbHNHdFJRRUE9Wh8iHftMb3FLRnVreFBvemwvY0UyMFF0clEvQnRhYTg9ZTj9dtsSrQIIDxKoAgocSGtnRUdKSlc2cDBscWtpaC8wT1g3emZUK1lvPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlV5Nk9LWkgxOGd3eGhMRDhTS0RyeElERjh3ZkFGbXZORG4xMzdKU2RFblZkNU1IeCsxYlEvRmJGQUFBZm02RGwyM0JEQS93ZEo1SGQvSVg2S2l2cjlmWFhQb0d6R3h2aVFZMHQ1cnFpT1BhMEtaRnJ3PT0YACAAKAAwic/b6t7F9AI4hoPk/f8uQIaD5P3/Lkocc0t2bkJGM1daN2pQS1hqaTU3Ti9HTmoyNEN3PVofIh27M2VvRExURWcxZWNYeXdLZ3hIMHZnenNuTm04PWU4/XbbEq4CCBwSqQIKHDQ3aVhvYmVFYkxFUnZORHE0UW9IQjhUSXlnVT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFphMml1UEtzWHpKS1R3OEpXcTVtN1RhdGFicmR6QXJ5YVlja3U3V0ZkM0VuN28rWE9mUUMrUjFYeWs4Q0NLbFQvVTZ5WTRaVFcvTU9tZXdkd3FWcm93TncxS3ZaakdZdWlsRXVlZTdlR1o3SkJWSGhlUT09GAAgACgAMM2Q0OrexfQCOLKH+P3/LkCyh/j9/y5KHHp3cmtsTmE0bnp0Y3NYME4rMk9IaWYwejRXMD1aICIe//w3Sy9Bc09yc1dGMDIxVitIYkIyYjA2VjEvQ009ZTj9dtsS7gEIeBLpAQocT1JuSnZ1bldtaUd5MDN0cmVsaWZTYmRVQ1pBPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmMDl2YXkwKzdwblZoWmVTTHpGMWROOU5GTFRXc1NrWHdia1lreTM2YmpUWFRlRlZGTUFUVWF2Ty95VVBIaHNNbFZ0b1JCdz09GAAgACgAMM2Q0OrexfQCOPbu3qy4L0D27t6suC9KHEhEVS94KzltUWZDN1lJSDhlWWpyTGw4TTRWaz1aISIf///+cVhDSllwYlgvSHI1eWt1b3l3QXFjNzYxR2tjPWU4+TkzEq8CCCASqgIKHFJHcVphcGdsZFNsNFpFR1lQcGpRQkVQRzlubz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpXbCtRZXJBSm1wbUw5M2ZHekN3cVdNUFdFbnRJb0xHRkNiUG5rOGtPUTRTbkF2ZnI2YUpZcTU4UUFtSForMWdESnN4QncyMzFPU0JSRzVjR3VTYU9nZlVJQ0FuMmZ0SE9rWUdZZU9OV0xCb1ZCb1AvUT09GAAgACgAMM2Q0OrexfQCOIWz/P3/LkCFs/z9/y5KHFBCQnFZSnZEVVBzdGtsQTZwWEhRZjZqRy9uZz1aISIf///aOVFxRnRubHZRbm5sdjZWcHVUNEtOd0NhMzFnPWU4/XbbEq0CCFYSqAIKHFpoTThkLy8zYWRLYStkQUxHL3I4YnNNZEwxYz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpSTHlvSUlULzVJYVhtREJwZWZ0dlAwaEJrRlFzRXRkbDZmbHFMSFpkYklIMHo1SDI3QWY4Q01mVDE4cmtBbEJnYlBFT0ZKdTJvTElab09GcVVhckk0VElmVEpDUFhraHVXRGUxMUlrUUJpSFpYTHFTUT09GAAgACgAMInP2+rexfQCOI+8q4mAL0CPvKuJgC9KHE01YWJCcTZvUDlVUVFSK3hvcUhpZkEvU0xZOD1aHyId+i9yU2R2U2swbktNL0FvbjBMdzNWWkdCSUplOD1lOP122xKvAghyEqoCChxFanN6Sk5lMFdvSlNlbVA3WE1lbHRpdkwyMUE9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaUytUQVdydDlnVkp6cW14SEl1S0hOdFdLQWd0Q1gxakZVc1cxOHNTQ1E5aHk3S05DTzdpN0FGWWRib3RWVXo3clNkVEE0K0MwQ0ZreDJ3b0RnMGJ1TjF6OE9pSEZoa0VXK2Rtcjg4enFlSUY5UlZRT2c9PRgAIAAoADDjgbXq3sX0AjiJx+S3lS9Aicfkt5UvShxLRGJtbzh2L2dxYTJQdmVmaHJ3eWtzRWdFS2M9WiEiH///+05DQ3N1TVM5dGQrRlJXL205VU84YSs3ZEkzRT1lAAAAABK0Agg3Eq8CChxxSm5VdmRMRENtM2UyejdjMzQ5T3VWbnJrV289EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZXJURGRkZjJ4cGF0Y3FoT3p0c3p1R1dxbmJBNHZsRTkzKys1dVdYMlhSbzEyWmE0QmRTbDI2OUlWR0N6VGVjWVZJYUF3cEZRSmdSYVNEc2tUcWhybHRKbnVpWjdhdk5JQXhYMnhQL1V1SGVBVUt2a1E9PRgAIAAoADDNkNDq3sX0AjjG36P+/y5Axt+j/v8uShxsdjN1Z2l3ZkxTVkZCR3Y4WndITmtoOStpckU9WiYiJP////8AAAAFS0x4TmxsSFBBcDV6MTRCT0dCTVpDN2hiM3VNPWU4/XbbEq0CCBUSqAIKHHRwS2IvekJzK2N0VlR6YmdYWjM5RlFNeEdkcz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpaSnBJb3pqeTUrWEhpa05TS3pBV0xRdEVaQTZVeEtGbjU2Q2xrSEtxYm9BeDZhR2p1Y1prUmdqcDl6TVJCYitDN3RGeU9Ca3FrdUxDVW93RHp3T0FHaG4wa240Ky9BQVI3bW9pWmNQMGhFTkNLNytvdz09GAAgACgAMM2Q0OrexfQCON+47/3/LkDfuO/9/y5KHHFVQnhXVWx3RFVkQUNneWdPbFJWb0IvWnhqRT1aHyId/kw3NTREMjd0bUUwdGh3SFNxQlZ4TlRSeFZ0RT1lOP122xKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnh5UG9pSkJMbzdOcFpneEwrVjRMdDQzeEdlUTdML0FzbjRkcnV1Z2MwejhWdjJmMWRib1hZckNxbTZuek9pSmlJNnR0MGsYACAAKAAw8tXy4PWA+AI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndqbGVLWlM4OWRLR2sybDdvLzN0b1dzVkhRdExzN2pleHNLdS9KdkhGNFBTNzR3ZHc0Y2ZEakhYUVRIcGVvb05Yd3cwUzI3RW5zcS9WNTBUbE53cWhqZnN3WG9BPT0YACAAKAAw8tXy4PWA+AI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKsAggMEqcCChxjaXY5ZUM3K2syTzQvUXVmM0tkdEw1S2l3OTg9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaYzMxMGU4Zm4zdnk3ZURheW04UnUzNWhFVDBuejFuUk9hVVYvOXp1U0ltdEhKenJsalNBQ2M0Q2ozS0swTnpkVk9FSW5ia052UVVENW51UUY0UmY2TTRaYUwrTDJ0L2pQWmlJRlpMcDdHdTJLVDhWaHc9PRgAIAAoADDjgbXq3sX0AjiinrH+/y5Aop6x/v8uShxGb3ZKY2VzcXFjMUtPMkdOYk5Db3R1R1cxV1U9Wh4iHHNtMVVTNGtyQWF4bFZzNnZqNjJ0NWhsRWpvQT1lAAAAABLtAQiUARLnAQocOHlpMjB4ZlEzL0VpZGFRK0pXR3NiQmtpTkowPRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmZ2lmanRZZlVFRUgrZzdPcG9LWjNSMmhrYTFNTXVEM2pYZzNiUStORGs0cHFyd1lIRGZnLzVrRmgyaGtpNEQ4UktDRzB1dz09GAAgACgAMLugl439z/UCOMz9npbpL0DM/Z6W6S9KHHNsZzNUd2xvWlpVbWVTYUsrR2FGL3czNVVOUT1aHyId3lZpazBuL01mb0w0bEsxa25abzhXWFVhSkJBdz1lOPk5MxKtAghvEqgCChxrSCtSVWdsU1U3cE5DclhzcWprUEdqMnBoUEU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaUmFXWWFETDQvaDlIOXVKQUNlOXgyWkZTUy9sMG5EcTI1U3F3bU5iVjBobWxvUzBlVkc1WlJ0UzVneFpJaGNHeFhhdktLWTN6QkJETTdTV1RHSTlJWE5xZkpzeHhYSGsycXlTWTFtd3BtNmtPYWJBMFE9PRgAIAAoADCJz9vq3sX0AjiVlL+3jy9AlZS/t48vShxOT0s3Y2dIckZ1SFU4Wm11Vi9IQkxMZjBPQ0U9Wh8iHfZEa2RIczJmd1kwelo5aEdQcjlxRmUvOXkwQkE9ZTPgy/kSsAIIKhKrAgocYUhDL2tmQVJjL1NZZFpZVkJmQ1U1UFFGT3d3PRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlVKVEJYZkgvMjdXanBBVWcyVElIN1J3dkZycjRmMkVPNzlIelBpeW9NSzFRZy9zTnMrbVRpem9Jc3FOczdZcGxlclNzRUVjNm5GL1N1eHNkQ2oxTGhJMlQ2V2xHZnQ3V1BtZE4xem9QRnhlanJQeVJBPT0YACAAKAAwic/b6t7F9AI4pbCP/v8uQKWwj/7/LkocRVVSaHlpTzhDV250YXdKRVY5a3hzSkR0TFlzPVoiIiD////qRkVkVkJEOGhVS2k1WEN4SFQwcUdkT0RjK3o0PWU4/XbbEu4BCJABEugBChwwejdiVG4rK2VMK0hrTWxLOWNzM1BwdDQxbGc9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZRall1S0FJQnhpYklsOU9oS1B6TmNRb0orMkRVeTVPTDlEL0N4aEZKSG1Sbnd0SlRFdXc1VzFPMVN2M21FejJ1ckt5ZVFRPT0YACAAKAAw1dikr4fG9AI4382u6NcvQN/NrujXL0occUFpWHhFbVk2UENmNjY3Rkk5Nnp5cVVSZlFnPVogIh7/9HhRWjI1VDI2Vmg1UWEycm53SXRtS3hlaVR0WT1l3MD6kxLsAQgGEucBChxPZ0U3dVpIV3NRNThEZE1ZRjZjTVl2KzlHU1U9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZMT3lBYnU2TnpSWmxUT01VWDlDK0ZSenNxTnFtVU9UR0FzOThNVzJYczRFQXM4YjRkWHZOR3VXbHdnK0NEcUhEenk1cXF3PT0YACAAKAAw6pSUzfLc9wI4jMv/8YswQIzL//GLMEocbTVLRkNhZGo4dnU5SlZXNE42eXpTWTFHeU1JPVofIh32dXdNZkpTam82cVZqOWM5L0pXa1ExOXl2dGlNPWVhGCSjErUCCDkSsAIKHEFZemREeDQrc1g1aGFmRVZ4Q0ZmUGFtN21Cbz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpXNTh0d09JQ1kwbGY2bnFVTGNQVEZONkl2WExtV0FNa3NHVE10cEdnYkdCdDVYQVFUU3c3WkpSeHhJcER5cXNFL2MwMmx3N2Z3Z01MUE9VbFpwQTRRMW9nOFBCSmJVVG5LdUxYZWYyeVlZeVBPVFVhZz09GAAgACgAMM2Q0OrexfQCOL+Spf7/LkC/kqX+/y5KHHBxaUNUdFlRaXU1L0Mzd05jRWVuSjU4Ky9jST1aJyIl/////wAAAAXSYk1VeFFlWXZDbkVpamp6Z2plWFd0TnVOMzhNPWU4/XbbEq4CCBkSqQIKHFRJOFpmem4xRy9pbWx3UW5nZHZRcEhUbkpnOD0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpTY1lVd3I5TGgxWEduMFpEM251SEN2Vm9XOFNYcy9GVlZ0dXVqamIzQzBzSUxvOEE0aUxmQ2ZYRVJtSmVROGJkc21mdjVEUVlvblh4RjU0TGwySWJRM2hmU2hwdUhhV05Xa01RSDJ3VXBqY3p0U2pMUT09GAAgACgAMM2Q0OrexfQCOIqJ9P3/LkCKifT9/y5KHGRQM1BQWlRyRnM0ajF0OVE0RWp0d3U1TkFWZz1aICIe/+ZNcnRJRUduN2ptUnk2YStyVE51UE9HM3RIQWM9ZTj9dtsS6wEICBLmAQocUEZRbkppdG1lQkpJVW8xc3NaVVJKalVFMTd3PRJmWjpBRHF0QVp6anBiblRCTjZLUUFaRlNyZzhqREtmNnRZT1plZUJxZjgzRXp3VzBjeVRKNHQxL2Npa2F2eUtCcWp2cUUrd0hnOXFkQ01DNVFGNzViemRMckwxR0hxaDQvT1NMdz09GAAgMygzMOWb9Z/EnvkCONrSptm+L0DsxcfWpDBKHGkreThZRVlhanZkWUUvZTE2M3g0aEg5Q1NYRT1aHiIcNkVKSXhyMTRFbXdvMmxOQWFvTFJ3aEZGajdRPWUV2a4TEvUBCIIBEu8BChw0SzRDK1VuYlZKNi9DZW1qNHdjS0lyakk4RDA9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZwOEd3Q1BPU1VlZi9mVjJuaUNZaVFyNnBJZVZ6cEN4QmFlRW5UV1MvTUR1K1NGem9Obm1JVXFMVG54bW01UHc0VUFhcXRRPT0YACAAKAAwic/b6t7F9AI4q4bL1ckvQKuGy9XJL0ocODNPK1I1UHp6cng3YlhUMzREckF1M0NKUi9FPVonIiX/////AAAABLpuYld6OHhWbGZPYmlJWkMyZnV2RTgwMWU0UTQ9ZXbRCQISrQIIRhKoAgocbitna2FhRVRIMEVmRW5QMzAxR2grT0FUS2NBPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmNpM09xQ0ZLUnpBNHp1V243dWc0UGVDejd6cEZOMzFlZDRjcW5MeHc0dUNpMTFZMlNuaS9XV0xScEgxaCs4TGRqSXUwTkdKaEZENXpweXp4QUl3ZlRyZmZwWXNLbHg5VEM0UUVxZXU3YVlkM2d2STZBPT0YACAAKAAwic/b6t7F9AI4pZGro4AvQKWRq6OAL0ocT3c4WW9FWGFEcFNpUjhjVVBBYmtkWkZpYTAwPVofIh3/VDdKMm9LOXBQbW0vbmZXYUcvYlRtcXVoek1rPWU4/XbbEq0CCEcSqAIKHHhndGZsU1dJNFR4STRiK2lma1lEZitYTjBtQT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpiNjRURjBRZ3NkTUFsR3RJK2E1U052bUpsVTNCa3ZPMnVFZzJDZnZ3cnhGR1MzaXlpR09WbWs1QnJ1Y3BvbVdiS2VweEt4dGI4OUtPTGdFWkNhS1cyTGxXTTQrZE1jTzNjVDExU01ORWZWblVpaWphQT09GAAgACgAMInP2+rexfQCOOK9r6OAL0Diva+jgC9KHCtIcXVrbXlvVWVubjd5Z3o5b2ZteUNrVTdKQT1aHyId/3lFWkRZQk51bFpCdzAvWXl1VFQ2NzVSdW03TT1lOP122xKvAggmEqoCChxrZWk5TkVWakV4alpiMHMyT09XN2hwNzRjTWs9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVUh4SW9HZy9tbTJZcHBXZE1aajhQQjdyb0hZTzEyQ1ByU0IwUFpETkVnV3hJR0NGeStlaW5EOVE2bjMvbEJrT09Nem5PZm9xNUhxb1RSSlRjQmNoRTQ4ZGxyTjVseHRZa3NlWE9YVUFpWDVSNUJqVkE9PRgAIAAoADCJz9vq3sX0Ajj4j4v+/y5A+I+L/v8uShxEeHhxRStlUGs5WXpUSnJ6NnBJazh6RTg1T3c9WiEiH////1JhSUhuRVhJazUwaGhPSDViVWdDUEdZSVlUWT1lOP122xKvAggiEqoCChxoME1PNUtpSU1XNVlHUXFzbGw4dHRIclZLbWM9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaU1RmR0ZDL0w2RmZMQzBVTEROejhxRFQ5OVFDaUtaTnRUV2RJaEhtRGhVT3VlQ1A0OVltZlZ6QUQvendMSEdJMTQ1aXRsVlc5UlBRck9JSXlabmRkSEhJQkZLc09IQ2ZKdE80VVpyTmRoZGJjTkgvNWc9PRgAIAAoADCJz9vq3sX0AjiboYD+/y5Am6GA/v8uShxPRjRSSXluemNtNjNRT1NFNnp4VStoRW5ud1k9WiEiH///9mpTbi9XeHI2Y3laT0tscGNSS0xtc053UmJzOD1lOP122xKwAggoEqsCChxLemMrc2h0MWhqL1RHSlRKbXd6QzNaR0lINE09EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaUnE0TjZUOVRndmk0MGxGejVqdkF0NnltOFdoNzZEV0JFcEtjU29WdjFKa1RRYUpndndhZE9DMXRJanFUdFRLWVNMUkhWOEhicEtXOGh6bzA1Q2dBYjFUaFFPVU1qRUtxcFdIVmhOVnNKZ1BhdzlYRVE9PRgAIAAoADDNkNDq3sX0Aji354z+/y5At+eM/v8uShx5UG1jVU5aOW5ldGFHRW1aTTBMRTdHQ0tGU0U9WiIiIP///6pFdC9TdHBxUzBMNWdhTUE5OFNZNC9uTUdqQTQ9ZTj9dtsSrQIIVxKoAgocZVRGTlJnSC96a3hSbG1USXQ4WnlhZ3NCaDZnPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmMzVHh5VnR6cUFhekovTU92eUEreGxhK3FuMUIxR0Jscm5FSURyb3AxME5tZXk2Ylc1WVJuUHFsZTZPZ2oxSkV1WG01VW9ES3djWmgzSS93eTJYSmxPK3hxayt6bitpVjhJRy9jRlBScWhBU3FqMnZRPT0YACAAKAAwic/b6t7F9AI44rXajIAvQOK12oyAL0ocTEk1UDhUOXgxMTByNTZqdFgybDZpWm1KeklZPVofIh39UVBUclJpQVZkRVRna3lBMkZMTHFpTVdOVXVzPWU4/XbbEq0CCFoSqAIKHDJsclR2SWtSUXMyOHRySURsNUpaU1UxOTRsdz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpienJnZ21LV1N5WGt4bXZ2eVVlRG5qV2Zya2YxSFNTYnVTRVQ4b3pMd0FoOGQ4dmZvZXU4MEdpWDR2UkZrVkJ6Y0NiUTJGb0NSSUtKZ1hPMFFSd0d6MDlPOXE1OFZ0YUVaQUFwbVlZVFk0TkNNS0J4UT09GAAgACgAMM2Q0OrexfQCOP+ExI+AL0D/hMSPgC9KHDIxZjExaWJqRGdsOC9ZUXQ2emRqTUZUQlVpdz1aHyId/3lZYlJBZDNsZFhPZlJRUG81NGxxTWpIeTRFdz1lOP122xKtAggSEqgCChxSWjVzK25kdFJXbFQ3R3RvTGdkZklQR2pJSlE9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVmVBcVIraUZGbFc3MlpLRk5VWGFPMlp1OHZvK3gza1lnM3NnenBxTUZzRFloWXdTNGt1Ujd5ckZMRXFQQUxIRXJ2MWY0RVI2MjVpYVNuc3VuWnJneGJ2ZkJOYncwYXU0YWJCdjNSRmFhMkI1SG00Umc9PRgAIAAoADCJz9vq3sX0AjiL9ev9/y5Ai/Xr/f8uShx0MHdKdkdZZDRoQlJCdmpDSHBsUkJGeStjczg9Wh8iHfdZaFdLTWFoMnpaUnRCY2VteTMrUnBBUmtuejg9ZTj9dtsStQIIOxKwAgocT3FKZ0xHakZyck9RRVV5SVloTEdoWnM3SEI4PRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmZidjgrSFZ0cm5Wa3I0dmc1OFVreEhkOUVnaHUybzRCV3Z1SEZxbjhaSlZ1Y05tOFZuRU1xQk15Yy9wYzZJbmdBaHhNOWFtRGF5dHY1N3VuLzhna1lPVjB3aUN6S3VNM2J5MmJiNFY2NWRCSUVvODVRPT0YACAAKAAwzZDQ6t7F9AI42Mem/v8uQNjHpv7/LkocRUtDbVdWZDdpVTVybnZuQkVEcnp0MnBEdDkwPVonIiX/////AAAABfRpK1hVYzgza1RDMGliSU1GTkRub1dRK2owS0k9ZTj9dtsSsAIIKRKrAgocbFA1dkJodmZYSElWYUlHOGVKVnR3TU5HL1JvPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlU3bE1LVVU5K0dSK2tZb1B4OEFrYzI0cHlhbnZrYjA0NkxTaks2d0NrSUxKSkRPQXFhZzVsUEZ0OGxtckx1RDJGUHNWVU5oZDZvSEJZNjloRGJHOUNBL2NMODRTUWw5ay8zVTYyV0UxUERWNGl4TVZBPT0YACAAKAAwzZDQ6t7F9AI49LeN/v8uQPS3jf7/LkocZklzbEpqU0l0MnBQeTF5RWhkZ2lpS0ZabjNnPVoiIiD////VbHIxZmpuUFZpSzVBU1dQN05EVFZkS3pYS2JNPWU4/XbbErUCCDUSsAIKHEQxYStGZzdFMXg3OVBWZWhLeWlNNGI1eHRacz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpjY3VMRGphOEMzeFZRV1ptbmlTcS94cExwNitqbHpFbk9sUE1jYW1OM2VEeFhqbTVNbTJQZVN6R01DRkJnMTlLUmhiMVdSUldyYWJ5d1ZyUUtvYjVxRHZCUmVrdFNTRTlQbmlHdlZRM0xvekQ3TzFCUT09GAAgACgAMInP2+rexfQCOIKloP7/LkCCpaD+/y5KHHdlVXFqZ3dkU0NyeFpWR2J1MUtaaEZYWks5ST1aJyIl/////wAAAAT9aHJ0MWFlTkJJTGlXT055TkNxOG92SWNZSGFnPWU4/XbbEqwCCA4SpwIKHHVOOXo2OURtTlB5QS9TdHBscnlSTEdJWlU5TT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpaakp5SWluVUEvUjdUVTlncUlDa1VlcTdFMVh2b2diL29lQjh0ajk1MGUvUzBOU0xBRU9kbkJXaTdwL2NraCtkVHdVaUlCckE4aU10b1lCQUtNSDg3MlhDQVVOYkxmQnJDakNkR2dmUmxzREJjK3I0dz09GAAgACgAMM2Q0OrexfQCONrZ4v3/LkDa2eL9/y5KHE9YZXd6SHdsbkNnVUM2K0ExdGRhSkp5L1cxaz1aHiIcdnUvRGpEbXhiSndOZDY3cDc3dFgzbWpBdDlnPWU4/XbbEq0CCD8SqAIKHFVnQTNidEZ0M2MzcEpxM0V0MkY4Qnd4ZXF1az0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpjL2RQc3NtZkdOeTJtM2xtbkNSb2NPWjF2MmhKcnFjTzFNWEk3dTNEVXZDU0dlY0dVZWhpQlc5Y3djeEI0dlcyQUovT3NvZnBjUHM1ak1LK2JoeTBiYk9WVXhSaUxGWDJrNytvYWlHb0o3QTN3SnpIdz09GAAgACgAMInP2+rexfQCOM2V7p2AL0DNle6dgC9KHCtvNXBvNkxXby8rbWxxRENNVDdMNG15a0pxTT1aHyIdt203RWdSSnVHQWw4bFhNaWFIK2oyR2tUUzJDTT1lOP122xKtAggKEqgCChxuRkxXUTV5WE95RWxkbW1DaXBWSW81N1V3SkU9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVmt5NVpUTG8rVTRURHdoelF5ZWJ0Uyt0enlBOHA5cFhpVDB6cTVsa1JSL29uUUhwQWM0dDJmNzhkNk5GbllpQ2F2UTB3dUJuOVNtd2l2VmtJd09SZUJNNU82UTNtNmgwQXZ3cndFTnZnRnVDNG1FdHc9PRgAIAAoADDjgbXq3sX0AjjGmeOGgC9AxpnjhoAvShw3ME5jb3FNRHNFQXlBVStYUDBveXhoZDRiRGM9Wh8iHQArZmY4SDZiOE8yeVB6YUZKRXA2bEkzaFNDVXc9ZQAAAAASrQIIEBKoAgocNGk2S0l3K2ROdGRoQ0VzSExVd3JPMndUYnNFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlV0MGwvNGt3WDF4T3RRQmNZRStPcGpFbzNNOUpkalkrbXVSZ2NVeXo5cGFITVQzREpCOWsvRFljUW5wajFwZnh6RUtBeEJlYUF0S0U4SlNCc3pERjhzQVcwSHA1SHFFYSt3RTh3bG0yZzJoeVdWM1l3PT0YACAAKAAwic/b6t7F9AI4sLPp/f8uQLCz6f3/Lkoca2t5WStFSmhEcG1vTDE1VXRZaEx1M25Kd1g4PVofIh3dLzBmaVM3SDFWVXFCR0hMYlNoWFR6Y0plQVJBPWU4/XbbEq0CCHYSqAIKHHplVTdMZ3QrZFJUREdraVBUZHlBUm5FZDB0TT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpjaHlSaEpNK3lqMzBUZENnenZjUmhGNjJnZllwTEpSZ1h2TFdBU0hKVllENUxNK3RzNHkvdWpLQVZTM0I0WTNXOUwvVzZlcmI0RDRzUWpMVEQxT2l0MWZUdVYxUkl6aURyZThMbmhMazZUOWNnYzRKQT09GAAgACgAMM2Q0OrexfQCOM+hg9qZL0DPoYPamS9KHElIYmxiaklnbDdFdDd1VCswSXRpcFA1Z1hkWT1aHyIdvTQraFZ3WS90dDA5eEhqREpCNDV1YXluaXU4ND1l5RE6gxKvAgglEqoCChw2UGFQY0JDQzd4eWVJR3R1Ky9qN3hTMElWZkE9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaYytsZWoxb3lZK3FoYUNkV3ZiQ0VuL0U5M1pJS3VWS1VPaWs0aTlTOWNMVnpmUWp2RUtQOWh0OHBlV0I2dnpUbWxmUTRWYno0bWQ4SXFNd0tmaFFCUDRkeGdOSzhBd3ZLMjhhc2tzWmtrcU9Gc0xQT1E9PRgAIAAoADDNkNDq3sX0Ajjzmon+/y5A85qJ/v8uShxwYjFWRC8wODQzNllDSVVZZlAxMnZqTDR4VW89WiEiH////kw0MDlNWnBwMmh2alhjUkdXSXY4MDNMMjI2QT1lOP122xKuAggeEqkCChx3emVBUjU4RXVQRDh0T0FPMXVNVFdmVVRyTGc9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaZTlmQjIxSklpcWkxUTIrNFBrLzdRM0VzVDU3dXJaZ3hxbVBkS1F3OFFjUmRIck0xQVZ4cVBWTE9MbGw1QktuazhLdm1WTUVxdkwrTXZJUURSc2gxVnMxVEVseGVYclVJRXQ0TkVwMmNIWjZBSlhpblE9PRgAIAAoADCJz9vq3sX0Ajjtv/n9/y5A7b/5/f8uShxSL29PTWsra2ZpZUdpakFrYnZmR1BoTmNNRmM9WiAiHv//aHFKU2VxZTlXS2FXTDFuTzZMSXF1eHdsTldFPWU4/XbbEq4CCBcSqQIKHG9lNGxHUkxtYUExY0Zibkd3ZGFWdTBmOWZGUT0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpUOEo1bGRCdTQzd2FidXhUYjlKZ1R4NjZpUzBLSEdMVFROOTF1dWhHbGNNUzhNMXlqVzdxQmFVbmhHWTFKcmJHZmNSRGowc3NFYkZyWDE3bmJiZFRyc1hFVTlocldidzd6MmkzOTEzS2RQMDgrMXdnUT09GAAgACgAMInP2+rexfQCOPvK8v3/LkD7yvL9/y5KHDlWWmxxM3UwbEk5R2sxOVRKd2tzNkF5d3NqVT1aICIe/5svbkJpd3lkLy9XU1pHYmhVcFdBSVh2MFRkcnc9ZTj9dtsSrgIITBKpAgoccndOVEdNTGNrRGpIUlZyQ0NFVDlVTVNNOUZJPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmJYKzJ2REZ5MHA3QUZEUCtOWGVlOEJPQS80NU9XMUF4aE5KYjZSdGVvMUkvb0ZTUWZuU1dVS0VQRUFwREZ4clFpMDkwWkozUkpiQmdCaHlRRTVDSFNZQkl5WFVYS2wvUThRZitqQXRwbGNrUWRkRzRBPT0YACAAKAAwic/b6t7F9AI4ruvDpYAvQK7rw6WAL0ocTllyVzJtZFZPejdiTFBHQmNtZlZNTW1Kd2pBPVogIh7/+3BSZWVEenpjL2poemtaMjkxYVE0MHNOL2E5ST1l2NZq9BKwAgguEqsCChxYeG0rTlZ2U2RtWHJsaDFoYmk1bGEyWTJwMlE9EqYBWjpBRHF0QVp6YnJ3TzlSRWZVSFpSZy9qWFdOVHQ4TzJVTjd1QkxHMTJWMkhOWW9LNGRaVDE0NmdVVEw3V3FwOFowSURrYjI5VjhwclluTDlENHdSY1pydlROcmpkQWUxUWhyVlE2ell6R0NCeG5TaFJ5MGxtczJ2YlpCLzFzMHEzMFpyTlVad3NBSWFwR1NYUW1nRXJZalR6NXFEbnZZLzc3cEE9PRgAIAAoADDNkNDq3sX0AjiLuJj+/y5Ai7iY/v8uShxIcUMzT1VURFBxRlRtTGdnZlJwaWw5N0QrNlk9WiIiIP////40MnM2M01MYXMzVVZ4VHBPSkpNbTI3bjlvdjQ9ZTj9dtsSrQIIFhKoAgoccDIwS3hrVHkyRkplU2lneC9BS3BPbDdEbFBRPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWmJjRklaS015akhzZERjN2FPMDZQUVltdzJESjdTd0NlY0VwOHF6TkZGMVBQVkJpajFVUlRkZUFsNXhMeXVPOXZJaUlrUkh0ZnRtemY1Nm5ZU0cvK0tCN2E3MUYzaFhJdU1Qb0JIUFRid2J1akFKTG9BPT0YACAAKAAwic/b6t7F9AI4sM3w/f8uQLDN8P3/LkocMVloRDI5bFRTQkl1T0w1bHRuNWJHcG9rR21zPVofIh3/NnBabTNEY0ZnRllYQTA1QzBRWGFWTlcrNDRjPWU4/XbbEq4CCEkSqQIKHFJMWHM4d3lyQVVmR1c4clAzTGQ4bGh4aTBEYz0SpgFaOkFEcXRBWnpicndPOVJFZlVIWlJnL2pYV05UdDhPMlVON3VCTEcxMlYySE5Zb0s0ZFpUK1R4WUViMTRFOUhPT3o2WlhRR1BnN20xVDhWQ0xpR1B2OUVyOExTWXdYRHpUdEpkNWNrYkZaQVFJMEV4Zit2b1hsd3grUFNiOUdFMXNYOUFJRjY5dXNHcUhsaUNXRSt4eDBnWTdXYjE5S2ZtcWg0Zz09GAAgACgAMM2Q0OrexfQCOPbdvqSAL0D23b6kgC9KHDlFMndBL1M3eW5YOVo5eHRpS3hkMGIxcjVQYz1aICIe/944dG9iUTdPRlJhWlNkZHd3M2YvVldVRTAzdmc9ZTj9dtsSrgIIZxKpAgocUEVxZGk1eHRTRkptWjR1NXZrZ3hMUUc3QjZFPRKmAVo6QURxdEFaemJyd085UkVmVUhaUmcvalhXTlR0OE8yVU43dUJMRzEyVjJITllvSzRkWlVXQjVNM2dxckY3VVg3ZkdZampvOE1Ta1ZIVlJabTZ0M2taSTk3aS9YV0FHTUJDVi9Qd2FxK1J5aDRlYW1lenRXckh1dk1xSXdXbVBZWmFIeDMvZ0E4VS9pdFd5RnA4VEFjeXlqcmJTdmhOY00vVkt3PT0YACAAKAAwzZDQ6t7F9AI44/jBhoovQOP4wYaKL0ocSTBQcmYxOENFcXpEUU9jVE5GTGczejlJUjdvPVogIh7/+0hlUDVYK3lnVXdUL1FhNHEzdE9FbURNbUhPbz1lOP122xLsAQgFEucBChxDc3piYlFKSGVWVWcxczh4SXhBSEhjeDcxeWc9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZuTDA2QlJhdURqWHU4a3hZZXlibWEzTC9kZjhkM25DNmgyNHJ1Tjd0a0VldWViVzlxRWY4VXZ6azhjT1cvZW5vNVgydEhBPT0YACAAKAAw6pSUzfLc9wI4jMv/8YswQIzL//GLMEocT2R0MjA2YnNtRmNpR0FsOWZxS2IvVTNEc3MwPVofIh3ZeExRakhoYWErS0JlU2hmT0EzaFRBQ096Q0RJPWUAAAAAEvABCLwBEuoBChx0U01rSDdGTmo5QjNDTzNkR0w4dEtqNXVrNHM9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2Y2RjA2WHVWdGp3OFAwMHhURzk0T0FkczlGL0ZMK1JmdHZ6Y0l2NTBVV0dVR2Y2d2RQZnd3SlJ0ai9Hb0pURGhoMDE4TDBBPT0YACAEKAQwnOP/mvqZ+QI41bWw6aEwQJDyxYukMEocd1d5UGtGU0FUL2k0dmxTS1AwV1RjWkIxT1pzPVoiIiD////+U1h2UThnOUtNM2grSnlWTzZwdUxRenpWWURnPWUo0OGpEvUBCMEBEu8BChx2L0gzSGw0WmxBQzZKQVYzeldCR0xyZmQ2bTg9EmZaOkFEcXRBWnpqcGJuVEJONktRQVpGU3JnOGpES2ZrRUE0b1o4TTVYbnhwSFR2QWtoTGd3T3VkN2lkTVpyYjhFdE5FS3pxVU5iLzV0TkZBWGh3QnA1SDV4emVnNWR0M0hyMEx3PT0YACACKAIw8YXO3J6V+QI47aymvqMwQPWspr6jMEocYWJud1VicGdmRTlrSHY0amlTVW1hUDQwOGRzPVonIiX/////AAAABP5jTEEvdlNOUTNya0QxMVJCNHFLQXRtTjBuSFE9ZSjQ4akwATgA",
+   "version": 1
+}

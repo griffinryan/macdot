@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+/home/griffinryan/.config/Code - OSS/User/workspaceStorage/457325039501148e3314743c018cf131/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+1725001705.index
+3495720970.index
+2901034905.index
+4060188098.index
+1774959994.index
+179623630.index
+3924261614.index
+3842426239.index
+1865797976.index
+1646058145.index
+1091094897.index
+3780338054.index
+189469058.index
+184608627.index
+2618457408.index
+1811332996.index

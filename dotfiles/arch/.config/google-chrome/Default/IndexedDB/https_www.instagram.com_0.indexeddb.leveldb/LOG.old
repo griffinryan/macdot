@@ -1,0 +1,6 @@
+2022/07/18-08:11:51.789 1e42 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-08:11:51.789 1e42 Recovering log #3
+2022/07/18-08:11:51.789 1e42 Reusing old log /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2022/07/18-08:13:57.438 1dc0 Level-0 table #5: started
+2022/07/18-08:13:57.523 1dc0 Level-0 table #5: 1097094 bytes OK
+2022/07/18-08:13:57.559 1dc0 Delete type=0 #3

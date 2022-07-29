@@ -1,0 +1,21 @@
+2022/07/29-10:02:52.908 3 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/29-10:02:52.909 3 Recovering log #184
+2022/07/29-10:02:52.909 3 Reusing old log /home/griffinryan/.config/google-chrome/Default/Local Storage/leveldb/000184.log 
+2022/07/29-10:21:31.574 b Level-0 table #188: started
+2022/07/29-10:21:31.618 b Level-0 table #188: 119395 bytes OK
+2022/07/29-10:21:31.657 b Delete type=0 #184
+2022/07/29-10:23:26.375 b Level-0 table #190: started
+2022/07/29-10:23:26.424 b Level-0 table #190: 118503 bytes OK
+2022/07/29-10:23:26.463 b Delete type=0 #187
+2022/07/29-10:23:26.465 b Compacting 4@0 + 1@1 files
+2022/07/29-10:23:26.642 b Generated table #191@0: 1867 keys, 1745536 bytes
+2022/07/29-10:23:26.642 b Compacted 4@0 + 1@1 files => 1745536 bytes
+2022/07/29-10:23:26.678 b compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/29-10:23:26.680 b Delete type=2 #179
+2022/07/29-10:23:26.680 b Delete type=2 #185
+2022/07/29-10:23:26.680 b Delete type=2 #182
+2022/07/29-10:23:26.681 b Delete type=2 #188
+2022/07/29-10:23:26.681 b Delete type=2 #190
+2022/07/29-10:27:24.309 b Level-0 table #193: started
+2022/07/29-10:27:24.352 b Level-0 table #193: 104023 bytes OK
+2022/07/29-10:27:24.390 b Delete type=0 #189

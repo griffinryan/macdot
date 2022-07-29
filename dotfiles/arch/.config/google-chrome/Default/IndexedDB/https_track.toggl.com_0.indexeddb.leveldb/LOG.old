@@ -1,0 +1,14 @@
+2022/07/29-09:36:04.018 1676 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_track.toggl.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/29-09:36:04.018 1676 Recovering log #241
+2022/07/29-09:36:04.063 1676 Reusing old log /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_track.toggl.com_0.indexeddb.leveldb/000241.log 
+2022/07/29-09:36:04.064 1676 Delete type=2 #239
+2022/07/29-09:36:06.125 1646 Level-0 table #246: started
+2022/07/29-09:36:06.706 1646 Level-0 table #246: 9641 bytes OK
+2022/07/29-09:36:07.209 1646 Delete type=0 #241
+2022/07/29-09:36:07.210 1646 Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 12549 : 1
+2022/07/29-09:36:07.210 1646 Compacting 1@0 + 1@1 files
+2022/07/29-09:36:07.608 1646 Generated table #247@0: 706 keys, 22936 bytes
+2022/07/29-09:36:07.608 1646 Compacted 1@0 + 1@1 files => 22936 bytes
+2022/07/29-09:36:08.000 1646 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/29-09:36:08.000 1646 Delete type=2 #246
+2022/07/29-09:36:08.000 1646 Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 12549 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)

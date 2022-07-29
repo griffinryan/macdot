@@ -1,0 +1,6 @@
+2022/07/17-16:10:39.648 ffda Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_d2ba9751ba45f9e63ca41b48ce3514bb.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/07/17-16:10:39.749 ffda Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_d2ba9751ba45f9e63ca41b48ce3514bb.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/17-16:10:50.053 1002b Level-0 table #5: started
+2022/07/17-16:10:50.095 1002b Level-0 table #5: 480 bytes OK
+2022/07/17-16:10:50.132 1002b Delete type=0 #3
+2022/07/17-16:10:50.132 1002b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

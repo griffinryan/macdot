@@ -1,0 +1,92 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Vcs.Operations.Popup" is_group="true" action_type="-1" position="19">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" action_type="-1" position="18">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesViewToolbar" is_group="true" action_type="-1" position="17">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Markdown.Toolbar.Floating" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EmulatorToolbar" is_group="true" action_type="-1" position="15">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" action_type="-1" position="14">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.TopToolbar" is_group="true" action_type="-1" position="13">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.LeftToolbar" is_group="true" action_type="-1" position="12">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavbarPopupMenu" is_group="true" action_type="-1" position="10">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="J2EEViewPopupMenu" is_group="true" action_type="-1" position="9">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CommanderPopupMenu" is_group="true" action_type="-1" position="8">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FavoritesViewPopupMenu" is_group="true" action_type="-1" position="7">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeViewPopupMenu" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenu" is_group="true" action_type="-1" position="5">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorTabPopupMenu" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterPopupMenu" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPopupMenu" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolBar" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainMenu" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="CodeWithMeNavbarGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

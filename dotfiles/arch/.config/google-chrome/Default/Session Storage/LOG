@@ -1,0 +1,18 @@
+2022/07/29-10:02:52.982 3 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/07/29-10:02:52.983 3 Recovering log #84
+2022/07/29-10:02:52.983 3 Reusing old log /home/griffinryan/.config/google-chrome/Default/Session Storage/000084.log 
+2022/07/29-10:20:33.187 b Level-0 table #87: started
+2022/07/29-10:20:33.227 b Level-0 table #87: 56932 bytes OK
+2022/07/29-10:20:33.262 b Delete type=0 #84
+2022/07/29-10:20:34.835 3 Level-0 table #89: started
+2022/07/29-10:20:34.887 3 Level-0 table #89: 35798 bytes OK
+2022/07/29-10:20:34.922 3 Delete type=0 #86
+2022/07/29-10:20:34.924 3 Compacting 4@0 + 1@1 files
+2022/07/29-10:20:34.996 3 Generated table #90@0: 115 keys, 85196 bytes
+2022/07/29-10:20:34.996 3 Compacted 4@0 + 1@1 files => 85196 bytes
+2022/07/29-10:20:35.029 3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/07/29-10:20:35.029 3 Delete type=2 #87
+2022/07/29-10:20:35.030 3 Delete type=2 #79
+2022/07/29-10:20:35.030 3 Delete type=2 #89
+2022/07/29-10:20:35.030 3 Delete type=2 #82
+2022/07/29-10:20:35.030 3 Delete type=2 #84

@@ -1,0 +1,7 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.38.0" />
+    </driver>
+  </component>
+</application>

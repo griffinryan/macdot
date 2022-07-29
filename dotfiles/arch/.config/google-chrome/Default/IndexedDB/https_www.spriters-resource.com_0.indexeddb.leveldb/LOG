@@ -1,0 +1,8 @@
+2022/07/26-13:54:50.104 f437 Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.spriters-resource.com_0.indexeddb.leveldb since it was missing.
+2022/07/26-13:54:50.205 f437 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.spriters-resource.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/26-13:58:38.316 f3c8 Level-0 table #5: started
+2022/07/26-13:58:38.492 f3c8 Level-0 table #5: 4189034 bytes OK
+2022/07/26-13:58:38.570 f3c8 Delete type=0 #3
+2022/07/26-14:00:08.869 f3d7 Level-0 table #7: started
+2022/07/26-14:00:08.968 f3d7 Level-0 table #7: 4199405 bytes OK
+2022/07/26-14:00:09.001 f3d7 Delete type=0 #4

@@ -1,0 +1,75 @@
+com.intellij|null
+training|null
+tanvd.grazi|null
+org.toml.lang|null
+org.jetbrains.settingsRepository|IDE Settings
+org.jetbrains.plugins.yaml|Languages
+org.jetbrains.plugins.wsl.fs|null
+org.jetbrains.plugins.textmate|Other Tools
+org.jetbrains.plugins.terminal|Other Tools
+org.jetbrains.plugins.rest|null
+org.jetbrains.plugins.localization|Languages
+org.jetbrains.plugins.emojipicker|Other Tools
+org.intellij.intelliLang|Other Tools
+org.editorconfig.editorconfigjetbrains|Other Tools
+hg4idea|Version Controls
+gherkin|Languages
+com.jetbrains.space|null
+com.jetbrains.sh|Languages
+com.jetbrains.projector.libs|null
+org.jetbrains.plugins.remote-run|null
+org.jetbrains.plugins.vagrant|Deployment
+com.jetbrains.plugins.webDeployment|Deployment
+com.jetbrains.plugins.ini4idea|Languages
+com.jetbrains.gateway|Remote Development
+com.jetbrains.gateway.terminal|null
+com.jetbrains.codeWithMe|null
+com.intellij.tasks|Other Tools
+com.intellij.tasks.timeTracking|Other Tools
+org.jetbrains.plugins.haml|Template Languages
+com.intellij.plugins.watcher|null
+com.intellij.plugins.warmneon.colorscheme|UI
+com.intellij.plugins.twilight.colorscheme|UI
+com.intellij.plugins.monokai.colorscheme|UI
+com.intellij.plugins.github.colorscheme|UI
+com.intellij.platform.images|null
+org.intellij.plugins.markdown|Languages
+com.jetbrains.restClient|Other Tools
+com.intellij.lang.puppet|Deployment
+com.intellij.microservices.ui|Microservices
+com.intellij.diagram|Other Tools
+com.intellij.copyright|Other Tools
+com.intellij.properties|Languages
+com.intellij.css|Style Sheets
+org.jetbrains.plugins.stylus|Style Sheets
+org.jetbrains.plugins.sass|Style Sheets
+org.jetbrains.plugins.less|Style Sheets
+com.intellij.configurationScript|null
+com.intellij.completion.ml.ranking|Other Tools
+com.intellij.CloudConfig|IDE Settings
+com.jetbrains.performancePlugin|Other Tools
+intellij.indexing.shared.core|null
+com.jetbrains.pycharm.pro.sharedIndexes.bundled|null
+com.jetbrains.performancePlugin.dynamicPlugins|null
+Subversion|Version Controls
+Remote Development Server|null
+PerforceDirectPlugin|Version Controls
+HtmlTools|HTML and XML
+org.jetbrains.plugins.github|Version Controls
+Git4Idea|Version Controls
+training.git|null
+intellij.indexing.shared|null
+JavaScriptDebugger|JavaScript Frameworks and Tools
+JavaScript|JavaScript Frameworks and Tools
+tslint|JavaScript Frameworks and Tools
+com.intellij.database|Database
+Pythonid|null
+JSIntentionPowerPack|JavaScript Frameworks and Tools
+org.coffeescript|JavaScript Frameworks and Tools
+com.jetbrains.changeReminder|Version Controls
+com.intellij.searcheverywhere.ml|null
+Docker|Deployment
+com.jetbrains.python.sharedIndexes.downloadable|null
+com.jetbrains.python.sharedIndexes|null
+com.jetbrains.pycharm.pro.customization|null
+AngularJS|JavaScript Frameworks and Tools

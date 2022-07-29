@@ -1,0 +1,6 @@
+2022/07/19-12:20:41.548 361e Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2022/07/19-12:20:42.051 361e Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/19-12:21:45.899 3682 Level-0 table #5: started
+2022/07/19-12:21:45.941 3682 Level-0 table #5: 1855 bytes OK
+2022/07/19-12:21:45.975 3682 Delete type=0 #3
+2022/07/19-12:21:45.975 3682 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

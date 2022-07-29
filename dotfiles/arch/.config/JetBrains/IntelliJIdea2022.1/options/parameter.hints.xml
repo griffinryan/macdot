@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.almasb.fxgl.dsl.FXGL.texture(assetName,width,height)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

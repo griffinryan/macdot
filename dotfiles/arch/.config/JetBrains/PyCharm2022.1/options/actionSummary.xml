@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="7" l="1658005469584" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1658005277897" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1658005395269" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="3" l="1658005394881" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1658005397401" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1658005478155" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1658005343200" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1658005208425" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1658005345270" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1658005413497" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1658005483410" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1658005435682" />
+    </e>
+  </component>
+</application>

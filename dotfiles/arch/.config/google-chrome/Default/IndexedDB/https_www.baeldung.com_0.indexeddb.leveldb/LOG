@@ -1,0 +1,7 @@
+2022/07/17-17:34:31.951 12c4e Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.baeldung.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/17-17:34:31.951 12c4e Recovering log #3
+2022/07/17-17:34:31.952 12c4e Reusing old log /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.baeldung.com_0.indexeddb.leveldb/000003.log 
+2022/07/17-17:34:57.199 12c4d Level-0 table #5: started
+2022/07/17-17:34:57.240 12c4d Level-0 table #5: 383 bytes OK
+2022/07/17-17:34:57.271 12c4d Delete type=0 #3
+2022/07/17-17:34:57.272 12c4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

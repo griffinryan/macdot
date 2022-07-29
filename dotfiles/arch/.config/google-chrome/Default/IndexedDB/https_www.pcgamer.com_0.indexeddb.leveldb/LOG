@@ -1,0 +1,6 @@
+2022/07/16-11:36:38.899 117d Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.pcgamer.com_0.indexeddb.leveldb since it was missing.
+2022/07/16-11:36:39.018 117d Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.pcgamer.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/16-11:36:57.815 117d Level-0 table #5: started
+2022/07/16-11:36:57.882 117d Level-0 table #5: 26365 bytes OK
+2022/07/16-11:36:57.993 117d Delete type=0 #3
+2022/07/16-11:36:57.993 117d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

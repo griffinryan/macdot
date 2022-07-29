@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/usr/bin/apply-tiling-settings
+Name=manjaro-app-folders
+Comment=Set Manjaro Gnome Shell app-folders
+Type=Application
+Icon=applications-system
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+Hidden=true

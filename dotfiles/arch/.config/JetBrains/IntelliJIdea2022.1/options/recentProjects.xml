@@ -1,0 +1,165 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/practicum/HashingCompression">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HashingCompression" projectWorkspaceId="29r2cANa4ABvTFN1cpY3kuwkm1p">
+              <option name="activationTimestamp" value="1653857068624" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208977422" />
+              <frame x="2020" y="984" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1653857183728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/practicum/EvolvedNames">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EvolvedNames" projectWorkspaceId="29r2clh0UPBqMhXEngHJTYKlj4o">
+              <option name="activationTimestamp" value="1653857076601" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208977422" />
+              <frame x="2020" y="984" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1653857068221" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/practicum/BurgerBaron">
+          <value>
+            <RecentProjectMetaInfo frameTitle="BurgerBaron – Burger.java" projectWorkspaceId="27MEdKxUlCtaeUssq7Ud1NYS24s">
+              <option name="activationTimestamp" value="1653857064631" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208977422" />
+              <frame x="1736" y="1057" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1653856966732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/practicum/CompressedLiterature">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CompressedLiterature – Main.java" projectWorkspaceId="29r2cfr8M8P5NYLzDF6zEAB3f4N">
+              <option name="activationTimestamp" value="1657998012922" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208977422" />
+              <frame x="1160" y="440" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1653857185561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/Sliding-puzzle-solver">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Sliding-puzzle-solver – Main.java" projectWorkspaceId="2C2fUdLds0jwemcqhkdmK84pOLe">
+              <option name="activationTimestamp" value="1658005887159" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208982541" />
+              <frame x="1031" y="364" width="980" height="877" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658005616490" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sliding-block-puzzle">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sliding-block-puzzle – Utils.java [main]" projectWorkspaceId="2C2g2d0hufWPJEjz7f61xjfvVEF">
+              <option name="activationTimestamp" value="1658006076412" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208961861" />
+              <frame x="1031" y="364" width="980" height="877" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658005887868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/slider-puzzle-search">
+          <value>
+            <RecentProjectMetaInfo frameTitle="slider-puzzle-search – Main.java" projectWorkspaceId="2C2jlQr24vH8w5BxWoAkJuz6yoW">
+              <option name="activationTimestamp" value="1658010909568" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208985448" />
+              <frame x="0" y="32" width="953" height="1408" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658009849399" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/blind-huristic-search">
+          <value>
+            <RecentProjectMetaInfo frameTitle="blind-huristic-search – BFSearch.java" projectWorkspaceId="2C2ZchxEjYQAUvlUXpZKx2qWB1l">
+              <option name="activationTimestamp" value="1658022291036" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208985448" />
+              <frame x="0" y="32" width="953" height="1408" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658010909852" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/SlidingPuzzle">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SlidingPuzzle – BFSearch.java" projectWorkspaceId="2C2Q7p1JUC8sOCD6pExxXpdsXNU">
+              <option name="activationTimestamp" value="1658257112153" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208985448" />
+              <frame x="963" y="32" width="1567" height="1408" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658028044925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/FXGLGames/Pong">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Pong – PongFactory.java" projectWorkspaceId="2CUYJMq6fxl91JTQ38wQLHEFxRP">
+              <option name="activationTimestamp" value="1658863543932" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5921.22" />
+              <option name="buildTimestamp" value="1655795255219" />
+              <frame x="-42" y="248" width="1550" height="1056" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658858557487" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/FXGLGames/GeometryWars">
+          <value>
+            <RecentProjectMetaInfo frameTitle="GeometryWars – BackgroundStarsComponent.java" projectWorkspaceId="2CSBATHpcYLuVsSJsrcFWwlcNWC">
+              <option name="activationTimestamp" value="1658959340285" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5921.22" />
+              <option name="buildTimestamp" value="1655795269736" />
+              <frame x="4" y="115" width="812" height="1056" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658947887603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/DungeonAdventure">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DungeonAdventure – BasicGameApp.java [DungeonAdventure.main]" opened="true" projectWorkspaceId="2CPPY4qhLuniP1B9XZwzeao2gck">
+              <option name="activationTimestamp" value="1658960388160" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5921.22" />
+              <option name="buildTimestamp" value="1655795262835" />
+              <frame x="826" y="32" width="1734" height="1408" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1658959344160" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace/FXGLGames" />
+  </component>
+</application>

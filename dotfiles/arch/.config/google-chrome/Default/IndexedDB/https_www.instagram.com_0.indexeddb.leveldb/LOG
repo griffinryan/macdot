@@ -1,0 +1,29 @@
+2022/07/18-08:29:55.063 2463 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-08:29:55.063 2463 Recovering log #4
+2022/07/18-08:29:55.064 2463 Reusing old log /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2022/07/18-08:30:54.379 2549 Level-0 table #8: started
+2022/07/18-08:30:54.472 2549 Level-0 table #8: 1136410 bytes OK
+2022/07/18-08:30:54.609 2549 Delete type=0 #4
+2022/07/18-08:32:58.163 25aa Level-0 table #10: started
+2022/07/18-08:32:58.264 25aa Level-0 table #10: 1101438 bytes OK
+2022/07/18-08:32:58.367 25aa Delete type=0 #7
+2022/07/18-08:33:21.947 25aa Level-0 table #12: started
+2022/07/18-08:33:22.004 25aa Level-0 table #12: 177227 bytes OK
+2022/07/18-08:33:22.037 25aa Delete type=0 #9
+2022/07/18-08:33:22.038 25aa Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 3094 : 0
+2022/07/18-08:33:22.038 25aa Compacting 2@0 + 1@1 files
+2022/07/18-08:33:22.088 25aa Generated table #13@0: 977 keys, 41190 bytes
+2022/07/18-08:33:22.088 25aa Compacted 2@0 + 1@1 files => 41190 bytes
+2022/07/18-08:33:22.120 25aa compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/18-08:33:22.121 25aa Delete type=2 #12
+2022/07/18-08:33:22.121 25aa Delete type=2 #10
+2022/07/18-08:33:22.121 25aa Delete type=2 #8
+2022/07/18-08:33:22.122 25aa Manual compaction at level-0 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 3094 : 0 .. (end); will stop at (end)
+2022/07/18-08:33:22.122 25aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 4592 : 1
+2022/07/18-08:33:22.122 25aa Compacting 1@1 + 1@2 files
+2022/07/18-08:33:22.164 25aa Generated table #14@1: 50 keys, 33351 bytes
+2022/07/18-08:33:22.164 25aa Compacted 1@1 + 1@2 files => 33351 bytes
+2022/07/18-08:33:22.195 25aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-08:33:22.196 25aa Delete type=2 #5
+2022/07/18-08:33:22.196 25aa Delete type=2 #13
+2022/07/18-08:33:22.197 25aa Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 4592 : 1 .. (end); will stop at (end)
