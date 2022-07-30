@@ -1,6 +1,6 @@
 set fish_greeting ""
 
-set -gx TERM xterm-256color
+set -gx TERM xterm-kitty
 
 # Theme
 set -g theme_color_scheme terminal-dark
@@ -141,16 +141,38 @@ function __check_rvm --on-variable PWD --description 'Do nvm stuff'
   end
 end
 
-switch (uname)
-  case Darwin
-    source (dirname (status --current-filename))/config-osx.fish
-  case Linux
-    source (dirname (status --current-filename))/config-linux.fish
-  case '*'
-    source (dirname (status --current-filename))/config-windows.fish
+# start X at login 
+
+if status is-login
+  if test -z "$DISPLAY" -a $XDG_VTNR = 1
+    # ly
+    exec startx -- -keeptty
+    # ly
+  end
 end
 
-set LOCAL_CONFIG (dirname (status --current-filename))/config-local.fish
-if test -f $LOCAL_CONFIG
-  source $LOCAL_CONFIG
-end
+# end of the Arch tty login
+
+  #switch (uname)
+  #case Darwin
+  # source (dirname (status --current-filename))/config-osx.fish
+  #case Linux
+  # source (dirname (status --current-filename))/config-linux.fish
+  #case '*'
+  #  source (dirname (status --current-filename))/config-windows.fish
+  #end
+
+#set LOCAL_CONFIG (dirname (status --current-filename))/config-local.fish
+  #if test -f $LOCAL_CONFIG
+  #source $LOCAL_CONFIG
+#end
+
+# start X at login
+
+    #if status --is-login
+    #if test -z "$DISPLAY" -a $XDG_VTNR = 1
+    # ly
+    #exec startx
+    #end
+    #end
+# end on the Arch login
