@@ -1,6 +1,0 @@
-2022/07/17-18:27:00.184 13c19 Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.tutorialspoint.com_0.indexeddb.leveldb since it was missing.
-2022/07/17-18:27:00.294 13c19 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_www.tutorialspoint.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/17-18:27:03.560 13bd5 Level-0 table #5: started
-2022/07/17-18:27:03.608 13bd5 Level-0 table #5: 1586 bytes OK
-2022/07/17-18:27:03.641 13bd5 Delete type=0 #3
-2022/07/17-18:27:03.641 13bd5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,9 +1,0 @@
-{
-  "manifest_version": 2,
-  "name": "hyphens-data",
-  "version": "106.0.5208.0",
-  "imageName": "image.squash",
-  "squash": true,
-  "fsType": "squashfs",
-  "isRemovable": false
-}

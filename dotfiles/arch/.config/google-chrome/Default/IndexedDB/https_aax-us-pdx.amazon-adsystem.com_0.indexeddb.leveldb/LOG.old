@@ -1,7 +1,0 @@
-2022/07/26-13:54:52.933 f3c8 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_aax-us-pdx.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/26-13:54:52.933 f3c8 Recovering log #3
-2022/07/26-13:54:52.942 f3c8 Reusing old log /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_aax-us-pdx.amazon-adsystem.com_0.indexeddb.leveldb/000003.log 
-2022/07/26-13:54:57.942 f437 Level-0 table #5: started
-2022/07/26-13:54:57.984 f437 Level-0 table #5: 411 bytes OK
-2022/07/26-13:54:58.016 f437 Delete type=0 #3
-2022/07/26-13:54:58.016 f437 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,1 +1,0 @@
-INDEX VERSION 1.131+/home/griffinryan/.config/Code - OSS/User/workspaceStorage/cd31cdc9becaa95e8295d9f90c9d2edc/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

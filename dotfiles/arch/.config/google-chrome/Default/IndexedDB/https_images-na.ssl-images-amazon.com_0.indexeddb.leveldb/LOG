@@ -1,6 +1,0 @@
-2022/07/18-08:09:08.737 1dc0 Creating DB /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb since it was missing.
-2022/07/18-08:09:08.939 1dc0 Reusing MANIFEST /home/griffinryan/.config/google-chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/18-08:09:14.360 1ddf Level-0 table #5: started
-2022/07/18-08:09:14.410 1ddf Level-0 table #5: 362 bytes OK
-2022/07/18-08:09:14.442 1ddf Delete type=0 #3
-2022/07/18-08:09:14.442 1ddf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

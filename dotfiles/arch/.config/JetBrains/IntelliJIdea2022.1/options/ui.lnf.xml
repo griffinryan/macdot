@@ -1,8 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
-    <option name="OPEN_TABS_AT_THE_END" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-  </component>
-</application>

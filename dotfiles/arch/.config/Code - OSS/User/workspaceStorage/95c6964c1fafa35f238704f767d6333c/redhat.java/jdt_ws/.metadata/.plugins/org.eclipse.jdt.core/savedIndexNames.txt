@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+/home/griffinryan/.config/Code - OSS/User/workspaceStorage/95c6964c1fafa35f238704f767d6333c/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-3156499448.index
-3910499787.index
-3842426239.index
