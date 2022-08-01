@@ -1,0 +1,3 @@
+#!/bin/sh
+
+yay -Sy minecraft-launcher minecraft-bedrock-server minecraft-server minecraft-overviewer minecraft-overviewer-docs retroarch ascii-fluid-dynamics-git ascii-rain-git asciiportal asciiplanes asciiplanets-git girl cbonsai cboard starstax pixelchart pixelorama pywal-16-colors dolphin-emu zelda-xd2 zelda-3t zelda-classic zelda-nsq i3gopher i3pystatus-git i3-volume i3brain i3title i3wins i3-layouts i3-keylist i3-gaps i3-wsbar i3-scripts i3-sensible-browser-git i3-style i3-swallow-git i3-switch-tabs i3-agenda i3-auto-arrange i3-autodisplay i3-utils i3-easyfocus-git i3-git gnome xpacman windows-xp-icon-theme windows-xp-themes-git applecommander pico-8 pico8 voxelands voxelquest pixelserv macos-3d-originals-theme pinball simplelogin slim-themes 

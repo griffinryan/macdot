@@ -1,0 +1,146 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DungeonAdventure" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/griffinryan/dungeonadventure/AdventureApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="34" column="62" lean-forward="true" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1659376028557" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1659375942189" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1659376028557" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1659375942190" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DungeonAdventure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonAdventure" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16370252" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32051283" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.24432234" />
+      <window_info anchor="bottom" id="Dependencies" order="4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1195" height="409" key="GridCell.Tab.0.bottom" timestamp="1659376845995">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1195" height="409" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1659376845995" />
+    <state width="1195" height="409" key="GridCell.Tab.0.center" timestamp="1659376845995">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1195" height="409" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1659376845995" />
+    <state width="1195" height="409" key="GridCell.Tab.0.left" timestamp="1659376845995">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1195" height="409" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1659376845995" />
+    <state width="1195" height="409" key="GridCell.Tab.0.right" timestamp="1659376845995">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1195" height="409" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1659376845995" />
+    <state x="1352" y="200" width="1048" height="853" key="SettingsEditor" timestamp="1659376598104">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1352" y="200" width="1048" height="853" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1659376598104" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/griffinryan/dungeonadventure/AdventureApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="34" column="62" lean-forward="true" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

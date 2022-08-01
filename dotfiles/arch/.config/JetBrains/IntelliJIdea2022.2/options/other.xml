@@ -1,0 +1,81 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2ClSyMFjPPnlG52uPqcG6zf4qM1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 17.0.4" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-17.0.4" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/corretto-17.0.4" />
+        <option name="sha256" value="81d9de7e8a3bda1e0fbdf36de45d7df326308d333068eedb6b6126b60fedbefd" />
+        <option name="url" value="https://corretto.aws/downloads/latest/amazon-corretto-17-x64-linux-jdk.tar.gz" />
+        <option name="versionText" value="17.0.4" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Source Code Pro" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="11.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "MarketplacePluginsSearchHistory": "mo\nmonaco\nmona",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Gradle JVM:\nstop\nbuild\nrun\ncollapse",
+    "android.gradle.sync.needed": "true",
+    "appcds.runOnSecondStart": "IU-222.3345.118-f36186c2a4b9298b459eeca0b0378f1b702dd268293ca0a417d20d69836c298f",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-222.3345.118",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1659376055438",
+    "eclipse.projects.detected": "",
+    "evlsprt3.222": "23",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "IU-222.3345.118",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ3345.118",
+    "last.used.gradle.home": "/usr/share/java/gradle",
+    "last_opened_file_path": "/home/glryan/workspace/DungeonAdventure",
+    "previousColorScheme": "_@user_Monokai Pro",
+    "registry.to.advanced.settings.migration.build": "IU-222.3345.118",
+    "selected.color.option.type": "FOLDED_TEXT_BORDER_COLOR",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/glryan/workspace/DungeonAdventure"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

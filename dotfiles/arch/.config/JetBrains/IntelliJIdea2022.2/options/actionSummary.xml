@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CollapseAllRegions">
+      <i c="1" l="1659376567732" />
+    </e>
+    <e n="CollapseDocComments">
+      <i c="1" l="1659376565349" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="16" l="1659376512436" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="2" l="1659376568393" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1659376599699" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1659376336680" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1659376348327" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1659376618117" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1659375921377" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1659376023718" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="4" l="1659376554669" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1659376310459" />
+    </e>
+  </component>
+</application>
