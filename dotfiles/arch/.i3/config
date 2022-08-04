@@ -44,8 +44,8 @@ bindsym $mod+z exec --no-startup-id morc_menu
 exec --no-startup-id volumeicon
 bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
 exec --no-startup-id pulseaudio
-#exec --no-startup-id pa-applet
-#bindsym $mod+Ctrl+m exec pavucontrol
+# exec --no-startup-id pa-applet
+# bindsym $mod+Ctrl+m exec pavucontrol
 
 ###############################################
 ## xrandr monitor configurations
@@ -61,11 +61,11 @@ exec --no-startup-id xrandr --output DP-2 --auto --primary --output DP-4 --rotat
 
 # Start Applications
 bindsym $mod+Ctrl+b exec kitty -e 'bmenu'
-# bindsym $mod+p exec ranger
+bindsym $mod+p exec terminal -e 'ranger'
 bindsym $mod+o exec firefox
 bindsym $mod+Shift+F3 exec pcmanfm_pkexec
 bindsym $mod+F5 exec kitty -e 'mocp'
-bindsym $mod+p exec kitty -e 'ranger'
+# bindsym $mod+p exec kitty -e 'ranger'
 bindsym $mod+t exec --no-startup-id pkill picom
 bindsym $mod+Ctrl+t exec --no-startup-id picom -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
@@ -192,7 +192,7 @@ bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
 # assign [class="Skype"] $ws5
 
 # Open specific applications in floating mode
-for_window [title="alsamixer"] floating enable border pixel 1
+# for_window [title="alsamixer"] floating enable border pixel 1
 for_window [class="calamares"] floating enable border normal
 for_window [class="Clipgrab"] floating enable
 for_window [title="File Transfer*"] floating enable
@@ -286,8 +286,8 @@ exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 # exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
-exec --no-startup-id start_conky_maia
-# exec --no-startup-id start_conky_green
+# exec --no-startup-id start_conky_maia
+exec --no-startup-id start_conky_green
 # exec --no-startup-id ly
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
