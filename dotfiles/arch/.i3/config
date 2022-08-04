@@ -51,7 +51,7 @@ exec --no-startup-id pulseaudio
 ## xrandr monitor configurations
 ###############################################
 
-exec --no-startup-id xrandr --output DP-2 --auto --primary --refresh 165 --output DP-4 --rotate left --refresh 144 --right-of DP-2
+exec --no-startup-id xrandr --output DP-2 --auto --primary --output DP-4 --rotate left --right-of DP-2
 
 ################################################################################################
 
@@ -61,7 +61,7 @@ exec --no-startup-id xrandr --output DP-2 --auto --primary --refresh 165 --outpu
 
 # Start Applications
 bindsym $mod+Ctrl+b exec kitty -e 'bmenu'
-bindsym $mod+p exec ranger
+# bindsym $mod+p exec ranger
 bindsym $mod+o exec firefox
 bindsym $mod+Shift+F3 exec pcmanfm_pkexec
 bindsym $mod+F5 exec kitty -e 'mocp'
@@ -331,11 +331,11 @@ set_from_resource $term_color15    color15
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
 bar {
 	i3bar_command i3bar
-	status_command i3status
-	position top
+	status_command bumblebee-status
+	position bottom
 
 ## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
-#	tray_output primary
+	tray_output primary
 #	tray_output eDP1
 
 	bindsym button4 nop
