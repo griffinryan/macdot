@@ -62,7 +62,7 @@ exec --no-startup-id xrandr --output DP-2 --auto --primary --output DP-4 --rotat
 # Start Applications
 bindsym $mod+Ctrl+b exec kitty -e 'bmenu'
 bindsym $mod+p exec terminal -e 'ranger'
-bindsym $mod+o exec firefox
+bindsym $mod+o exec google-chrome-stable
 bindsym $mod+Shift+F3 exec pcmanfm_pkexec
 bindsym $mod+F5 exec kitty -e 'mocp'
 # bindsym $mod+p exec kitty -e 'ranger'
