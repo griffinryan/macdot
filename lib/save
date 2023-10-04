@@ -19,18 +19,28 @@ LIGHTPURPLE='\33[1;35m';   # Light Purple
 
 function dotfileSave() {
     timestamp="$(date +%Y%m%d%H%M)"
+    if [ -f ~/.macdot/latest ]; then
+      link="--link-dest=$(cat ~/.macdot/latest)"
+      vimlink="${link}/.vim"
+      locallink="${link}/.local"
+      configlink="${link}/.config"
+      itermlink="${link}/.iterm"
+      fontslink="${link}/.fonts"
+    fi
 
     mkdir -p ~/.macdot/macdot-${timestamp}
 
     # individually (and recursively) add parent directories.
-    [ -d ~/.vim ] && rsync -a --delete ~/.vim ~/.macdot/macdot-${timestamp}/
-    [ -d ~/.local ] && rsync -a --delete ~/.local ~/.macdot/macdot-${timestamp}/
-    [ -d ~/.config ] && rsync -a --delete ~/.config ~/.macdot/macdot-${timestamp}/
-    [ -d ~/.iterm ] && rsync -a --delete ~/.iterm ~/.macdot/macdot-${timestamp}/
-    [ -d ~/.fonts ] && rsync -a --delete ~/.fonts ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.vim ] && rsync -a ${vimlink} ~/.vim ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.local ] && rsync -a ${locallink} ~/.local ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.config ] && rsync -a ${configlink} ~/.config ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.iterm ] && rsync -a ${itermlink} ~/.iterm ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.fonts ] && rsync -a ${fontslink} ~/.fonts ~/.macdot/macdot-${timestamp}/
 
     # wildcard * to add all parent files.
-    rsync -a --exclude=".macdot" ~/.* ~/.macdot/macdot-${timestamp}/
+    rsync -a --delete --exclude=".macdot" ${link} ~/.* ~/.macdot/macdot-${timestamp}/
+
+    echo "${HOME}/.macdot/macdot-${timestamp}" > ~/.macdot/latest
 }
 
 # Help page for macdot - a macOS configuration tool.
