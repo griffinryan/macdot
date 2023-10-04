@@ -18,26 +18,19 @@ PURPLE='\33[0;35m';        # Purple
 LIGHTPURPLE='\33[1;35m';   # Light Purple
 
 function dotfileSave() {
-    # make a new /.macdot/ folder.
-    cd $HOME
-    rm -rf .macdot
-    
-    mkdir .macdot 2>/dev/null
-    mkdir .macdot/.vim 2>/dev/null
-    mkdir .macdot/.local 2>/dev/null
-    mkdir .macdot/.config 2>/dev/null
-    mkdir .macdot/.iterm 2>/dev/null
-    mkdir .macdot/.fonts 2>/dev/null
+    timestamp="$(date +%Y%m%d%H%M)"
+
+    mkdir -p ~/.macdot/macdot-${timestamp}
 
     # individually (and recursively) add parent directories.
-    /bin/cp -r ~/.vim ~/.macdot/.vim 2>/dev/null
-    /bin/cp -r ~/.local ~/.macdot/.local 2>/dev/null
-    /bin/cp -r ~/.config ~/.macdot/.config 2>/dev/null
-    /bin/cp -r ~/.iterm ~/.macdot/.iterm 2>/dev/null
-    /bin/cp -r ~/.fonts ~/.macdot/.fonts 2>/dev/null
+    [ -d ~/.vim ] && rsync -a --delete ~/.vim ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.local ] && rsync -a --delete ~/.local ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.config ] && rsync -a --delete ~/.config ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.iterm ] && rsync -a --delete ~/.iterm ~/.macdot/macdot-${timestamp}/
+    [ -d ~/.fonts ] && rsync -a --delete ~/.fonts ~/.macdot/macdot-${timestamp}/
 
     # wildcard * to add all parent files.
-    /bin/cp ~/.* ~/.macdot/ 2>/dev/null
+    rsync -a --exclude=".macdot" ~/.* ~/.macdot/macdot-${timestamp}/
 }
 
 # Help page for macdot - a macOS configuration tool.
