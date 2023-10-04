@@ -12,7 +12,7 @@ YELLOW='\33[0;33m';        # Yellow
 
 function dotfileInstall() {
 
-    dotfileSave
+    ${BASH_SOURCE%/*}/save
     
     # wildcard * to add all parent files.
     /bin/cp /opt/homebrew/Cellar/macdot/*.*.*/dotfiles/.* ~/ 2>/dev/null
@@ -29,27 +29,6 @@ function dotfileInstall() {
     
     # make sure of Fish as default shell.
     # chsh -s /opt/homebrew/bin/fish
-}
-
-function dotfileSave() {
-    # make a new /.macdot/ folder.
-    cd $HOME
-    mkdir .macdot 2>/dev/null
-    mkdir .macdot/.vim 2>/dev/null
-    mkdir .macdot/.local 2>/dev/null
-    mkdir .macdot/.config 2>/dev/null
-    mkdir .macdot/.iterm 2>/dev/null
-    mkdir .macdot/.fonts 2>/dev/null
-
-    # individually (and recursively) add parent directories.
-    /bin/cp -r ~/.vim ~/.macdot/.vim 2>/dev/null
-    /bin/cp -r ~/.local ~/.macdot/.local 2>/dev/null
-    /bin/cp -r ~/.config ~/.macdot/.config 2>/dev/null
-    /bin/cp -r ~/.iterm ~/.macdot/.iterm 2>/dev/null
-    /bin/cp -r ~/.fonts ~/.macdot/.fonts 2>/dev/null
-
-    # wildcard * to add all parent files.
-    /bin/cp ~/.* ~/.macdot/ 2>/dev/null
 }
 
 # Help page for macdot - a macOS configuration tool.
