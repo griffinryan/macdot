@@ -38,7 +38,7 @@ function dotfileSave() {
     [ -d ~/.fonts ] && rsync -a ${fontslink} ~/.fonts ~/.macdot/macdot-${timestamp}/
 
     # wildcard * to add all parent files.
-    rsync -a --delete --exclude=".macdot" ${link} ~/.* ~/.macdot/macdot-${timestamp}/
+    rsync -a --exclude=".macdot" ${link} ~/.* ~/.macdot/macdot-${timestamp}/
 
     echo "${HOME}/.macdot/macdot-${timestamp}" > ~/.macdot/latest
 }
