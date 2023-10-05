@@ -66,45 +66,19 @@ function showHelp() {
     bash /opt/homebrew/Cellar/macdot/**/lib/morehelp
 }
 
-# main loop set here
-if [[ -z "$1" ]]; then
-    # uses info.sh
-    showInfo;
-elif [[ "$1" == "help" || "$1" == "-h" ]]; then
-    showHelp;
-elif [[ "$1" == " " || "$1" == "  " ]]; then
-    showInfo;
-elif [[ "$2" == "help" || "$2" == "-h" ]]; then
-    showHelp;
-fi;
-
-if [[ "$1" == "list" || "$1" == "-l" ]]; then
-    # uses list.sh
-    displayList;
-elif [[ "$1" == "kegs" || "$1" == "keg" ]]; then
-    # uses formula.sh
-    brewFormula;
-elif [[ "$1" == "save" || "$1" == "Save" ]]; then
-    # uses save.sh
-    saveConfig;
-elif [[ "$1" == "restore" || "$1" == "revert" ]]; then
-    # uses restore.sh
-    restoreConfig;
-elif [[ "$1" == "backup" || "$1" == "backup" ]]; then
-    # uses restore.sh
-    backupConfig;
-elif [[ "$1" == "iterm" || "$1" == "iterm2"  ]]; then
-    # uses itermconfig.sh
-    itermConfig;
-elif [[ "$1" == "cask" || "$1" == "casks" || "$1" == "-c" ]]; then
-    # uses cask.sh
-    brewCask;
-elif [[ "$1" == "apple" || "$1" == "-a" ]]; then
-    # uses apple (executable Applescript)
-    appleConfig;
-elif [[ "$1" == "dot" || "$1" == "-d" ]]; then
-    dotConfig;
-fi;
+case $1 in
+  help | -h) showHelp;;
+  list | -l) displayList;;
+  kegs | keg) brewFormula;;
+  save | Save) saveConfig;;
+  restore | revert) restoreConfig;;
+  iterm | iterm2) itermConfig;;
+  casks | cask) brewCask;;
+  apple | -a) appleConfig;;
+  dot | -d) dotConfig;;
+  help | -h) showHelp;;
+  *) showInfo;;
+esac
 
 unset showInfo;
 unset displayList;
